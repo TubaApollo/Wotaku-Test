@@ -195,27 +195,27 @@ All the listed sites contain a mix of Manga, Manhwa and Manhua.
 
 ## Online
 
-| Websites | Login | Tracking | Social |
-|----------|-------|--|----- |
-| [Comix](https://comix.to/home) ==Comix== | :yes: | :ie::e: | :ic-round-mode-comment: |
-| [Kagane](https://kagane.org/) ==Kagane== | :yes: |  :e: | :ic-round-mode-comment: |
-| [Weeb Central](https://weebcentral.com/) ==WeebCentral== | :yes: | :e:  | :ic-round-mode-comment: |
-| [Atsumaru](https://atsu.moe/) ==Atsumaru== | :yes: |  :e: | :ic-round-mode-comment: |
-| [MangaFire](https://mangafire.to/home) ==MangaFire== | :yes: |  :ie::e: | :no: |
-| [WeebDex](https://weebdex.org/) <Badge type="info" text="Manga"  /> | :yes: | :ie::e: | :ic-round-mode-comment: |
+| Websites | Tracking | Multi-Source | Social |
+|----------|--|--|----- |
+| [Comix](https://comix.to/home) ==Comix== | :ie::e: | :yes: | :ic-round-mode-comment: |
+| [Kagane](https://kagane.org/) ==Kagane== |  :e: | :yes: | :ic-round-mode-comment: |
+| [Weeb Central](https://weebcentral.com/) ==WeebCentral== | :e:  | :no: | :ic-round-mode-comment: |
+| [Atsumaru](https://atsu.moe/) ==Atsumaru== |  :e: | :no: | :ic-round-mode-comment: |
+| [MangaFire](https://mangafire.to/home) ==MangaFire== |  :ie::e: | :no: | :no: |
+| [WeebDex](https://weebdex.org/) <Badge type="info" text="Manga"  /> | :ie::e: | :yes: | :ic-round-mode-comment: |
 
-::: details More
-| Websites | Login | Tracking | Social |
-|----------|-------|----------|------- |
-| [Manga Katana](https://mangakatana.com/) | :yes: | :ie::e:  | :ic-round-mode-comment: |
-| [MangaTaro](https://mangataro.org/home) | :yes: | :ie::e:  | :ic-round-mode-comment: |
-| [Manga Buddy](https://mangabuddy.com/home) [:prx:](https://rentry.org/wotaxy#manga-buddy) | :yes: | :e:  | :ic-round-mode-comment: |
-| [Mangahub](https://mangahub.io/) :acc: | :yes: | :e:  | :ic-round-mode-comment: |
-| [Like Manga](https://likemanga.ink/) | :yes: | :e:  | :ic-round-mode-comment: |
-| [Manga Fox](https://mangafox.la/) [:prx:](https://rentry.org/wotaxy#manga-fox) | :yes: | :e:  | :ic-round-mode-comment: |
-| [MangaBall](https://mangaball.net/) | :yes: |  :e: | :ic-round-mode-comment: |
-| [MangaKakalot](https://www.mangakakalot.fan/) [:prx:](https://rentry.org/wotaxy#mangakakalot) | :yes: |  :e: | :ic-round-mode-comment: |
-| [24hNovel](https://24hnovel.com/) <Badge type="info" text="Manhua"  /> | :yes: | :no:  | :no: |
+::: details More {open}
+| Websites | Tracking | Multi-Source | Social |
+|----------|----------|--|------- |
+| [Manga Katana](https://mangakatana.com/) | :ie::e:  | :no: | :ic-round-mode-comment: |
+| [MangaTaro](https://mangataro.org/home) | :ie::e:  | Poor | :ic-round-mode-comment: |
+| [Manga Buddy](https://mangabuddy.com/home) [:prx:](https://rentry.org/wotaxy#manga-buddy) | :e:  | :no: | :ic-round-mode-comment: |
+| [Mangahub](https://mangahub.io/) :acc: | :e:  | :no: | :ic-round-mode-comment: |
+| [Like Manga](https://likemanga.ink/) | :e:  | :no: | :ic-round-mode-comment: |
+| [Manga Fox](https://mangafox.la/) [:prx:](https://rentry.org/wotaxy#manga-fox) | :e:  | :no: | :ic-round-mode-comment: |
+| [MangaBall](https://mangaball.net/) |  :e: | Poor | :ic-round-mode-comment: |
+| [MangaKakalot](https://www.mangakakalot.fan/) [:prx:](https://rentry.org/wotaxy#mangakakalot) |  :e: | :no: | :ic-round-mode-comment: |
+| [24hNovel](https://24hnovel.com/) <Badge type="info" text="Manhua"  /> | :no:  | :no: | :no: |
 :::
 
 ::: details Scrapers
