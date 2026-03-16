@@ -12,7 +12,8 @@ og:
 ### Anime
 - [Anime Nexus](https://anime.nexus/)
 - [AnimeStream](https://anime.uniquestream.net/)
-- [KickassAnime](https://kickass-anime.ru/) [:prx:](https://kickassanime.cx/)
+- [Kaido](https://kaido.to/home)
+- [KickassAnime](https://kickass-anime.ru/) [:prx:](https://kickassanime.cx/#domains)
 - [ToonsHub](https://www.toonshub.my.id/) :mag:
 
 ### Apps
