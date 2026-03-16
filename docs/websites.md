@@ -211,7 +211,6 @@ All the listed sites contain a mix of Manga, Manhwa and Manhua.
 | [MangaTaro](https://mangataro.org/home) | :yes: | :ie::e:  | :ic-round-mode-comment: |
 | [Manga Buddy](https://mangabuddy.com/home) [:prx:](https://rentry.org/wotaxy#manga-buddy) | :yes: | :e:  | :ic-round-mode-comment: |
 | [Mangahub](https://mangahub.io/) :acc: | :yes: | :e:  | :ic-round-mode-comment: |
-| [Dynasty Scans](https://dynasty-scans.com/) | :yes: | :e:  | :ic-round-forum: |
 | [Like Manga](https://likemanga.ink/) | :yes: | :e:  | :ic-round-mode-comment: |
 | [Manga Fox](https://mangafox.la/) [:prx:](https://rentry.org/wotaxy#manga-fox) | :yes: | :e:  | :ic-round-mode-comment: |
 | [MangaBall](https://mangaball.net/) | :yes: |  :e: | :ic-round-mode-comment: |
@@ -417,6 +416,7 @@ These sites contain a mix of both actual and AI-generated novels.
 - [BatCave.biz](https://batcave.biz/)
 - [Comic Book Plus](http://comicbookplus.com/) <Badge type="info" text="Vintage"/>
 - [Digital Comic Museum](https://digitalcomicmuseum.com/) <Badge type="info" text="Vintage"/>
+- [Read All Comics](https://readallcomics.com/)
 - [Read Comic Online (.li)](https://readcomiconline.li/) :s:
 - [Read Comics Online (.ru)](https://readcomicsonline.ru/)
 - [XOXO Comics](https://xoxocomic.com/) [:alt:](https://comichubfree.com/)
