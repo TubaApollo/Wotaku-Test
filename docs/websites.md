@@ -196,7 +196,7 @@ All the listed sites contain a mix of Manga, Manhwa and Manhua.
 ## Online
 
 | Websites | Tracking | Multi-Source | Social |
-|----------|--|--|----- |
+|----------|----------|--------------|--------|
 | [Comix](https://comix.to/home) ==Comix== | :ie::e: | :yes: | :ic-round-mode-comment: |
 | [Kagane](https://kagane.org/) ==Kagane== |  :e: | :yes: | :ic-round-mode-comment: |
 | [Weeb Central](https://weebcentral.com/) ==WeebCentral== | :e:  | :no: | :ic-round-mode-comment: |
@@ -204,9 +204,9 @@ All the listed sites contain a mix of Manga, Manhwa and Manhua.
 | [MangaFire](https://mangafire.to/home) ==MangaFire== |  :ie::e: | :no: | :no: |
 | [WeebDex](https://weebdex.org/) <Badge type="info" text="Manga"  /> | :ie::e: | :yes: | :ic-round-mode-comment: |
 
-::: details More {open}
+::: details More
 | Websites | Tracking | Multi-Source | Social |
-|----------|----------|--|------- |
+|----------|----------|--------------|------- |
 | [Manga Katana](https://mangakatana.com/) | :ie::e:  | :no: | :ic-round-mode-comment: |
 | [MangaTaro](https://mangataro.org/home) | :ie::e:  | Poor | :ic-round-mode-comment: |
 | [Manga Buddy](https://mangabuddy.com/home) [:prx:](https://rentry.org/wotaxy#manga-buddy) | :e:  | :no: | :ic-round-mode-comment: |
@@ -274,11 +274,11 @@ To make the cubari process easier, we have made [Kaguya](https://github.com/wota
 | ^^           | [Library Genesis+](https://libgen.li/) [:prx:](https://rentry.org/wotaslap) |
 | ^^           | [The Manga Library](https://rentry.org/wotadirect#websites) |
 | ^^           | [Internet Archive](https://archive.org/) |
-| **Rippers**  | [1r0n](https://nyaa.si/user/tsuna69)<tooltip>Available in description</tooltip> |
-| ^^           | [4str0 Releases](https://sheet.zohopublic.com/sheet/open/5hed58d39c2089692421f89b9e9a0435c7475?sheetid=0&range=A13) |
+| **Rippers**  | [1r0n](https://nyaa.si/user/tsuna69)<tooltip>DDL in torrent description</tooltip> |
+| ^^           | [4str0](https://sheet.zohopublic.com/sheet/open/5hed58d39c2089692421f89b9e9a0435c7475?sheetid=0&range=A13) |
 | ^^           | [Danke](https://desuarchive.org/_/search/text/(digital)%20(danke-empire)/) |
-| ^^           | [LuCaZ](https://nyaa.si/user/LuCaZ)<tooltip>Available in description</tooltip> |
-| ^^           | [Stick](https://nyaa.si/user/dumbboy58)<tooltip>Available in description</tooltip> |
+| ^^           | [LuCaZ](https://nyaa.si/user/LuCaZ)<tooltip>DDL in torrent description</tooltip> |
+| ^^           | [Stick](https://nyaa.si/user/dumbboy58)<tooltip>DDL in torrent description</tooltip> |
 | ^^           | [XRA](https://desuarchive.org/_/search/text/(digital)%20(xra-empire)/) <Badge type="tip" text="Old Releases" link="https://rentry.org/wotadirect" /> |
 
 
