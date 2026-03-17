@@ -113,7 +113,6 @@ ___
 ### Torrent
 
 - [Nyaa](https://nyaa.si/) :s: [:prx:](https://rentry.org/nyaap)
-- [Anirena](https://www.anirena.com/)
 - [nekoBT](https://nekobt.to/)
 - [Shana Project](https://www.shanaproject.com/)
 - [Tokyo Toshokan](https://www.tokyotosho.info/) [:alt:](https://tokyo-tosho.net/)
@@ -387,7 +386,7 @@ These sites contain a mix of both actual and AI-generated novels.
 - [Tokunation](https://news.tokunation.com/)
 - [The Tokusatsu Network](https://tokusatsunetwork.com/)
 - [Tsuburaya](https://tsuburaya-prod.com/)
-- [JEFusion](https://www.jefusion.com/) <Badge type="danger" icon="i-mdi-lightbulb-alert-outline" text="Spoiler" /> 
+- [JEFusion](https://jefusion.blogspot.com/) <Badge type="danger" icon="i-mdi-lightbulb-alert-outline" text="Spoilers" /> 
 - [Morphin Legacy](https://morphinlegacy.com/)
 - [Henshin Grid](https://henshingrid.blogspot.com/)
 - [My Shiny Toy Robots](https://www.myshinytoyrobots.com/)

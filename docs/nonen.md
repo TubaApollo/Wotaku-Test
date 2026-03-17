@@ -303,7 +303,7 @@ og:
   - [AnimeLok](https://animelok.site/home)
   - [Anime Joker](https://animejoker.com/)
   - [Anime Salt](https://animesalt.top/)
-  - [Anime World India](https://watchanimeworld.in/)
+  - [Anime World India](https://watchanimeworld.net/)
   - [Desi Dub Anime](https://www.desidubanime.me/)
   - [Dora Bash](https://dorabash.in/)
 - **DDL**

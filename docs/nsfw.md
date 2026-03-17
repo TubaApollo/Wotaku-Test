@@ -240,6 +240,7 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 - [Project JAV](https://projectjav.com/)
 - [One JAV](https://onejav.com/)
 - [141 JAV](https://www.141jav.com/) [:alt:](https://www.141ppv.com/)
+- [Tokyo Toshokan](https://www.tokyotosho.info/?cat=15) [:alt:](https://tokyo-tosho.net/?cat=15)
 
 ### Others
 - [Asia Media Blog](https://asiamediablog.com/) :host: [:prx:](https://rentry.org/wotaxy#asia-media-blog)
