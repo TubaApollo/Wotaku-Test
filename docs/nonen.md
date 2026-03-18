@@ -296,16 +296,16 @@ og:
 ### Anime
 
 - **Stream**
-  - [PirateXPlay](https://piratexplay.cc/home)
-  - [ToonStream](https://toonstream.love/)
   - [AllWish](https://all-wish.me/home)
   - [Aniflix](https://aniflix.uno/)
-  - [AnimeLok](https://animelok.site/home)
+  - [AnimeLok](https://animelok.xyz/home)
   - [Anime Joker](https://animejoker.com/)
   - [Anime Salt](https://animesalt.top/)
   - [Anime World India](https://watchanimeworld.net/)
   - [Desi Dub Anime](https://www.desidubanime.me/)
   - [Dora Bash](https://dorabash.in/)
+  - [PirateXPlay](https://piratexplay.cc/home)
+  - [ToonStream](https://toonstream.love/)
 - **DDL**
   - [AnimeVilla](https://animevilla.in/) :ero:
   - [ATOZ CARTOONIST](https://www.atozcartoonist.com/)
@@ -518,7 +518,6 @@ All websites listed here use slow host sites to store files, unless noted otherw
 - [Argos Comic](https://argoscomics.online/) :fjp::fkr::fcn::ero:
 - [Kakusei Project](https://kakuseiproject.com/) :fjp::ero:
 - [Ler Mangas](https://lermangas.me/) :fjp::fkr::fcn::ero:
-- [Tao Sect](https://taosect.com/) :fjp::fkr::fcn::ero:
 - [Yuri on Air](https://yurionair.top/) :fjp::fkr::fcn::ero:
 
 ### Tokusatsu
@@ -641,7 +640,6 @@ All websites listed here use slow host sites to store files, unless noted otherw
 - [MangaOni](https://manga-oni.com/)
 - [NOVA](https://novelasligeras.net/)
 - [Plot Twist No Fansub](https://plotnf.com/)
-- [TuMangaOnline](https://zonatmo.com/)
 
 ### Light Novels
 - [Next Novels](https://nextnovels.com/)
