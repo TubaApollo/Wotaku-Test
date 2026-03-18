@@ -24,7 +24,6 @@ For game [**downloads**](https://megathread.pages.dev/download) and [**emulation
 - [4Gamer](https://www.4gamer.net/) :fjp:
 - [Famitsu](https://www.famitsu.com/) :fjp:
 - [Frontline](https://www.frontlinejp.net/)
-- [GachaRevenue](https://www.gacharevenue.com/) [:src:](https://github.com/zigamacele/gacharevenue)
 - [Gematsu](https://www.gematsu.com/)
 - [Siliconera](https://www.siliconera.com/)
 - [RPGFan](https://www.rpgfan.com/) 

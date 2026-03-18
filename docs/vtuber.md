@@ -12,7 +12,7 @@ og:
 |-----------|----------|
 | Alt viewer | [Holodex](https://holodex.net/) :s: [:src:](https://github.com/HolodexNet/Holodex) |
 | ^^         | [Amatsukaze](https://amatsukaze.rl404.com/) [:src:](https://github.com/rl404/amatsukaze) |
-| ^^         | [Bācharu Toshokan](https://bacharu.xyz/) |
+| ^^         | [Bācharu Toshokan](https://bacharu.io/) |
 | Archive    | [Ragtag Archive](https://archive.ragtag.moe/) [:src:](https://github.com/ragtag-archive) |
 | ^^         | [Patchwork Archive](https://patchwork.moekyun.me/) [:src:](https://github.com/Patchwork-Archive/) |
 | ^^         | [Rebel's ASMR Archive](https://asmr.ahegao.dev/) |
