@@ -565,15 +565,16 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 ## Client
 | Platform | Software |
 |----------|----------|
-| **Android** | [Tempo](https://github.com/CappielloAntonio/tempo) :s: |
+| **Android** | [Tempus](https://github.com/eddyizm/tempus) :s: |
 | ^^ | [Castafiore](https://github.com/sawyerf/Castafiore) :ff::cr: |
-| ^^ | [Subtracks](https://github.com/austinried/subtracks) |
+| ^^ | [Navic](https://navic.app/) |
 | ^^ | [substreamer](https://substreamerapp.com/) |
 | ^^ | [Ultrasonic](https://ultrasonic.gitlab.io/) |
 | ^^ | [Plexamp](https://www.plex.tv/plexamp/) :fm: |
 | ^^ | [Symfonium](https://symfonium.app/) :paid: |
 | **iOS** | [play:Sub](http://michaelsapps.dk/playsubapp/) |
 | ^^ | [substreamer](https://substreamerapp.com/) |
+| ^^ | [Navic](https://navic.app/) |
 | ^^ | [Amperfy](https://github.com/BLeeEZ/amperfy) |
 | ^^ | [iSub](https://isub.app) |
 | ^^ | [Narjo](https://narjomusic.com/) |

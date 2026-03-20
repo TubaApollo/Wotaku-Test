@@ -405,6 +405,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [RawBaka](https://rawbaka.com/)
 - [Rawkuma](https://rawkuma.net/)
 - [RAW LAZY](https://rawlazy.io/)
+- [Raw Otaku](https://rawotaku.com/home/) [:alt:](https://jmanga.codes/home/)
 - [RawUwU](https://rawuwu.net/) [:alt:](https://rawdevart.art/)
 - [Sen Manga](https://raw.senmanga.com/)
 - [Twicomi](https://twicomi.com/)
