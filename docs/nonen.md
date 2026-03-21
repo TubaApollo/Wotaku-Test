@@ -10,11 +10,16 @@ og:
 ## Multi Language
 
 ### Anime
-- [Anime Nexus](https://anime.nexus/)
-- [AnimeStream](https://anime.uniquestream.net/)
-- [Kaido](https://kaido.to/home)
-- [KickassAnime](https://kickass-anime.ru/) [:prx:](https://kickassanime.cx/#domains)
-- [ToonsHub](https://www.toonshub.my.id/) :mag:
+
+- **Stream**
+  - [Anime Nexus](https://anime.nexus/)
+  - [AnimeStream](https://anime.uniquestream.net/)
+  - [Kaido](https://kaido.to/home)
+  - [KickassAnime](https://kickass-anime.ru/) [:prx:](https://kickassanime.cx/#domains)
+- **Torrent**
+  - [Erai-raws](https://nyaa.si/user/Erai-raws)
+  - [ToonsHub](https://www.toonshub.my.id/)
+  - [Varyg](https://nyaa.si/user/varyg1001)
 
 ### Apps
 - [Mihon](https://github.com/mihonapp/mihon) [:e:](/guides/ext/mihon)
@@ -95,7 +100,6 @@ og:
 - **Stream**
   - [AGE](https://www.agedm.io/) [:prx:](https://rentry.org/agefans)
   - [Bimibimi](http://www.bimiacg10.net/)
-  - [CC](https://ccdm.cc/)
   - [MoMoVod](https://momovod.app/show/30.html)
   - [XG Cartoon](https://www.xgcartoon.com/)
   - [Yinghuacd](https://www.yinhuadm.cc/) [:prx:](http://yinhuadm.one/)
