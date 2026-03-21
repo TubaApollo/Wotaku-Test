@@ -1,3 +1,3 @@
 - Huge library.
-- Has multi-language softsub for some titles.
+- Has multi-language softsub until Winter 2026 season.
 - Re-encodes shows for smaller size.

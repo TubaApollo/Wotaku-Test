@@ -13,6 +13,21 @@ For game [**downloads**](https://megathread.pages.dev/download) and [**emulation
 
 ## Info
 
+### Database / Tracker
+
+- [Backloggd](https://www.backloggd.com/)
+- [Epic Games Database](https://egdata.app/)
+- [GameTDB](https://www.gametdb.com/)
+- [GOG Database](https://www.gogdb.org/)
+- [HowLongToBeat](https://howlongtobeat.com/)
+- [IGDB](https://www.igdb.com/)
+- [Infinite Backlog](https://infinitebacklog.net/) :s:
+- [Kaguya](https://kaguya.io/)
+- [MobyGames](https://www.mobygames.com/)
+- [SteamDB](https://steamdb.info/)
+- [The Doujin RPG Database (Nepchan)](https://nepchan.org/)
+- [The Visual Novel Database (VNDB)](https://vndb.org/) :s:
+
 ### Guides
 
 - [Game8](https://game8.co/)
@@ -31,25 +46,10 @@ For game [**downloads**](https://megathread.pages.dev/download) and [**emulation
 - [RPG Site](https://www.rpgsite.net/)
 
 ### Price
+
 - [Deku Deals](https://www.dekudeals.com/)
 - [GG.deals](https://gg.deals/)
 - [psprices](https://psprices.com/)
-
-### Tracker
-
-- [Backloggd](https://www.backloggd.com/)
-- [Epic Games Database](https://egdata.app/)
-- [GameTDB](https://www.gametdb.com/)
-- [GOG Database](https://www.gogdb.org/)
-- [HowLongToBeat](https://howlongtobeat.com/)
-- [IGDB](https://www.igdb.com/)
-- [Infinite Backlog](https://infinitebacklog.net/) :s:
-- [Kaguya](https://kaguya.io/)
-- [MobyGames](https://www.mobygames.com/)
-- [SteamDB](https://steamdb.info/)
-- [The Doujin RPG Database (Nepchan)](https://nepchan.org/)
-- [The Visual Novel Database (VNDB)](https://vndb.org/) :s:
-- [VNStat](https://vnstat.net/)
 
 ## Tools
 
@@ -159,7 +159,7 @@ For game [**downloads**](https://megathread.pages.dev/download) and [**emulation
 
 ## Touhou
 
-### Databases / News
+### Database / News
 - [Touhou Wiki](https://en.touhouwiki.net/wiki/Touhou_Wiki)
 - [Touhou Yomoyama News](https://touhou-project.news/) :fjp:
  
@@ -202,7 +202,7 @@ For game [**downloads**](https://megathread.pages.dev/download) and [**emulation
 
 ## Yu-Gi-Oh!
 
-### Databases / News
+### Database / News
 - [Yu-Gi-Oh!](https://www.yugioh-card.com/) <Badge type="info" text="Official" />
 - [Card Database](https://www.db.yugioh-card.com/yugiohdb/) <Badge type="info" text="Official" />
 - [YGOrganization](https://ygorganization.com/)

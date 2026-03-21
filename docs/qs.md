@@ -126,7 +126,7 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 :::
 
 
-### Database & Tracker
+### Database / Tracker
 
 | Category   | Resource |
 |------------|--------------------------------------------------|
