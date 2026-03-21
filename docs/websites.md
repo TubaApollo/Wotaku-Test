@@ -442,7 +442,8 @@ These sites contain a mix of both actual and AI-generated novels.
 | ^^                     | [How To Love Comics](https://www.howtolovecomics.com/) |
 | ^^                     | [Marvel Guides](https://marvelguides.com/) |
 | ^^                     | [Official Marvel Guides](https://www.marvel.com/comics/guides) |
-| **Portal**             | [Comic Book Roundup](https://comicbookroundup.com/) |
+| **Portal**             | [13th Dimension](https://13thdimension.com/) |
+| ^^                     | [Comic Book Roundup](https://comicbookroundup.com/) |
 | ^^                     | [Comic Watch](https://comic-watch.com/) |
 | ^^                     | [The Beat](https://www.comicsbeat.com/) |
 | ^^                     | [The Comics Journal](https://www.tcj.com/) |
