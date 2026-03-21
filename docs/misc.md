@@ -70,10 +70,15 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 - [Behind The Voice Actors](https://www.behindthevoiceactors.com/)
 
 ## Others
-- [FanCons](https://fancons.com/) [:alt:](https://animecons.com/)
-- [MyDramaList](https://mydramalist.com/)
-- [TV Drama Database](http://www.tvdrama-db.com/) :fjp:
-- [UpcomingCons](https://upcomingcons.com/)
+| Section | Websites |
+|-|-|
+| Cons    | [FanCons](https://fancons.com/) [:alt:](https://animecons.com/) |
+| ^^      | [UpcomingCons](https://upcomingcons.com/) |
+| Drama / Live action | [MyDramaList](https://mydramalist.com/) |
+| ^^      | [TV Drama Database](http://www.tvdrama-db.com/) :fjp: |
+| Games / VN | [The Visual Novel Database (VNDB)](https://vndb.org/) :s: |
+| ^^      | [Kaguya](https://kaguya.io/) |
+| ^^      | [The Doujin RPG Database (Nepchan)](https://nepchan.org/) |
 
 ::: details Related resources
 - [Tracker apps for phone](/software#trackers)
