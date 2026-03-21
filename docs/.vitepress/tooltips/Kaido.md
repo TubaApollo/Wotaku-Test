@@ -1,3 +1,3 @@
 - Huge library.
-- Has multi-language softsub.
+- Has multi-language softsub for some titles.
 - Re-encodes shows for smaller size.

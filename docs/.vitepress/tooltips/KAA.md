@@ -1,3 +1,3 @@
 - Upload their own encodes on Videstreaming and Catstream.
-- Good for airing anime.
-- Has good amount of missing old titles, but you can request them in their support server.
+- Has multi-language softsub.
+- Missing some older titles, but you can request them in their support server.

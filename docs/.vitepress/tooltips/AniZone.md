@@ -1,3 +1,4 @@
-- Re-encoded to smaller file size.
-- Very small library size.
+- Re-encodes shows for smaller size.
+- Has multi-language softsub.
+- Very small library.
 - Good for airing shows.

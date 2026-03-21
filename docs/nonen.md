@@ -12,9 +12,8 @@ og:
 ### Anime
 
 - **Stream**
-  - [Anime Nexus](https://anime.nexus/)
   - [AnimeStream](https://anime.uniquestream.net/)
-  - [Kaido](https://kaido.to/home)
+  - [Anime Nexus](https://anime.nexus/)
   - [KickassAnime](https://kickass-anime.ru/) [:prx:](https://kickassanime.cx/#domains)
 - **Torrent**
   - [Erai-raws](https://nyaa.si/user/Erai-raws)
