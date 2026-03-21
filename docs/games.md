@@ -186,19 +186,21 @@ For game [**downloads**](https://megathread.pages.dev/download) and [**emulation
 - [Touhou Toolkit](https://thtk.thpatch.net/) [:src:](https://github.com/thpatch/thtk)
 - [thprac](https://github.com/touhouworldcup/thprac)
 
-### Others
-- [Fantasy Kaleidoscope ~The Memories of Phantasm~](https://www.youtube.com/playlist?list=PLUGHUFEjeh3FCf6_xeGSIU7bRQBxuO-05)
-- [Touhou Doujinshi Index](https://scarlet.nsk.sh/) [:src:](https://github.com/nanoskript/touhou-doujinshi-index) <Badge type="tip" text="Terms" link="https://nanoskript.dev/touhou/" />
-- **Music**
-  - Info / Wiki
-    - [THB Wiki](https://thwiki.cc/) :fcn:
-    - [Touhou Wiki](https://en.touhouwiki.net/wiki/Touhou_Wiki)
-    - [Touhou Spotify Music](https://docs.google.com/spreadsheets/d/1VXVii8-qnAxjjyi5i_F97SPPOd0KTLx5bKkXx4ZzTc0/edit#gid=0)
-  - Download / Streaming
-    - [Gensokyo Radio](https://gensokyoradio.net/playing/) <Badge type="tip" icon="i-material-symbols-download-2" text="256kbps" link="https://stream.gensokyoradio.net/GensokyoRadio-enhanced.m3u" />
-    - [Touhou Disc](https://alist.thdisc.tk)
-    - [Touhou Lossess Music Collection](https://tlmc.pf-n.co/tlmc)
-    - [Touhou Player](https://touhou.kuukunen.net/)
+::: details Related resources
+
+| Section | Websites |
+|-|-|
+| Info / Wiki | [THB Wiki](https://thwiki.cc/) :fcn: |
+| ^^          | [Touhou Doujinshi Index](https://scarlet.nsk.sh/) [:src:](https://github.com/nanoskript/touhou-doujinshi-index) <Badge type="tip" text="Terms" link="https://nanoskript.dev/touhou/" /> |
+| ^^          | [Touhou Wiki](https://en.touhouwiki.net/wiki/Touhou_Wiki) |
+| ^^          | [Touhou Spotify Music](https://docs.google.com/spreadsheets/d/1VXVii8-qnAxjjyi5i_F97SPPOd0KTLx5bKkXx4ZzTc0/edit#gid=0) |
+| Music       | [Gensokyo Radio](https://gensokyoradio.net/playing/) <Badge type="tip" icon="i-material-symbols-download-2" text="256kbps" link="https://stream.gensokyoradio.net/GensokyoRadio-enhanced.m3u" /> |
+| ^^          | [Touhou Disc](https://alist.thdisc.tk) |
+| ^^          | [Touhou Lossess Music Collection](https://tlmc.pf-n.co/tlmc) |
+| ^^          | [Touhou Player](https://touhou.kuukunen.net/) |
+| Others      | [Fantasy Kaleidoscope ~The Memories of Phantasm~](https://www.youtube.com/playlist?list=PLUGHUFEjeh3FCf6_xeGSIU7bRQBxuO-05) |
+
+:::
 
 ## Yu-Gi-Oh!
 
