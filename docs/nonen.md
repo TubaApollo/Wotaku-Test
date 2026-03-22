@@ -304,6 +304,7 @@ og:
   - [Anime Joker](https://animejoker.com/)
   - [Anime Salt](https://animesalt.top/)
   - [Anime World India](https://watchanimeworld.net/)
+  - [AniMoye](https://animoye.com/)
   - [Desi Dub Anime](https://www.desidubanime.me/)
   - [Dora Bash](https://dorabash.in/)
   - [PirateXPlay](https://piratexplay.cc/home)
