@@ -76,9 +76,9 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 | ^^      | [UpcomingCons](https://upcomingcons.com/) |
 | Drama / Live action | [MyDramaList](https://mydramalist.com/) |
 | ^^      | [TV Drama Database](http://www.tvdrama-db.com/) :fjp: |
-| Games / VN | [The Visual Novel Database (VNDB)](https://vndb.org/) :s: |
+| Games / VN | [VNDB](https://vndb.org/) :s: |
 | ^^      | [Kaguya](https://kaguya.io/) |
-| ^^      | [The Doujin RPG Database (Nepchan)](https://nepchan.org/) |
+| ^^      | [Nepchan](https://nepchan.org/) |
 
 ::: details Related resources
 - [Tracker apps for phone](/software#trackers)

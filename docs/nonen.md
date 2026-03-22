@@ -222,7 +222,7 @@ og:
 
 ### Manga
 
-- [Japscan](https://www.japscan.lol/)
+- [Japscan](https://www.japscan.foo/)
 - [LPEBK](https://www.lpebk.com/forumv2/) :ddl::acc:
 - [Mangadraft](https://www.mangadraft.com/)
 - [Mangakawaii](https://www.mangakawaii.io/)
@@ -238,7 +238,6 @@ og:
 ## German
 
 ### Anime
-
 - [German Fansubbers' Index](https://anime-fansubs.de/)
 - [Amalgam Fansubs](https://amalgam-fansubs.moe/) :strm::ddl:
 - [Anime Archive](https://anime-archive.com/) :ddl:
@@ -255,6 +254,7 @@ og:
 
 ### Info / News
 - [aniSearch](https://www.anisearch.de/)
+- [JAM-Cons](https://www.jam-cons.net/con-kalender)
 - [Manga Passion](https://www.manga-passion.de/)
 - [The Incomplete Manga-Guide](https://mangaguide.de/)
 

@@ -24,9 +24,9 @@ For game [**downloads**](https://megathread.pages.dev/download) and [**emulation
 - [Infinite Backlog](https://infinitebacklog.net/) :s:
 - [Kaguya](https://kaguya.io/)
 - [MobyGames](https://www.mobygames.com/)
+- [Nepchan](https://nepchan.org/)
 - [SteamDB](https://steamdb.info/)
-- [The Doujin RPG Database (Nepchan)](https://nepchan.org/)
-- [The Visual Novel Database (VNDB)](https://vndb.org/) :s:
+- [VNDB](https://vndb.org/) :s:
 
 ### Guides
 
