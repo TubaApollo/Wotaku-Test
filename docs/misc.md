@@ -77,7 +77,6 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 | Drama / Live action | [MyDramaList](https://mydramalist.com/) |
 | ^^      | [TV Drama Database](http://www.tvdrama-db.com/) :fjp: |
 | Games / VN | [VNDB](https://vndb.org/) :s: |
-| ^^      | [Kaguya](https://kaguya.io/) |
 | ^^      | [Nepchan](https://nepchan.org/) |
 
 ::: details Related resources

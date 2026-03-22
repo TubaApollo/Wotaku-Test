@@ -22,7 +22,6 @@ For game [**downloads**](https://megathread.pages.dev/download) and [**emulation
 - [HowLongToBeat](https://howlongtobeat.com/)
 - [IGDB](https://www.igdb.com/)
 - [Infinite Backlog](https://infinitebacklog.net/) :s:
-- [Kaguya](https://kaguya.io/)
 - [MobyGames](https://www.mobygames.com/)
 - [Nepchan](https://nepchan.org/)
 - [SteamDB](https://steamdb.info/)
