@@ -176,7 +176,7 @@ ___
   - [Original version](https://docs.google.com/document/d/1OwVPStFrXRjXvzmrFQUfXpEiPNspYq6JYxA4zDTlhPM/edit)
   - [Mordraug version](https://docs.google.com/document/d/1XpuXerkGU8waJ4DPDNJA4bGeqOvM-csXjTe57iHARHc/edit)
   - [Kellen version](https://kellenok.github.io/cure-script/) :s:
-  - [Archive by Yomsi](https://rentry.org/wotadirect)
+  - [Archive by Yomsi](https://rentry.org/wotadirect#japanlanguage)
 - [Learning Japanese When You Think In A Western Language](https://kimallen.sheepdogdesign.net/)
 - [昨日 Sakubi: Yesterday's Grammar Guide](https://sakubi.neocities.org/)
   - [Tylab version](https://tylab.dev/sakubi/home.html)

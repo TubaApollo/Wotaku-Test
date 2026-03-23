@@ -55,7 +55,7 @@ og:
 - [Tokuzilla](https://tokuzilla.net/) [:alt:](https://tokuzl.net/)
 - [Toku555](https://toku555.com/)
 - [JP-Films](https://jp-films.com/)
-- [DramaSuki](https://rentry.org/wotadirect) :ddl:
+- [DramaSuki](https://rentry.org/wotadirect#japanimmersion) :ddl:
 - [Rare Doramas](https://www.raredoramas.com/) :ddl:
 - [Japanese Movies Subtitles](https://github.com/eurusdagr/Japanese-Movies-Subtitles)
 - [JPFiles](https://jpfiles.net/) :ddl::host::mdi-disc:
@@ -82,7 +82,7 @@ og:
   - [Ajatt-Tools](https://github.com/Ajatt-Tools/kitsunekko-mirror)
 - [JPTV.club subtitle archive](https://rentry.org/wotadirect#japanimmersion)
 - [itazuraneko](https://djtguide.github.io/library/sub)
-- [Xavier's Retimed JP Sub Pack](https://rentry.org/wotadirect)
+- [Xavier's Retimed JP Sub Pack](https://rentry.org/wotadirect#japanimmersion)
 - [JP Subtitles](https://github.com/Matchoo95/JP-Subtitles)
 - [JP Audiobook Subtitles](https://github.com/ym1234/JPAudiobookSubtitles)
 - [Fully Automatic Retiming of Subtitles](https://youtu.be/x0h3ooBHrpk)
@@ -112,12 +112,12 @@ To remove clutter and dupe links, raw manga websites have been move to [**Non-En
 - [All EPUBs](https://boroboro.neocities.org/listfullepub)
 - [Aozora Bunko](https://www.aozora.gr.jp/)
 - [boroboro](https://boroboro.neocities.org/)
-- [Japanese Learner’s Anthology](https://rentry.org/wotadirect) 
+- [Japanese Learner’s Anthology](https://rentry.org/wotadirect#japanimmersion) 
 - [lolibrary](https://lolibrary.moe/) <tooltip>It's just an index, specially for TMW collection.</tooltip>
 - [Kakuyomu](https://kakuyomu.jp/) `WN`
 - [Nyaa](https://nyaa.si/?f=0&c=3_3&q=) :s: [:prx:](https://rentry.org/nyaap)
 - [Syosetu](https://syosetu.com/) `WN`
-- [TMW eBook Collection](https://rentry.org/wotadirect)
+- [TMW eBook Collection](https://rentry.org/wotadirect#japanimmersion)
 
 <Block icon="i-mdi-lightbulb-alert-outline" link="/nonen#japanese" >More in manga direct download</Block>
 
@@ -125,7 +125,7 @@ To remove clutter and dupe links, raw manga websites have been move to [**Non-En
 
 ### Audiobook
 - [Nyaa.si](https://nyaa.si/) :s: [:prx:](https://rentry.org/nyaap)
-- [TMW Japanese Audiobooks Collection](https://rentry.org/wotadirect)
+- [TMW Japanese Audiobooks Collection](https://rentry.org/wotadirect#japanimmersion) <Badge type="tip" text="Index" link="https://coreaudio.netlify.app/" />
 - [Librivox](https://librivox.org/)
 - [Aozora Roudoku](https://aozoraroudoku.jp/index.html)
 

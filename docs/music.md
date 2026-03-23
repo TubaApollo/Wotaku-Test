@@ -509,7 +509,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 
 ### Related Links
 - [SynthV.info](https://synthv.info/)
-- [CeVIO Voice Database Installer Archive](https://rentry.org/wotadirect)
+- [CeVIO Voice Database Installer Archive](https://rentry.org/wotadirect#music)
 - [RuTracker.org](https://rutracker.org/forum/index.php)
 
 ::: info Introduction / Guide

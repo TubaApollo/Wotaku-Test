@@ -278,7 +278,7 @@ To make the cubari process easier, we have made [Kaguya](https://github.com/wota
 | ^^           | [Danke](https://desuarchive.org/_/search/text/(digital)%20(danke-empire)/) |
 | ^^           | [LuCaZ](https://nyaa.si/user/LuCaZ)<tooltip>DDL in torrent description</tooltip> |
 | ^^           | [Stick](https://nyaa.si/user/dumbboy58)<tooltip>DDL in torrent description</tooltip> |
-| ^^           | [XRA](https://desuarchive.org/_/search/text/(digital)%20(xra-empire)/) <Badge type="tip" text="Old Releases" link="https://rentry.org/wotadirect" /> |
+| ^^           | [XRA](https://desuarchive.org/_/search/text/(digital)%20(xra-empire)/) <Badge type="tip" text="Old Releases" link="https://rentry.org/wotadirect#websites" /> |
 
 
 ::: details  Related resources
