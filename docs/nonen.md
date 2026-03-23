@@ -548,7 +548,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 - [AnimeBuff](https://animebuff.ru/) <Badge type="info" text="Sub" />
 - [AnimeJoy](https://animejoy.ru/)
 - [Animelayer](http://animelayer.ru/) :mag:
-- [AnimeLIB](https://anilib.me/) [:alt:](https://animelib.org/)
+- [AnimeLIB](https://animelib.org/ru) [:alt:](https://anilib.me/ru)
 - [AnimeStars](https://animestars.org/) <Badge type="info" text="Aggregator" />
 - [Animevost](https://animevost.org/)
 - [Anisun](https://anisun.vercel.app/en) [:src:](https://github.com/notwindstone/anisun)

@@ -42,7 +42,7 @@ og:
 | Category  | Software |
 |-----------|----------|
 | **Local** | [mpvEx](https://github.com/marlboro-advance/mpvEx) :s: :and: [:n:](https://marlboro-advance.github.io/mpvEx/) |
-| ^^        | ^[MX Player](Don't install the play store version as it was bought by Amazon, use Balatan's mod instead. You can get the codecs from https://mx.j2inter.com/download) :s: :and::cs: |
+| ^^        | ^[MX Player](Don't install the Play Store version as it was bought by Amazon, use Balatan's mod instead.) :s: :and::cs: |
 | ^^        | [mpvKt](https://github.com/abdallahmehiz/mpvKt) :and: [:n:](https://nightly.link/abdallahmehiz/mpvKt/workflows/nightlies/main) |
 | ^^        | [mpv-android](https://github.com/mpv-android/mpv-android) |
 | ^^        | [VLC for Android](https://play.google.com/store/apps/details?id=org.videolan.vlc) :and: |

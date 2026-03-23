@@ -121,7 +121,6 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | [Lucida](https://lucida.to/) :s: | Multi-Service |
 | [DoubleDouble](https://doubledouble.top/) :s: | ^^ |
 | [Squid.wtf](https://squid.wtf/) | ^^ |
-| [T2Tunes](https://t2tunes.site/) | Amazon |
 | [am-dl](https://am-dl.pages.dev/) | Apple |
 | [YAMS](https://yams.tf/) :acc: | Deezer, Qobuz |
 | [ARCOD](https://www.arcod.xyz/) :acc: | Qobuz |
@@ -568,16 +567,13 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | **Android** | [Tempus](https://github.com/eddyizm/tempus) :s: |
 | ^^ | [Castafiore](https://github.com/sawyerf/Castafiore) :ff::cr: |
 | ^^ | [Navic](https://navic.app/) |
-| ^^ | [substreamer](https://substreamerapp.com/) |
 | ^^ | [Ultrasonic](https://ultrasonic.gitlab.io/) |
 | ^^ | [Plexamp](https://www.plex.tv/plexamp/) :fm: |
 | ^^ | [Symfonium](https://symfonium.app/) :paid: |
-| **iOS** | [play:Sub](http://michaelsapps.dk/playsubapp/) |
-| ^^ | [substreamer](https://substreamerapp.com/) |
+| **iOS** | [Amperfy](https://github.com/BLeeEZ/amperfy) |
 | ^^ | [Navic](https://navic.app/) |
-| ^^ | [Amperfy](https://github.com/BLeeEZ/amperfy) |
-| ^^ | [iSub](https://isub.app) |
 | ^^ | [Narjo](https://narjomusic.com/) |
+| ^^ | [play:Sub](http://michaelsapps.dk/playsubapp/) :paid: |
 | **Desktop** | [Supersonic](https://github.com/dweymouth/supersonic) :win::app::lin: |
 | ^^ | [Sublime Music](https://sublimemusic.app/) :lin: |
 | ^^ | [Submariner](https://submarinerapp.com/) :app: |
