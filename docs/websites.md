@@ -304,7 +304,6 @@ To make the cubari process easier, we have made [Kaguya](https://github.com/wota
 - [VyNovel](https://vynovel.com/)
 - [NovelFire](https://novelfire.net/home)
 - [NovelList](https://www.novellist.co/)
-- [Novels Online](https://novelsonline.org/)
 - [Novel Bin](https://novelbin.com/) [:prx:](https://rentry.org/wotaxy#novel-bin)
 - [All Novel](https://allnovel.org/)
 - [Novel Full](https://novelfull.net/)
