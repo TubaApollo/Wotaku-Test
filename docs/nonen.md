@@ -726,8 +726,8 @@ All websites listed here use slow host sites to store files, unless noted otherw
 ### Hentai
 - [DuaLeoTruyen](https://dualeotruyenvh.com/)
 - [HentaiCube](https://hentaicube.xyz/)
-- [HentaiVN](https://hentaivn.show/)
 - [KuroNeko](https://vi-hentai.com/)
+- [qManga](https://qmanga.art/)
 - [TruyenHentaiVN](https://truyenhentaivn.club/)
 
 ### Novels

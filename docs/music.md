@@ -122,11 +122,10 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | [DoubleDouble](https://doubledouble.top/) :s: | ^^ |
 | [Squid.wtf](https://squid.wtf/) | ^^ |
 | [am-dl](https://am-dl.pages.dev/) | Apple |
-| [YAMS](https://yams.tf/) :acc: | Deezer, Qobuz |
 | [ARCOD](https://www.arcod.xyz/) :acc: | Qobuz |
 | [DAB Music Player](https://dabmusic.xyz/) :acc: | ^^ |
 | [Jumo-DL](https://jumo-dl.pages.dev/) | ^^ |
-| [Monochrome](https://monochrome.tf/) | Tidal |
+| [Monochrome](https://monochrome.tf/) [:src:](https://github.com/monochrome-music/monochrome) | Tidal |
 | [QQDL](https://qqdl.site/) | ^^ |
 
 ## Doujin

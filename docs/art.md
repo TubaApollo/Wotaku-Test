@@ -65,7 +65,7 @@ og:
 - [Mikubooru](https://booru.funmaker.moe/) [:src:](https://github.com/funmaker/hybooru) <Badge type="green" link="" text="SFW"/>
 - [Safebooru](https://safebooru.org/) <Badge type="green" text="SFW" />
 - [yande.re](https://yande.re/)
-- [Zerochan](https://www.zerochan.net/) <Badge type="green" text="SFW" />
+- [Zerochan](https://www.zerochan.net/?p=1) <Badge type="green" text="SFW" />
 
 ## Sakuga
 - [Sakuga Booru](https://www.sakugabooru.com/) :s: <Badge type="green" text="SFW" />
