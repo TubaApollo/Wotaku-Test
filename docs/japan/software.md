@@ -124,7 +124,6 @@ ___
 #### Android
 - [jidoujisho](https://github.com/lrorpilla/jidoujisho) :s:
 - [Easy Japanese](https://play.google.com/store/apps/details?id=mobi.eup.jpnews) [:web:](https://japanese.todaiinews.com/)
-- [OCR Manga Reader for Android](https://sourceforge.net/projects/ocrmangareaderforandroid/)
 - [Satori Reader](https://play.google.com/store/apps/details?id=com.braksoftware.SatoriReader) [:web:](https://www.satorireader.com/)
 - [Write It! Japanese](https://play.google.com/store/apps/details?id=com.jernung.writeit.jpn)
 ___
@@ -232,4 +231,4 @@ ___
 - [imajin.py](https://github.com/YonKuma/imajin.py)
 - [LN Readability](https://colab.research.google.com/github/Gilfaro/ln-recommender/blob/main/LNReadability.ipynb)
 - [Supermemo](https://super-memory.com/) <Badge type="warning" text="Trialware"/><Badge type="tip" text="Wiki" link="https://www.supermemo.wiki/en/home" />
-- :more: [OCR/Translator section](/software#ocr-translator)
+- :more: [OCR section](/software#ocr)

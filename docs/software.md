@@ -460,23 +460,31 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 [**Android apps**](#manga-readers) that support the mihon extension system, can be used as clients for Jellyfin, Komga, Kavita & LANraragi. You can get extensions from [**here**](/guides/tech/repo).
 :::
 
-## OCR / Translator
-- [Ballons Translator](https://github.com/dmMaze/BallonsTranslator)
-- [Capture2text](https://capture2text.sourceforge.net/)
-- [Chrome Lens OCR](https://github.com/dimdenGD/chrome-lens-ocr) :s:
-- [Imagetrans](https://www.basiccat.org/imagetrans/) :cs: <Badge type="tip" text="Plugins" link="https://github.com/xulihang/ImageTrans_plugins" />
-- [Interpreter](https://github.com/bquenin/interpreter)
-- [Kanji tomo](https://www.kanjitomo.net/)
-- [Luna Translator](https://github.com/HIllya51/LunaTranslator)
-- [Manatan](https://github.com/KolbyML/Manatan)
-- [Manga OCR](https://github.com/kha-white/manga-ocr)
-- [Mokuro](https://github.com/kha-white/mokuro)
-- [OwOCR](https://github.com/AuroraWright/owocr) :s:
-- [Poricom](https://github.com/blueaxis/Poricom)
-- [Transformers OCR](https://github.com/Ajatt-Tools/transformers_ocr)
-- [Yomiwa](https://www.yomiwa.net/) :cs:
-- :more: [OCR Game tools](/games#ocr)
+## OCR
+
+- [Chrome Lens OCR](https://github.com/dimdenGD/chrome-lens-ocr) :s::mdi-npm-variant:
+- [OwOCR](https://github.com/AuroraWright/owocr) :s::win::app::py:
+- [Manga OCR](https://github.com/kha-white/manga-ocr) :py:
+    - [Mokuro](https://github.com/kha-white/mokuro) :py:
+    - [Poricom](https://github.com/blueaxis/Poricom) :win:
+
+::: details More
+| Focus | Software | Platforms |
+| :--- | :--- | :--- |
+| **General** | [Manatan](https://manatan.com/) [:src:](https://github.com/KolbyML/Manatan) | :and::win::app::lin: |
+| ^^ | [Kanji Tomo](https://www.kanjitomo.net/) [:src:](https://github.com/sakarika/kanjitomo-ocr) | :win: |
+| ^^ | [Yomiwa](https://www.yomiwa.net/) :cs: | :and::app: |
+| **Manga** | [Ballons Translator](https://github.com/dmMaze/BallonsTranslator) | :win::py: |
+| ^^ | [Capture2text](https://capture2text.sourceforge.net/) | :win: |
+| ^^ | [OCR Manga Reader](https://ocrmangareaderforandroid.sourceforge.net/) (https://sourceforge.net/projects/ocrmangareaderforandroid/) | :and: |
+| ^^ | [Lancet](https://github.com/Ajatt-Tools/lancet) | :win::py: |
+| **Games** | [Agent](https://github.com/0xDC00/agent) | :win::app::lin: |
+| ^^ | [Interpreter](https://github.com/bquenin/interpreter) | :win::app::lin: |
+| ^^ | [MTool](https://mtool.app/?lang=en) :cs::fm: | :win::and: |
+| ^^ | [Luna Translator](https://github.com/HIllya51/LunaTranslator) | :win: |
+| ^^ | [YomiNinja](https://github.com/matt-m-o/YomiNinja) | :win::app::lin: |
+:::
 
 :::danger Don't use MTL
-Using Machine Translation to translate manga will be a mess. Manga has lots of slang, cultural references, and visual elements that MTL won't understand. So, it's better to have a human translator who knows the language and culture well. You don't want to end up with a wonky or inaccurate translation!
+Using Machine Translation to translate manga will be a mess. Language has lots of slang, cultural references, and visual elements that MTL won't understand. So, it's better to have a human translator who knows the language and culture well. You don't want to end up with a wonky or inaccurate translation!
 :::

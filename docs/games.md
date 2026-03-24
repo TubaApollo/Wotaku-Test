@@ -66,10 +66,6 @@ For game [**downloads**](https://megathread.pages.dev/download) and [**emulation
 - [WuWa Tracker](https://wuwatracker.com/)
 - [XIVLauncher](https://goatcorp.github.io/) [:src:](https://github.com/goatcorp/FFXIVQuickLauncher)
 
-### OCR
-- [Agent](https://github.com/0xDC00/agent)
-- [MTool](https://trs.mtool.app/release.php?lang=en) :fm:
-- [YomiNinja](https://github.com/matt-m-o/YomiNinja)
 
 ## osu!
 
