@@ -476,7 +476,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 | ^^ | [Yomiwa](https://www.yomiwa.net/) :cs: | :and::app: |
 | **Manga** | [Ballons Translator](https://github.com/dmMaze/BallonsTranslator) | :win::py: |
 | ^^ | [Capture2text](https://capture2text.sourceforge.net/) | :win: |
-| ^^ | [OCR Manga Reader](https://ocrmangareaderforandroid.sourceforge.net/) (https://sourceforge.net/projects/ocrmangareaderforandroid/) | :and: |
+| ^^ | [OCR Manga Reader](https://ocrmangareaderforandroid.sourceforge.net/) [:src:](https://sourceforge.net/projects/ocrmangareaderforandroid/) | :and: |
 | ^^ | [Lancet](https://github.com/Ajatt-Tools/lancet) | :win::py: |
 | **Games** | [Agent](https://github.com/0xDC00/agent) | :win::app::lin: |
 | ^^ | [Interpreter](https://github.com/bquenin/interpreter) | :win::app::lin: |
