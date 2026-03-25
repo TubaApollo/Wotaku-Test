@@ -14,7 +14,7 @@ og:
 - **Stream**
   - [AnimeStream](https://anime.uniquestream.net/)
   - [Anime Nexus](https://anime.nexus/)
-  - [KickassAnime](https://kickass-anime.ru/) [:prx:](https://kickassanime.cx/#domains)
+  - [KickassAnime](https://kaa.lt/) [:prx:](https://kickassanime.cx/#domains)
 - **Torrent**
   - [Erai-raws](https://nyaa.si/user/Erai-raws)
   - [ToonsHub](https://www.toonshub.my.id/)
@@ -312,7 +312,6 @@ og:
 - **DDL**
   - [AnimeVilla](https://animevilla.in/) :ero:
   - [ATOZ CARTOONIST](https://www.atozcartoonist.com/)
-  - [GokuHD](https://www.gokuhd.com/)
   - [PikaHD](https://pikahd.com/)
   - [Puretoons](https://puretoons.in/)
   - [SDToons](https://sdtoons.com/) :ero:
