@@ -186,7 +186,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | [Anison.fm](https://en.anison.fm/) | [MP3 320](https://anison.fm/anison.m3u) | :flag-united-kingdom::flag-russia: |
 | [Greek Otaku Radio](https://goradio.gr/) | [MP3 320](http://192.99.4.210:2199/tunein/greekota.pls) | :flag-united-kingdom::flag-greece: |
 | [JPopSuki](http://jpopsuki.fm/) | [MP3 192](http://jpopsuki.fm:2199/tunein/jpopsuki-stream.pls) | :flag-united-kingdom: |
-| [Listen.moe](https://listen.moe/) | [Vorbis 128](https://listen.moe/m3u8/jpop.m3u) | :flag-united-kingdom: |
+| [Listen.moe](https://listen.moe/) | [Vorbis 128](https://listen.moe/) | :flag-united-kingdom: |
 | [R/a/dio](https://r-a-d.io/) | [MP3 192](https://r-a-d.io/assets/main.mp3.m3u) | :flag-united-kingdom: |
 | [Yggdrasil Radio](https://yggdrasilradio.com/) | [MP3 128](https://yggdrasilradio.com/yggdrasilradio_mp3_128kbps.pls) | :flag-united-kingdom: |
 | [AnimeRadio.de](https://www.animeradio.de/) | [MP3 192](https://www.animeradio.de/streams/hd.m3u) | :flag-germany: |
