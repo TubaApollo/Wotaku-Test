@@ -1,0 +1,1 @@
+Self-hosted (Zen) & Scrapes Animekai (kai & kiwi), Anime Nexus (nexus), Animepahe (pahe), Anitaku (gogo), Anizone (Zone)

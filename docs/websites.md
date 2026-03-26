@@ -59,6 +59,7 @@ ___
 ### Scrapers
 | Websites | Login | Tracking | Sub |
 |----------|----------------|----------------------------|--------|
+| [1anime](https://1anime.app/discover) [:prx:](https://1ani.me/) ==1anime== | :yes: | :sync: | :cc::hs: |
 | [Anidap](https://anidap.se/home) ==Anidap== | :yes: | - | :cc::hs: |
 | [Anikuro](https://anikuro.to/) [:prx:](https://anikuro.site/) ==Anikuro== | :yes: | :sync: | :cc::hs: |
 | [Anime Realms](https://www.animerealms.org/en) ==AnimeRealms== | :yes: | :sync: | :cc::hs: |
