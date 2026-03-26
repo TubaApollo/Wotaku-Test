@@ -140,16 +140,17 @@ ___
 
 
 | Category      | Name |
-|--------------|------|
+|---------------|------|
 | **Reuploads** | [Tokyo Insider](https://www.tokyoinsider.com/) :ddl: |
 | **BDMV (slow host)** | [JPFiles](https://jpfiles.net/) |
 | ^^ | [AnimeRSS](https://animerss.com/) |
 | ^^ | [Asia Media Blog](https://asiamediablog.com/media/anime/) :ero: [:prx:](https://rentry.org/wotaxy#asia-media-blog) |
 | ^^ | [urajp](https://urajp.se/) |
-| **Re-encodes** | [Kayoanime](https://kayoanime.com/) :sgd::batch: |
+| **Re-encodes** | [AniDL](https://new.anidl.org/) :ddl: |
 | ^^ | [AnimeOut](https://www.animeout.xyz/) :ddl::acc: [:alt:](https://animewat.ch/) |
 | ^^ | [Chauthanh](https://chauthanh.info/) :ddl::acc: |
 | ^^ | [hi10anime](https://hi10anime.com/) :ddl::mag::acc::batch: |
+| ^^ | [Kayoanime](https://kayoanime.com/) :sgd::batch: |
 | **Subtitles** | [Closed Caption Browser](https://cc.edatribe.com/#/) <Badge type="info" text="Dubtitles" /> |
 | ^^ | [Open Subtitles](https://opensubtitles.org/) |
 
