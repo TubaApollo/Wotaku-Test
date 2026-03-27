@@ -205,7 +205,7 @@ og:
 
 - [AnimeKO](https://animeko.ws/)
 - [Anime-Kami](https://anime-kami.com/)
-- [Anime-Sama](https://anime-sama.si/) [:prx:](https://anime-sama.pw/)
+- [Anime-Sama](https://anime-sama.to/) [:prx:](https://anime-sama.pw/)
 - [AnimesUltra](https://animesultra.org/)
 - [Fluneo](https://myfluneo.eu/)
 - [FanKai](http://fankai.fr/) [:alt:](https://linktr.ee/FanKai)

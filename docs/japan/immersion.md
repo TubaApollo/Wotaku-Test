@@ -65,7 +65,7 @@ og:
 - [NHK Learn Japanese](https://www3.nhk.or.jp/nhkworld/en/ondemand/category/28/)
 
 ### Live TV
-- [ANNnewsCH](https://www.youtube.com/@ANNnewsCH/)
+- [Asahi News](https://news.tv-asahi.co.jp/news-lives/)
 - [AQ Stream](https://aqstream.com/jp)
 - [Globe TV](https://globetv.app/)
 - [IPTV-Org](https://iptv-org.github.io/) [:src:](https://github.com/iptv-org/iptv) <Badge type="info" icon="i-material-symbols-download-2" text="JP" link="https://iptv-org.github.io/iptv/countries/jp.m3u" /> <Badge type="info" icon="i-material-symbols-download-2" text="JPN" link="https://iptv-org.github.io/iptv/languages/jpn.m3u" />

@@ -609,6 +609,6 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | ^^             | [DoujinStyle](https://discord.gg/z2QDFdA) |
 | ^^             | [MikuDB](https://discord.gg/w9Dq25n) |
 | ^^             | [Sitting on Clouds](https://discord.gg/x23SFbE) |
-| ^^             | [SquidBoard](https://discord.gg/yuvnx7FS89) |
+| ^^             | [SquidBoard](https://discord.gg/hfjBQXpXJq) |
 | **Subreddits** | [Vocaloid](https://old.reddit.com/r/vocaloid/) |
 | ^^             | [VocaTorrent](https://old.reddit.com/r/VocaTorrent/) |
