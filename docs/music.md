@@ -516,7 +516,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 - [Explaining Vocaloid in under 3 minutes](https://www.youtube.com/watch?v=GODXMGAMpVc)
 - [My First Miku Concert!](https://www.youtube.com/watch?v=XIgANZCBRKo)
 - [A guide to Vocaloid concerts](https://www.youtube.com/watch?v=2JtLAwllxI8) <Badge type="info" text="Part 2" link="https://www.youtube.com/watch?v=OzPKF-DMuUE" />
-- [So, you wanna get into VOCALOID](https://www.youtube.com/watch?v=y5pPALER7WU)<tooltip>Watch this for the introduction only (till `21:42`), since the software section is outdated. </tooltip>
+- [So, you wanna get into VOCALOID](https://www.youtube.com/watch?v=y5pPALER7WU) <tooltip>Watch this for the introduction only (till `21:42`), since the software section is outdated. </tooltip>
     - [So, you wanna get into VSynth Covers](https://www.youtube.com/watch?v=ySledv37IrQ)
 - [The Foundations of Making Vocaloid - A Beginner's Guide Tutorial](https://www.youtube.com/watch?v=6cisVNaOJXY)
 :::

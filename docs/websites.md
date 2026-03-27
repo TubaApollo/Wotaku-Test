@@ -276,11 +276,11 @@ To make the cubari process easier, we have made [Kaguya](https://github.com/wota
 | ^^           | [Library Genesis+](https://libgen.li/) [:prx:](https://rentry.org/wotaslap) |
 | ^^           | [The Manga Library](https://rentry.org/wotadirect#websites) |
 | ^^           | [Internet Archive](https://archive.org/) |
-| **Rippers**  | [1r0n](https://nyaa.si/user/tsuna69)<tooltip>DDL in torrent description</tooltip> |
+| **Rippers**  | [1r0n](https://nyaa.si/user/tsuna69) <tooltip>DDL in torrent description</tooltip> |
 | ^^           | [4str0](https://sheet.zohopublic.com/sheet/open/5hed58d39c2089692421f89b9e9a0435c7475?sheetid=0&range=A13) |
 | ^^           | [Danke](https://desuarchive.org/_/search/text/(digital)%20(danke-empire)/) |
-| ^^           | [LuCaZ](https://nyaa.si/user/LuCaZ)<tooltip>DDL in torrent description</tooltip> |
-| ^^           | [Stick](https://nyaa.si/user/dumbboy58)<tooltip>DDL in torrent description</tooltip> |
+| ^^           | [LuCaZ](https://nyaa.si/user/LuCaZ) <tooltip>DDL in torrent description</tooltip> |
+| ^^           | [Stick](https://nyaa.si/user/dumbboy58) <tooltip>DDL in torrent description</tooltip> |
 | ^^           | [XRA](https://desuarchive.org/_/search/text/(digital)%20(xra-empire)/) <Badge type="tip" text="Old Releases" link="https://rentry.org/wotadirect#websites" /> |
 
 
@@ -545,7 +545,7 @@ You can go through [**digital comic info**](/guides/manga/comicinfo) to get more
 
 ## Comics
 - [Comics Kingdom](https://comicskingdom.com/)
-- [DC Universe Infinite](https://www.dcuniverseinfinite.com/)<tooltip>Available in the United States, the United Kingdom, Canada, Australia and New Zealand.</tooltip>
+- [DC Universe Infinite](https://www.dcuniverseinfinite.com/) <tooltip>Available in the United States, the United Kingdom, Canada, Australia and New Zealand.</tooltip>
 - [GlobalComix](https://globalcomix.com/)
-- [GoComics](https://www.gocomics.com/)
+- [GoComics](https://www.gocomics.com/) <Badge type="tip" text="DePaywall" link="https://github.com/Idiot-01/Gocomics-Depaywall" />
 - [Marvel Unlimited](https://www.marvel.com/unlimited)

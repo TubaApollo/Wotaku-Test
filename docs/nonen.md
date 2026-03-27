@@ -554,7 +554,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 - [AnimeStars](https://animestars.org/) <Badge type="info" text="Aggregator" />
 - [Animevost](https://animevost.org/)
 - [Anisun](https://anisun.vercel.app/en) [:src:](https://github.com/notwindstone/anisun)
-- [Kage Project](http://fansubs.ru/)<tooltip>Subtitle files only, you need to get the episodes from another source.</tooltip>
+- [Kage Project](http://fansubs.ru/) <tooltip>Subtitle files only, you need to get the episodes from another source.</tooltip>
 - [MAL to Kodik](https://mal-to-kodik.github.io/) <Badge type="info" text="Aggregator" />
 - [One Pace](https://onepace-ru.tilda.ws/)
 - [OTA-KUN](https://ota-ku.am/)
