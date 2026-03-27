@@ -1,0 +1,5 @@
+- New releases are scraped from the sources without any transcoding
+- New releases are tagged as "Upload"
+- Old releases are scraped from aggregators
+- Has volume release for some titles
+- Properly tags sources

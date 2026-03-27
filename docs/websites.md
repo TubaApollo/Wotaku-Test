@@ -202,8 +202,9 @@ All the listed sites contain a mix of Manga, Manhwa and Manhua.
 | [Kagane](https://kagane.org/) ==Kagane== |  :e: | :yes: | :ic-round-mode-comment: |
 | [Weeb Central](https://weebcentral.com/) ==WeebCentral== | :e:  | :no: | :ic-round-mode-comment: |
 | [Atsumaru](https://atsu.moe/) ==Atsumaru== |  :e: | Partial, Poor | :ic-round-mode-comment: |
-| [MangaFire](https://mangafire.to/home) ==MangaFire== |  :ie::e: | :no: | :no: |
 | [WeebDex](https://weebdex.org/) <Badge type="info" text="Manga"  /> | :ie::e: | :yes: | :ic-round-mode-comment: |
+| [MangaFire](https://mangafire.to/home) ==MangaFire== |  :ie::e: | :no: | :no: |
+| [Manga.net](https://mangadot.net/) ==manganet== | :sync: | :yes: | :ic-round-mode-comment::ic-round-forum: |
 
 ::: details More
 | Websites | Tracking | Multi-Source | Social |
