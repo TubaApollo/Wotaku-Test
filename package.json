@@ -74,7 +74,6 @@
     "@iconify-json/uil": "^1.2.3",
     "@iconify/utils": "^3.0.2",
     "@nolebase/vitepress-plugin-enhanced-readabilities": "^2.18.2",
-    "@nolebase/vitepress-plugin-git-changelog": "^2.18.2",
     "@nolebase/vitepress-plugin-page-properties": "^2.18.2",
     "@types/node": "^22.10.2",
     "sass": "^1.93.2",

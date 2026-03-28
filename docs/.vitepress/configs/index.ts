@@ -6,10 +6,6 @@
  *  All rights reserved. This code and its associated files may not be copied, modified, distributed, sublicensed, or used in any form, in whole or in part, without prior written permission from the copyright holder.
  */
 import {
-  GitChangelog,
-  GitChangelogMarkdownSection
-} from '@nolebase/vitepress-plugin-git-changelog/vite'
-import {
   PageProperties,
   PagePropertiesMarkdownSection
 } from '@nolebase/vitepress-plugin-page-properties/vite'
@@ -99,7 +95,6 @@ export const shared: UserConfig<DefaultTheme.Config> = {
     optimizeDeps: {
       exclude: [
         '@nolebase/vitepress-plugin-enhanced-readabilities/client',
-        '@nolebase/vitepress-plugin-git-changelog/client',
         '@nolebase/vitepress-plugin-page-properties/client'
       ]
     },
@@ -107,7 +102,6 @@ export const shared: UserConfig<DefaultTheme.Config> = {
       noExternal: [
         '@nolebase/vitepress-plugin-enhanced-readabilities',
         '@nolebase/vitepress-plugin-page-properties',
-        '@nolebase/vitepress-plugin-git-changelog',
         '@nolebase/ui',
         '@fmhy/components'
       ]
@@ -116,11 +110,6 @@ export const shared: UserConfig<DefaultTheme.Config> = {
       Devtools(),
       PageProperties(),
       PagePropertiesMarkdownSection(),
-      GitChangelog({
-        maxGitLogCount: 20,
-        repoURL: 'https://github.com/wotakumoe/Wotaku'
-      }),
-      GitChangelogMarkdownSection({ sections: { disableContributors: true } }),
       UnoCSS({
         configFile: '../unocss.config.ts'
       }),
