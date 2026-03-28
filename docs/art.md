@@ -98,7 +98,6 @@ og:
 
 
 ## Others
-- [Anihonetwallpaper](https://anihonetwallpaper.com/) <Badge type="green" text="SFW" />
 - [Anime Pictures](https://anime-pictures.net/)
 - [ANNEX 'Hotaru'](https://hotaru.hino-tama.com/)
 - [Character Design References](https://characterdesignreferences.com/) :s: [:x:](https://x.com/CDReferences)

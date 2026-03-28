@@ -563,10 +563,10 @@ All websites listed here use slow host sites to store files, unless noted otherw
 
 ### Manga
 - [Com-X](https://com-x.life/home)
-- [Desu.Me](https://desu.city/) [:alt:](https://desu.me/)
+- [Desu.Me](https://desu.uno/) [:alt:](https://desu.me/)
 - [InkStory](https://inkstory.net/)
 - [MangaHub](https://mangahub.ru/)
-- [MangaLib](https://mangalib.me/)
+- [MangaLIB](https://mangalib.me/)
 - [MangaPoisk](https://mangapoisk.live/)
 - [ReManga](https://remanga.org/)
 
