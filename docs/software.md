@@ -462,12 +462,15 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 
 ## OCR
 
-- [Chrome Lens OCR](https://github.com/dimdenGD/chrome-lens-ocr) :s::mdi-npm-variant:
-- [Manatan](https://manatan.com/) :s::and::win::app::lin: [:src:](https://github.com/KolbyML/Manatan)
-- [OwOCR](https://github.com/AuroraWright/owocr) :s::win::app::py:
-- [Manga OCR](https://github.com/kha-white/manga-ocr) :py:
-    - [Mokuro](https://github.com/kha-white/mokuro) :py:
-    - [Poricom](https://github.com/blueaxis/Poricom) :win:
+| Software | Platform |
+| :--- | :--- |
+| [Chrome Lens OCR](https://github.com/dimdenGD/chrome-lens-ocr) | :mdi-npm-variant: |
+| [Manatan](https://manatan.com/) [:src:](https://github.com/KolbyML/Manatan) | :and::win::app::lin: |
+| [OwOCR](https://github.com/AuroraWright/owocr) | :win::app::py: |
+| [Game Sentence Miner](https://github.com/bpwhelan/GameSentenceMiner) | :win::app::lin: |
+| [Manga OCR](https://github.com/kha-white/manga-ocr) | :py: |
+| [Mokuro](https://github.com/kha-white/mokuro) | :py: |
+| [Poricom](https://github.com/blueaxis/Poricom) | :win: |
 
 ::: details More
 | Focus | Software | Platforms |
