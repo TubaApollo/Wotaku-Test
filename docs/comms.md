@@ -89,16 +89,18 @@ customDescription: Explore a wide array of otaku communities! From forums and Di
 - [VocaTorrent](https://old.reddit.com/r/VocaTorrent/)
 
 ## Boards
-- [:f: /a/ - Anime & Manga](https://boards.4chan.org/a/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/a/" /> <Badge type="tip" text="Archive" link="https://desuarchive.org/a/" />
-- [:f: /c/ - Anime/Cute](https://boards.4chan.org/c/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/c/" /> <Badge type="tip" text="Archive" link="https://desuarchive.org/c/" />
-- [:f: /cgl/ - Cosplay & EGL](https://boards.4chan.org/cgl/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/cgl/" /> <Badge type="tip" text="Archive" link="https://desuarchive.org/cgl/" />
-- [:f: /co/ - Comics & Cartoons](https://boards.4chan.org/co/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/co/" /> <Badge type="tip" text="Archive" link="https://desuarchive.org/co/" />
-- [:f: /jp/ - Otaku Culture](https://boards.4chan.org/jp/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/jp/" /> <Badge type="tip" text="Archive" link="https://warosu.org/jp/" />
-- [:f: /m/ - Mecha](https://boards.4chan.org/m/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/m/" /> <Badge type="tip" text="Archive" link="https://desuarchive.org/m/" />
-- [:f: /vg/ - Video Game Generals](https://boards.4chan.org/vg/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/vg/" /> <Badge type="tip" text="Archive" link="https://arch.b4k.dev/vg/" />
-- [:f: /vp/ - Pokémon](https://boards.4chan.org/vp/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/vp/" /> <Badge type="tip" text="Archive" link="https://arch.b4k.dev/vp/" />
-- [:f: /vt/ - Virtual YouTubers](https://boards.4chan.org/vt/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/vt/" /> <Badge type="tip" text="Archive" link="https://warosu.org/vt/" />
-- [:f: /w/ - Anime/Wallpapers](https://boards.4chan.org/w/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/w/" /> <Badge type="tip" text="Archive" link="https://archive.palanq.win/w/" />
+| :f: Boards | Alt | Archive |
+| :--- | :--- | :--- |
+| **/a/** - [Anime & Manga](https://boards.4chan.org/a/) | [URL](https://anychans.github.io/4chan/a/) | [URL](https://desuarchive.org/a/) |
+| **/c/** - [Anime/Cute](https://boards.4chan.org/c/) | [URL](https://anychans.github.io/4chan/c/) | [URL](https://desuarchive.org/c/) |
+| **/cgl/** - [Cosplay & EGL](https://boards.4chan.org/cgl/) | [URL](https://anychans.github.io/4chan/cgl/) | [URL](https://desuarchive.org/cgl/) |
+| **/co/** - [Comics & Cartoons](https://boards.4chan.org/co/) | [URL](https://anychans.github.io/4chan/co/) | [URL](https://desuarchive.org/co/) |
+| **/jp/** - [Otaku Culture](https://boards.4chan.org/jp/) | [URL](https://anychans.github.io/4chan/jp/) | [URL](https://warosu.org/jp/) |
+| **/m/** - [Mecha](https://boards.4chan.org/m/) | [URL](https://anychans.github.io/4chan/m/) | [URL](https://desuarchive.org/m/) |
+| **/vg/** - [Video Game Generals](https://boards.4chan.org/vg/) | [URL](https://anychans.github.io/4chan/vg/) | [URL](https://arch.b4k.dev/vg/) |
+| **/vp/** - [Pokémon](https://boards.4chan.org/vp/) | [URL](https://anychans.github.io/4chan/vp/) | [URL](https://arch.b4k.dev/vp/) |
+| **/vt/** - [Virtual YouTubers](https://boards.4chan.org/vt/) | [URL](https://anychans.github.io/4chan/vt/) | [URL](https://warosu.org/vt/) |
+| **/w/** - [Anime/Wallpapers](https://boards.4chan.org/w/) | [URL](https://anychans.github.io/4chan/w/) | [URL](https://archive.palanq.win/w/) |
 
 ::: danger NSFW Section
 You can find a list of NSFW communities [**here**](/nsfw#communities).

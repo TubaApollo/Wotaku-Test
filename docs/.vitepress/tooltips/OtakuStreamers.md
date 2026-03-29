@@ -1,1 +1,0 @@
-Although new releases are in 1080p, older releases are a mixed bag, ranging from 480p to 720p.

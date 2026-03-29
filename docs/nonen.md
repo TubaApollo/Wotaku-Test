@@ -15,7 +15,7 @@ og:
   - [AnimeStream](https://anime.uniquestream.net/)
   - [Anime Nexus](https://anime.nexus/)
   - [KickassAnime](https://kaa.lt/) [:prx:](https://kickassanime.cx/#domains)
-  - [AnimeOnsen](https://www.animeonsen.xyz/) `720p`
+  - [AnimeOnsen](https://www.animeonsen.xyz/) <Badge type="info" text="720p" />
 - **Torrent**
   - [Erai-raws](https://nyaa.si/user/Erai-raws)
   - [ToonsHub](https://www.toonshub.my.id/)
@@ -451,7 +451,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 |-|-|
 | Community | [Annict](https://annict.com/) |
 | Novels | [EPUB.moe](https://epub.moe/) |
-| Tracker | [EroGamescape](https://erogamescape.org/) <Badge text="EN Guide" link="https://www.youtube.com/watch?v=oPIWgXDllzQ"/> |
+| Tracker | [EroGamescape](https://erogamescape.org/) <Badge type="tip" text="EN Guide" link="https://www.youtube.com/watch?v=oPIWgXDllzQ" /> |
 
 
 ## Korean
