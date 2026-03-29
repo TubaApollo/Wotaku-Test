@@ -47,18 +47,13 @@ ___
 | Websites | Login | Tracking | Sub |
 |----------|----------------|----------------------------|--------|
 | [All Manga](https://allmanga.to/anime?tr=sub&cty=ALL) ==AllManga== | :yes: | :no: | :cc::hs: |
+| [Anibd](https://animedefenders.me/) :ero: [:alt:](https://ani.lol/) | :yes: | :no: | :hs: |
 | [AniHQ](https://anihq.to/home/) | :yes: | :no: | :hs: |
 | [Animepahe](https://animepahe.si/) ==Animepahe== | :no: | :e: | :hs: |
 | [AnimeZ](https://animeyy.com/) ==animez== | :yes: | :no: | :hs: |
 | [Animotvslash](https://www.animotvslash.org/search) ==Animotvslash== | :no: | :no: | :cc::hs: |
 | [Watch Cartoon Online](https://www.wco.tv/) [:prx:](https://www.wcostatus.com/) ==WCO== | :yes: | :no: | :hs: |
 
-### Low Res
-| Websites | Login | Tracking | Sub |
-|----------|----------------|----------------------------|--------|
-| [Anibd](https://animedefenders.me/) :ero: [:alt:](https://ani.lol/) | :yes: | :no: | :hs: |
-| [AnimeOnsen](https://www.animeonsen.xyz/) | :yes: | :e: | :cc: |
-| [Otaku-Streamers](https://beta.otaku-streamers.com/) <Badge type="info" text="Old" link="https://otaku-streamers.com/" /> ==OtakuStreamers== | :yes: | :no: | :hs: |
 
 ### Scrapers
 | Websites | Login | Tracking | Sub |
