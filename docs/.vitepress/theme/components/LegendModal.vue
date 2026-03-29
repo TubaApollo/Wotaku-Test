@@ -32,9 +32,10 @@ const sections = [
   {
     title: 'System',
     items: [
-      { icon: 'i-simple-icons-windows', label: 'Windows' },
       { icon: 'i-simple-icons-android', label: 'Android' },
-      { icon: 'i-simple-icons-apple', label: 'Apple' },
+      { icon: 'i-simple-icons-apple', label: 'iOS / iPadOS' },
+      { icon: 'i-simple-icons-windows', label: 'Windows' },
+      { icon: 'i-ri-finder-fill', label: 'MacOS' },
       { icon: 'i-simple-icons-linux', label: 'Linux' },
       { icon: 'i-simple-icons-freebsd', label: 'BSD' },
       { icon: 'i-material-symbols-terminal-rounded', label: 'CLI / TUI' },

@@ -318,7 +318,7 @@ ___
 | **General** | [3x3 Generator](https://gqgs.github.io/3x3-generator/) [:src:](https://github.com/gqgs/3x3-generator/) | :mal::al::k: |
 | ^^        | [Topsters](https://topsters.org/) | :simple-icons-themoviedatabase::simple-icons-lastdotfm::simple-icons-igdb::simple-icons-internetarchive: |
 | **Games** | [My 9 Games](https://my9games.com/) | :simple-icons-igdb: |
-| **Music** | [My Top 9 Otaku Songs](https://otaku-song.pages.dev/) :fjp: | :app: |
+| **Music** | [My Top 9 Otaku Songs](https://otaku-song.pages.dev/) :fjp: | :ios: |
 
 ### Quiz
 | Category  | Website |

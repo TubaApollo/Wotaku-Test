@@ -46,11 +46,11 @@ og:
 | ^^        | [mpvKt](https://github.com/abdallahmehiz/mpvKt) :and: [:n:](https://nightly.link/abdallahmehiz/mpvKt/workflows/nightlies/main) |
 | ^^        | [mpv-android](https://github.com/mpv-android/mpv-android) |
 | ^^        | [VLC for Android](https://play.google.com/store/apps/details?id=org.videolan.vlc) :and: |
-| ^^        | [Outplayer](https://apps.apple.com/us/app/outplayer/id1449923287) :app::cs: |
+| ^^        | [Outplayer](https://apps.apple.com/us/app/outplayer/id1449923287) :ios::cs: |
 | **Online** | [Revanced](https://revanced.app/) :mdi-youtube::and: [:src:](https://github.com/ReVanced/revanced-manager) |
 | ^^        | [Libretube](https://libretube.dev/) :mdi-youtube::and: [:src:](https://github.com/libre-tube/LibreTube) |
 | ^^        | [Grayjay](https://grayjay.app/) :mdi-youtube::mdi-twitch::and: [:src:](https://gitlab.futo.org/videostreaming/grayjay) |
-| ^^        | [uYou+](https://github.com/qnblackcat/uYouPlus) :mdi-youtube::app: |
+| ^^        | [uYou+](https://github.com/qnblackcat/uYouPlus) :mdi-youtube::ios: |
 | ^^        | [Twire](https://github.com/twireapp/Twire) :mdi-twitch::and: |
 
 
@@ -62,8 +62,8 @@ og:
 | **Store** | [Aurora Store](https://auroraoss.com/) :and: [:src:](https://gitlab.com/AuroraOSS/AuroraStore) |
 | ^^        | [Neo Store](https://github.com/NeoApplications/Neo-Store) :and: |
 | ^^        | [Droid-ify](https://github.com/Droid-ify/client) :and: |
-| ^^        | [Sideloadly](https://sideloadly.io/) :app::cs: |
-| ^^        | [SideStore](https://sidestore.io/) :app: [:src:](https://github.com/SideStore/SideStore/) |
+| ^^        | [Sideloadly](https://sideloadly.io/) :ios::cs: |
+| ^^        | [SideStore](https://sidestore.io/) :ios: [:src:](https://github.com/SideStore/SideStore/) |
 | **Misc**  | [APKUpdater](https://github.com/rumboalla/apkupdater) :and: |
 | ^^        | [Feeder](https://play.google.com/store/apps/details?id=com.nononsenseapps.feeder.play) :and: [:src:](https://github.com/spacecowboy/Feeder) |
 | ^^        | [Obtainium](https://github.com/ImranR98/Obtainium) :and: |

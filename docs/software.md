@@ -436,20 +436,20 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 | Solution   | Client/Tools |
 |----------- |-------------|
 | General    | [MAL-Sync](https://github.com/MALSync/MALSync) |
-| Audiobookshelf | [Plappa](https://plappa.me/) :app: |
-| ^^         | [Prologue](https://prologue.audio/) :app: |
+| Audiobookshelf | [Plappa](https://plappa.me/) :ios: |
+| ^^         | [Prologue](https://prologue.audio/) :ios: |
 | [Jellyfin](https://jellyfin.org/) | [Jellyfin MPV Shim](https://github.com/jellyfin/jellyfin-mpv-shim) |
 | ^^         | [Jellyfin-RPC](https://github.com/Radiicall/jellyfin-rpc) |
 | ^^         | [Jellyfin MAL Metadata Plugin](https://github.com/ryandash/jellyfin-plugin-myanimelist) |
 | ^^         | [Jellyfin shikimori plugin](https://github.com/te9c/jellyfin-shikimori-plugin) |
-| ^^         | [Streamyfin](https://github.com/streamyfin/streamyfin) :and::app: |
+| ^^         | [Streamyfin](https://github.com/streamyfin/streamyfin) :and::ios: |
 | [Kavita](https://www.kavitareader.com/) | [komf](https://github.com/Snd-R/komf) <Badge type="tip" text="Script" link="https://github.com/Snd-R/komf-userscript" /> |
 | [Komga](https://komga.org/) | [Komelia](https://github.com/Snd-R/Komelia) :and::win::lin: |
-| ^^         | [Komik](https://pruizlezcano.github.io/komic/) :app::fm: |
+| ^^         | [Komik](https://pruizlezcano.github.io/komic/) :ios::fm: |
 | ^^         | [komf](https://github.com/Snd-R/komf) <Badge type="tip" text="Script" link="https://github.com/Snd-R/komf-userscript" /> |
 | ^^         | [Komga Bulk Download Helper](https://github.com/darthmooguy/komga-bulk-download-helper) :js: |
 | [LANraragi](https://sugoi.gitbook.io/lanraragi/v/dev) | [Ichaival](https://github.com/Utazukin/Ichaival) :and: |
-| ^^         | [LANreader](https://github.com/Doraemoe/LANreader) :app: |
+| ^^         | [LANreader](https://github.com/Doraemoe/LANreader) :ios: |
 | ^^         | [LRReader](https://github.com/Guerra24/LRReader) :win: |
 | [Plex](https://www.plex.tv/your-media/) | [MPV Shim for Plex](https://github.com/iwalton3/plex-mpv-shim) |
 | ^^         | [Plex to AniList Sync](https://github.com/RickDB/PlexAniSync) |
@@ -465,7 +465,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 | Software | Platform |
 | :--- | :--- |
 | [Chrome Lens OCR](https://github.com/dimdenGD/chrome-lens-ocr) | :mdi-npm-variant: |
-| [Manatan](https://manatan.com/) [:src:](https://github.com/KolbyML/Manatan) | :and::win::app::lin: |
+| [Manatan](https://manatan.com/) [:src:](https://github.com/KolbyML/Manatan) | :and::ios::win::app::lin: |
 | [OwOCR](https://github.com/AuroraWright/owocr) | :win::app::py: |
 | [Game Sentence Miner](https://github.com/bpwhelan/GameSentenceMiner) | :win::app::lin: |
 | [Manga OCR](https://github.com/kha-white/manga-ocr) | :py: |
@@ -476,7 +476,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 | Focus | Software | Platforms |
 | :--- | :--- | :--- |
 | **General** | [Kanji Tomo](https://www.kanjitomo.net/) [:src:](https://github.com/sakarika/kanjitomo-ocr) | :win: |
-| ^^ | [Yomiwa](https://www.yomiwa.net/) :cs: | :and::app: |
+| ^^ | [Yomiwa](https://www.yomiwa.net/) :cs: | :and::ios: |
 | **Manga** | [Ballons Translator](https://github.com/dmMaze/BallonsTranslator) | :win::py: |
 | ^^ | [Capture2text](https://capture2text.sourceforge.net/) | :win: |
 | ^^ | [OCR Manga Reader](https://ocrmangareaderforandroid.sourceforge.net/) [:src:](https://sourceforge.net/projects/ocrmangareaderforandroid/) | :and: |

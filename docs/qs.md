@@ -116,10 +116,10 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 | Resource                                                        | Phone                   | PC                      | Browser                |
 |-----------------------------------------------------------------|-------------------------|-------------------------|------------------------|
 | [uBlock Origin](https://github.com/gorhill/uBlock)     :s:      |  -                      |       -                 | :ff::cr:               |
-| [Adguard](https://adguard.com/en/welcome.html)         :cs:     | :and::app:              | :win::app:              | :ff::cr:               |
+| [Adguard](https://adguard.com/en/welcome.html)         :cs:     | :and::ios:              | :win::app:              | :ff::cr:               |
 | [Adaway](https://adaway.org/)                                   | :and:                   |        -                |     -                  |
 | [RethinkDNS](https://rethinkdns.com/)                           | :and:                   | :win::app::lin:         |     -                  |
-| [NextDNS](https://nextdns.io/)    :s:                           | :and::app:              | :win::app::lin:         |  :ff::cr:              |
+| [NextDNS](https://nextdns.io/)    :s:                           | :and::ios:              | :win::app::lin:         |  :ff::cr:              |
 
 
 ::: tip [**Click here**](/guides/tech/adblock) for full adblock solutions.

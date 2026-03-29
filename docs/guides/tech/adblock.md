@@ -8,7 +8,7 @@ og:
 ## Browser
 | Browser | Phone | PC |
 |-|-|-|
-| [Brave](https://brave.com/) [:src:](https://github.com/brave/brave-browser) | :and::app: | :win::app::lin: |
+| [Brave](https://brave.com/) [:src:](https://github.com/brave/brave-browser) | :and::ios: | :win::app::lin: |
 | [Cromite](https://github.com/uazo/cromite) | :and: | :win::lin: |
 | [Ironfox](https://ironfoxoss.org/) [:src:](https://gitlab.com/ironfox-oss/IronFox/) | :and: | :no: |
 | [LibreWolf](https://librewolf.net/) [:src:](https://codeberg.org/librewolf/source) | :no: | :win::app::lin: |
@@ -21,7 +21,7 @@ og:
 - [ClearURLs](https://docs.clearurls.xyz/) :ff::cr:
 
 ## Apps
-- [Adguard](https://adguard.com/en/welcome.html) :s: :and::app:
+- [Adguard](https://adguard.com/en/welcome.html) :s: :and::ios:
 - [Adaway](https://adaway.org/) :and:
 - [RethinkDNS](https://rethinkdns.com/) :and:
 

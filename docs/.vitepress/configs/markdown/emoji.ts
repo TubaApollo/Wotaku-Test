@@ -48,8 +48,9 @@ const emojis: { pack: IconifyJSON; prefix?: string }[] = [
 const aliases: Record<string, string> = {
   // System
   and: 'simple-icons-android',
+  ios: 'simple-icons-apple',
   win: 'simple-icons-windows',
-  app: 'simple-icons-apple',
+  app: 'ri-finder-fill',
   lin: 'simple-icons-linux',
   bsd: 'simple-icons-freebsd',
   cmd: 'material-symbols-terminal-rounded',

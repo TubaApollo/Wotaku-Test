@@ -16,7 +16,7 @@ og:
 - [Anki](https://apps.ankiweb.net/) :win::app::lin:
 - [AnkiDroid Flashcards](https://play.google.com/store/apps/details?id=com.ichi2.anki) :and:
   - [Anki with Add-ons on Android: Guide](https://github.com/kaihouguide/the_ULTIMATE_android_mining_setup)
-- [AnkiMobile Flashcards](https://apps.apple.com/us/app/ankimobile-flashcards/id373493387) :app::paid:
+- [AnkiMobile Flashcards](https://apps.apple.com/us/app/ankimobile-flashcards/id373493387) :ios::paid:
 - [Ankiconnect Android](https://github.com/KamWithK/AnkiconnectAndroid) :and:
 - [KAnki](https://github.com/crizmo/KAnki) :simple-icons-amazon:
 

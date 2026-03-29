@@ -167,7 +167,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 |---------|---------|-----|
 | [asia DREAM radio](https://asiadreamradio.torontocast.stream/stations/en/index.html) | [MP3 128](https://asiadreamradio.torontocast.stream/stations/newstream.html) | General |
 | [J1 Radio](https://www.j1fm.tokyo/player/j1hits/) | [MP3 128](https://www.j1fm.tokyo/listen/) | General |
-| [Nightwave Plaza](https://plaza.one/) [:and:](https://play.google.com/store/apps/details?id=one.plaza.nightwaveplaza) [:app:](https://apps.apple.com/us/app/nightwave-plaza/id1532678227) [:src:](https://github.com/nightwaveplaza/plaza) | [MP3 128](https://plaza.one/plaza.m3u) | Vaporwave |
+| [Nightwave Plaza](https://plaza.one/) [:and:](https://play.google.com/store/apps/details?id=one.plaza.nightwaveplaza) [:ios:](https://apps.apple.com/us/app/nightwave-plaza/id1532678227) [:src:](https://github.com/nightwaveplaza/plaza) | [MP3 128](https://plaza.one/plaza.m3u) | Vaporwave |
 | [Patchwork Radio](https://patchwork.moekyun.me/radio) | [MP3 192](https://a4.asurahosting.com/public/patchworkarchive/playlist.m3u) | VTuber |
 | [Wapchan](https://radio.wapchan.org/public/wapfm) | [128](https://radio.wapchan.org/public/wapfm/playlist.pls) | City Pop |
 | [Yumi Co. Radio](https://yumicoradio.net/) | [MP3 256](https://yumicoradio.net/public/yumi_co._radio/playlist.m3u) | City Pop |
@@ -354,7 +354,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 
 ### Local
 - [AIMP](https://play.google.com/store/apps/details?id=com.aimp.player) :and::cs:
-- [Flacbox](https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1097564256) :app::cs:
+- [Flacbox](https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1097564256) :ios::cs:
 - [Oto Music Player](https://play.google.com/store/apps/details?id=com.piyush.music) :and::cs:
 - [Musicolet Music Player](https://play.google.com/store/apps/details?id=in.krosbits.musicolet) :cs:
 - [Poweramp](https://powerampapp.com/) :s::cs::paid:
@@ -371,7 +371,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | ^^         | [Metrolist](https://metrolist.meowery.eu/) [:src:](https://github.com/mostafaalagamy/metrolist) :and: |
 | ^^         | [RiMusic](https://github.com/fast4x/RiMusic) :and: |
 | ^^         | [SimpMusic](https://github.com/maxrave-dev/SimpMusic) :and: |
-| **Spotify** | [EeveeSpotify](https://github.com/Meeep1/EeveeSpotifyRevivedPublic) :app: |
+| **Spotify** | [EeveeSpotify](https://github.com/Meeep1/EeveeSpotifyRevivedPublic) :ios: |
 | ^^         | [xManager](https://www.xmanagerapp.com/) :and::cs: |
 | **Others**  | [OpenSpot](https://github.com/BlackHatDevX/openspot-music-app) :and: `Qobuz` |
 | ^^         | [ReFreezer](https://github.com/DJDoubleD/refreezer) :and: `Deezer` |
@@ -396,11 +396,11 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | ^^           | [Rush](https://github.com/shub39/Rush) |
 | ^^           | [SongSync](https://github.com/Lambada10/SongSync) |
 | **Scrobbler** | [Pano Scrobbler](https://github.com/kawaiiDango/pano-scrobbler) :mdi-lastfm::and: |
-| ^^           | [Marvis Pro](https://apps.apple.com/au/app/marvis-pro/id1447768809) :mdi-lastfm::app::cs: |
+| ^^           | [Marvis Pro](https://apps.apple.com/au/app/marvis-pro/id1447768809) :mdi-lastfm::ios::cs: |
 | **Others**   | [MusicSearch](https://github.com/lydavid/MusicSearch) :and: <Badge type="info" text="MusicBrainz" /> |
 | ^^           | [Seeker](https://github.com/jackBonadies/SeekerAndroid) :and: <Badge type="info" text="Soulseek" /> |
-| ^^           | [SpotiFLAC Mobile](https://github.com/zarzet/SpotiFLAC-Mobile) :and::app: |
-| ^^           | [Stats.fm](https://stats.fm/) :mdi-spotify::and::app::cs: |
+| ^^           | [SpotiFLAC Mobile](https://github.com/zarzet/SpotiFLAC-Mobile) :and::ios: |
+| ^^           | [Stats.fm](https://stats.fm/) :mdi-spotify::and::ios::cs: |
 
 
 ![](/music/mpc.webp)
