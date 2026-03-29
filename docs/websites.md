@@ -36,8 +36,8 @@ ___
 | [AnimeStream](https://anime.uniquestream.net/) ==AnimeStream== | :mingcute-shovel-fill: | :no: | :no: |  :cc: |
 | [Anime Nexus](https://anime.nexus/) ==AnimeNexus== | :mingcute-server-fill: | :yes: | :sync: | :cc: |
 | [AnimeKai](https://animekai.to/home) [:prx:](https://rentry.org/wotaxy#animekai) ==AnimeKai== | :mingcute-server-fill: | :yes: | :sync::ie::e: | :cc::hs: |
-| [KickassAnime](https://kaa.lt/) [:prx:](https://kickassanime.cx/#domains) ==KAA== | :mingcute-server-fill: | :yes: | :e: | :cc: |
 | [Kaido](https://kaido.to/home) ==Kaido== | :mingcute-server-fill: | :yes: | :sync::ie::e: | :cc: |
+| [KickassAnime](https://kaa.lt/) ==KAA== | :mingcute-server-fill: | :yes: | :e: | :cc: |
 | [AniZone](https://anizone.to/) ==AniZone== | :mingcute-server-fill: | :no: | :no: | :cc: |
 
 :::details More

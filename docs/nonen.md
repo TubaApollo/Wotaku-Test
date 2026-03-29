@@ -12,9 +12,9 @@ og:
 ### Anime
 
 - **Stream**
-  - [AnimeStream](https://anime.uniquestream.net/)
-  - [Anime Nexus](https://anime.nexus/)
-  - [KickassAnime](https://kaa.lt/) [:prx:](https://kickassanime.cx/#domains)
+  - [AnimeStream](https://anime.uniquestream.net/) ==AnimeStream==
+  - [Anime Nexus](https://anime.nexus/) ==AnimeNexus==
+  - [KickassAnime](https://kaa.lt/) ==KAA==
   - [AnimeOnsen](https://www.animeonsen.xyz/) <Badge type="info" text="720p" />
 - **Torrent**
   - [Erai-raws](https://nyaa.si/user/Erai-raws)
