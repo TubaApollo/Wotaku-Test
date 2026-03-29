@@ -5,6 +5,10 @@ customDescription: Discover the best websites for anime, manga, novels & more.
 outline: 1
 ---
 
+::: danger NSFW warning
+Almost all the sites feature erotic/mature content, so proceed with caution.
+:::
+
 ![](/banner/wanime.webp)
 
 # Anime
@@ -173,14 +177,6 @@ ___
 # Manga
 
 <br>
-
-::: danger NSFW warning
-Almost all the sites feature erotic/mature content, so proceed with caution.
-:::
-
-::: info Content note
-All the listed sites contain a mix of Manga, Manhwa and Manhua.
-:::
 
 ::: details Symbols
 
