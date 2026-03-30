@@ -163,6 +163,7 @@ ___
 - [J-Novel Club](https://j-novel.club/calendar)
 - [Kodansha](https://kodansha.us/calendar/)
 - [Omoi](https://www.omoi.com/release-calendar) <Badge type="info" text="CaaS" />
+- [Renta!](https://www.ebookrenta.com/renta/sc/frm/upcoming/)
 - [Seven Seas](https://sevenseasentertainment.com/release-dates/)
 - [SuBLime](https://www.sublimemanga.com/calendar) :ero:
 - [SQUARE ENIX](https://squareenixmangaandbooks.square-enix-games.com/en-us/release-calendar)

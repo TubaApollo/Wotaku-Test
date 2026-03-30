@@ -1,4 +1,3 @@
-- Upload their own encodes on Videstreaming and Catstream.
 - Has multi-language softsub.
 - Missing some older titles, but you can request them in their support server.
 - Ads up the ass.

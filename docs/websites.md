@@ -46,12 +46,12 @@ ___
 
 | Websites | Login | Tracking | Sub |
 |----------|----------------|----------------------------|--------|
-| [All Manga](https://allmanga.to/anime?tr=sub&cty=ALL) ==AllManga== | :yes: | :no: | :cc::hs: |
+| [All Manga](https://allmanga.to/anime?tr=sub&cty=ALL) | :yes: | :no: | :cc::hs: |
 | [Anibd](https://animedefenders.me/) :ero: [:alt:](https://ani.lol/) | :yes: | :no: | :hs: |
 | [AniHQ](https://anihq.to/home/) | :yes: | :no: | :hs: |
 | [Animepahe](https://animepahe.si/) ==Animepahe== | :no: | :e: | :hs: |
 | [AnimeZ](https://animeyy.com/) ==animez== | :yes: | :no: | :hs: |
-| [Animotvslash](https://www.animotvslash.org/search) ==Animotvslash== | :no: | :no: | :cc::hs: |
+| [Animotvslash](https://www.animotvslash.org/search) | :no: | :no: | :cc::hs: |
 | [Kuudere](https://kuudere.to/) | :yes: | :sync::ie: | :cc: |
 | [Watch Cartoon Online](https://www.wco.tv/) [:prx:](https://www.wcostatus.com/) ==WCO== | :yes: | :no: | :hs: |
 
@@ -354,7 +354,6 @@ These sites contain a mix of both actual and AI-generated novels.
 | ^^         | [Zokaj](https://zokaj.com/) |
 | ^^         | [Power Rangers Official](https://www.youtube.com/@PowerRangersOfficial) |
 | ^^         | [ULTRAMAN Official](https://www.youtube.com/@ULTRAMAN_OFFICIAL) <Badge type="tip" text="New" link="https://www.youtube.com/@ultraman_english_official" /> |
-| ^^         | [Legal Tokusatsu Streaming List](https://otakulogy.github.io/tokusatsu-streaming/) |
 | **Download** | [Zekozimo](https://zekozimo.blogspot.com/) :s: <Badge type="info" text="General" /> |
 | ^^         | [KRDL](https://krdl.moe/) :s: |
 | ^^         | [Nyaa](https://nyaa.si/) :mag: [:prx:](https://rentry.org/nyaap) |
@@ -488,7 +487,6 @@ Some of the series may not be available depending on your region.
 
 ::: details Utility sites
 - [JustWatch](https://www.justwatch.com/)
-- [Otakulogy List](https://otakulogy.github.io/anime-streaming/)
 - [Simkl](https://simkl.com/)
 - [uNoGS](https://unogs.com/)
 - [Yatta-Tachi List](https://yattatachi.com/legal-anime-streaming-sites)
@@ -499,6 +497,7 @@ Some of the series may not be available depending on your region.
 | Category | Websites |  
 |----------|----------|  
 | **Manga** | [Comikey](https://comikey.com/) |  
+| ^^ | [Coolmic](https://coolmic.me/) |
 | ^^ | [INKR](https://comics.inkr.com/) |  
 | ^^ | [KManga](https://kmanga.kodansha.com/) <tooltip>Available in the United States, the Philippines, Thailand, Vietnam, Hong Kong, Taiwan, India, Mexico, and Brazil.</tooltip> |  
 | ^^ | [Manga Mirai](https://mangamirai.com/) |
@@ -506,11 +505,10 @@ Some of the series may not be available depending on your region.
 | ^^ | [Manga UP!](https://global.manga-up.com/) |  
 | ^^ | [Mangamo](https://www.mangamo.com/) |  
 | ^^ | [Omoi](https://www.omoi.com/) |
-| ^^ | [Renta](https://www.ebookrenta.com/) |  
+| ^^ | [Renta!](https://www.ebookrenta.com/) |  
 | ^^ | [Shonen Jump](https://www.viz.com/sj-offer) <tooltip>Available in the United States, Canada, the United Kingdom, Ireland, New Zealand, Australia, South Africa, the Philippines, Singapore, and India.</tooltip> |  
 | ^^ | [VIZ Manga](https://www.viz.com/vm-offer) <tooltip>Available in the United States, the United Kingdom, Canada, Australia, New Zealand, and Ireland.</tooltip> |  
 | ^^ | [Yen Press](https://yenpress.com/) |  
-| ^^ | [Yuri Hub](https://www.yurihub.com/) |  
 | **Manhwa & Manhua** | [Lezhin](https://www.lezhinus.com/en) |  
 | ^^ | [Manta](https://manta.net/en) |  
 | ^^ | [Tapas](https://tapas.io/) |  

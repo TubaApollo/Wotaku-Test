@@ -129,6 +129,7 @@ ___
 ___
 #### iOS
 - [Easy Japanese](https://apps.apple.com/us/app/easy-japanese-news-%E3%82%84%E3%81%95%E3%81%97%E3%81%84%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/id1107177166) [:web:](https://japanese.todaiinews.com/)
+- [Hoshi Reader](https://github.com/Manhhao/Hoshi-Reader)
 - [Immersion Reader](https://reader.immersionkit.com/)
 - [Manabi Reader](https://reader.manabi.io/)
 - [Satori Reader](https://apps.apple.com/us/app/satori-reader/id1382950847) [:web:](https://www.satorireader.com/)

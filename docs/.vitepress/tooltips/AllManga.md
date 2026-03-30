@@ -1,5 +1,0 @@
-- UI is really cluttered.
-- Video quality fluctuates quite a bit.
-- Players are a mix of self-hosted and scrapers.
-- OK and AK have multiple resolutions.
-- SW player is 720p only.
