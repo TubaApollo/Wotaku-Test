@@ -122,7 +122,6 @@ ___
 - [Seadex](https://releases.moe/)
 - [Sneedex](https://sneedex.moe/) <Badge type="warning" text="Archived"/>
 - [A Certain Fansubber's Index](https://index.fansubcar.tel/)
-- [Fansub Database](https://fansubdb.com/)
 :::
 
 ### Direct Download

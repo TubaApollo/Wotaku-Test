@@ -321,8 +321,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 
 ::: details More
 | Software | Platform |
-|----------|---------|
-| [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) | :win::app: |
+|----------|----------|
 | [Manga Scraper](https://github.com/YofaGh/MangaScraper) | :py: |
 | [Manga downloader](https://github.com/xuzhengyi1995/Manga_downloader) <Badge type="info" text="Raw"/> | :cr: |
 :::

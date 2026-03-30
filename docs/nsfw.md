@@ -159,13 +159,11 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
   - [Komikku](https://komikku-app.github.io/) [:src:](https://github.com/komikku-app/komikku) [:e:](/guides/ext/mihon)
   - [Hentoid](https://github.com/avluis/Hentoid)
   - [Jasmine](https://github.com/niuhuan/jasmine)
-  - [Pupil](https://github.com/tom5079/Pupil)
   - [Aniyomi](https://github.com/jmir1/aniyomi-mpv-beta) [:e:](/guides/ext/mihon)
 - **E-Hentai**
   - [EhViewer-FooIbar](https://github.com/FooIbar/EhViewer)
   - [EhViewer-UjuiUjuMandan](https://github.com/UjuiUjuMandan/EhViewer)
   - [EhViewer-NekoInverter](https://github.com/EhViewer-NekoInverter/EhViewer)
-  - [ErosFE](https://github.com/3003h/Eros-FE)
   - [JHenTai](https://github.com/jiangtian616/JHenTai)
 - **nHentai**
   - [NClientV3](https://github.com/maxwai/NClientV3) <Badge type="tip" text="V2" link="https://github.com/Dar9586/NClientV2" />
@@ -173,7 +171,6 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 
 ## iOS
 - [EhPanda](https://github.com/EhPanda-Team/EhPanda)
-- [ErosFE](https://github.com/3003h/Eros-FE)
 - [JHenTai](https://github.com/jiangtian616/JHenTai)
 - [Jasmine](https://github.com/niuhuan/jasmine)
 
@@ -191,12 +188,10 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 | Website  | Downloader | Platform |
 |----------|----------------------|-|
 | **Multi** | [Hakuneko](https://github.com/manga-download/haruneko) <Badge type="tip" text="Old" link="https://github.com/manga-download/hakuneko" />==Hakuneko== | :win::app::lin: |
-|    ^^      | [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) | :win::app: |
 |    ^^     | [HDoujin Downloader](https://doujindownloader.com/) | :win: |
 |    ^^    | [NSFW Box](https://github.com/Kisspeace/NsfwBox) | :and::win: |
 | **E-Hentai**    | [E-Hentai Downloader](https://github.com/ccloli/E-Hentai-Downloader) | :js: |
 | **nHentai** | [nHentai](https://github.com/RicterZ/nhentai)  | :py::dock: |
-|     ^^   | [nHentai GUI](https://github.com/edgar1016/nhentai-GUI) | :win: |
 |     ^^    | [nHentai Archivist](https://github.com/9-FS/nhentai_archivist) | :win::lin::dock: |
 |     ^^   | [nHentai Downloader](https://github.com/Xwilarg/NHentaiDownloader) | :cr::ff: |
 

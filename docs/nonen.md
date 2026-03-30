@@ -558,7 +558,6 @@ All websites listed here use slow host sites to store files, unless noted otherw
 - [Kage Project](http://fansubs.ru/) <tooltip>Subtitle files only, you need to get the episodes from another source.</tooltip>
 - [MAL to Kodik](https://mal-to-kodik.github.io/) <Badge type="info" text="Aggregator" />
 - [One Pace](https://onepace-ru.tilda.ws/)
-- [OTA-KUN](https://ota-ku.am/)
 - [Tunime](https://an0ncer.github.io/) [:src:](https://github.com/AN0NCER/an0ncer.github.io) <Badge type="info" text="Sub" />
 - [YummyAnime](https://site.yummyani.me/)
 
