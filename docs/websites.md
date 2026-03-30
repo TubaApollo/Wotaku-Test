@@ -33,9 +33,9 @@ ___
 
 | Websites | Type | Login | Tracking | Sub |
 |----------|----------------|------|----------------------|--------|
-| [AnimeStream](https://anime.uniquestream.net/) ==AnimeStream== | :mingcute-shovel-fill: | :no: | :no: |  :cc: |
-| [Anime Nexus](https://anime.nexus/) ==AnimeNexus== | :mingcute-server-fill: | :yes: | :sync: | :cc: |
 | [AnimeKai](https://animekai.to/home) [:prx:](https://rentry.org/wotaxy#animekai) ==AnimeKai== | :mingcute-server-fill: | :yes: | :sync::ie::e: | :cc::hs: |
+| [Anime Nexus](https://anime.nexus/) ==AnimeNexus== | :mingcute-server-fill: | :yes: | :sync: | :cc: |
+| [AnimeStream](https://anime.uniquestream.net/) ==AnimeStream== | :mingcute-shovel-fill: | :no: | :no: |  :cc: |
 | [Kaido](https://kaido.to/home) ==Kaido== | :mingcute-server-fill: | :yes: | :sync::ie::e: | :cc: |
 | [KickassAnime](https://kaa.lt/) ==KAA== | :mingcute-server-fill: | :yes: | :e: | :cc: |
 | [AniZone](https://anizone.to/) ==AniZone== | :mingcute-server-fill: | :no: | :no: | :cc: |
@@ -52,6 +52,7 @@ ___
 | [Animepahe](https://animepahe.si/) ==Animepahe== | :no: | :e: | :hs: |
 | [AnimeZ](https://animeyy.com/) ==animez== | :yes: | :no: | :hs: |
 | [Animotvslash](https://www.animotvslash.org/search) ==Animotvslash== | :no: | :no: | :cc::hs: |
+| [Kuudere](https://kuudere.to/) | :yes: | :sync::ie: | :cc: |
 | [Watch Cartoon Online](https://www.wco.tv/) [:prx:](https://www.wcostatus.com/) ==WCO== | :yes: | :no: | :hs: |
 
 
@@ -195,11 +196,11 @@ ___
 | [Atsumaru](https://atsu.moe/) ==Atsumaru== |  :e: | Partial, Poor | :ic-round-mode-comment: |
 | [WeebDex](https://weebdex.org/) <Badge type="info" text="Manga"  /> | :ie::e: | :yes: | :ic-round-mode-comment: |
 | [MangaFire](https://mangafire.to/home) ==MangaFire== |  :ie::e: | :no: | :no: |
-| [Mangadotnet](https://mangadot.net/) ==Mangadotnet== | :sync: | :yes: | :ic-round-mode-comment::ic-round-forum: |
 
 ::: details More
 | Websites | Tracking | Multi-Source | Social |
 |----------|----------|--------------|------- |
+| [Mangadotnet](https://mangadot.net/) ==Mangadotnet== | :sync: | :yes: | :ic-round-mode-comment::ic-round-forum: |
 | [Manga Katana](https://mangakatana.com/) | :ie::e:  | :no: | :ic-round-mode-comment: |
 | [MangaTaro](https://mangataro.org/home) | :ie::e:  | Partial, Poor | :ic-round-mode-comment: |
 | [Manga Buddy](https://mangabuddy.com/home) [:prx:](https://rentry.org/wotaxy#manga-buddy) | :e:  | :no: | :ic-round-mode-comment: |

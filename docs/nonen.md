@@ -12,8 +12,8 @@ og:
 ### Anime
 
 - **Stream**
-  - [AnimeStream](https://anime.uniquestream.net/) ==AnimeStream==
   - [Anime Nexus](https://anime.nexus/) ==AnimeNexus==
+  - [AnimeStream](https://anime.uniquestream.net/) ==AnimeStream==
   - [KickassAnime](https://kaa.lt/) ==KAA==
   - [AnimeOnsen](https://www.animeonsen.xyz/) <Badge type="info" text="720p" />
 - **Torrent**
