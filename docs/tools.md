@@ -127,18 +127,21 @@ og:
 ## Media
 
 ### Image Viewer
-- [IrfanView](https://www.irfanview.com/) :cs:
-- [XnView MP](https://www.xnview.com/en/xnviewmp/) :cs:
-- [JPEGView](https://github.com/sylikc/jpegview)
-- [qView](https://interversehq.com/qview/) [:src:](https://github.com/jurplel/qView)
-- [FastStone Image Viewer](https://www.faststone.org/FSViewerDetail.htm) :cs:
+| Viewer | Platform |
+| :--- | :--- |
+| [IrfanView](https://www.irfanview.com/) :cs: | :win: |
+| [JPEGView](https://github.com/sylikc/jpegview) | :win: |
+| [qimgv](https://github.com/easymodo/qimgv) | :win::lin::bsd: |
+| [qView](https://interversehq.com/qview/) [:src:](https://github.com/jurplel/qView) | :win::app::lin: |
+| [XnView MP](https://www.xnview.com/en/xnviewmp/) :cs: | :win::app::lin: |
 
 ### Video Player
-- [mpv](https://mpv.io/) :s::win::app::lin: [:src:](https://github.com/mpv-player/mpv)
-  - [mpv Resources](#mpv)
-- [SMPlayer](https://www.smplayer.info/) :win::app::lin: [:src:](https://github.com/smplayer-dev/smplayer)
-- [MPC-HC](https://github.com/clsid2/mpc-hc) :win:
-- [K-Lite Codec Pack](https://codecguide.com/download_kl.htm) :win:
+| Player | Platform |
+| :--- | :--- |
+| [mpv](https://mpv.io/) :s: [:src:](https://github.com/mpv-player/mpv) | :win::app::lin: |
+| [SMPlayer](https://www.smplayer.info/) [:src:](https://github.com/smplayer-dev/smplayer) | :win::app::lin: |
+| [MPC-HC](https://github.com/clsid2/mpc-hc) | :win: |
+| [K-Lite Codec Pack](https://codecguide.com/download_kl.htm) | :win: |
 
 #### mpv
 
@@ -195,48 +198,48 @@ og:
 
 ### Video Tools
 
-| **Category** | **Resources** |  
-|--------------|---------------|  
-| **General Video tools** | [FFmpeg](https://ffmpeg.org/) :win::app::lin::cmd: [:src:](https://github.com/FFmpeg/FFmpeg) |  
-| ^^               | [LosslessCut](https://mifi.no/losslesscut/) :win::app::lin: [:src:](https://github.com/mifi/lossless-cut) |  
-| **General Sub tools** | [Aegisub](https://github.com/arch1t3cht/Aegisub) :win::app::lin: |  
-| ^^               | [Subtitle Edit](https://www.nikse.dk/subtitleedit) :win: [:src:](https://github.com/SubtitleEdit/subtitleedit) |  
-| **Adobe**         | [m0nkrus](https://vk.com/monkrus) :win::app: |  
-| ^^               | [RuTracker.org](https://rutracker.org/forum/index.php) :win::app: |  
-| ^^               | [GenP](https://lemmy.dbzer0.com/c/GenP) :win: |  
-| ^^               | [Download Pirate](https://www.downloadpirate.com/) :win: |  
-| ^^               | [a.dove.isdumb.one](https://github.com/ignaciocastro/a-dove-is-dumb) |  
-| **Encoding**      | [AviSynth+](https://avs-plus.net/) :win::app::lin: [:src:](https://github.com/AviSynth/AviSynthPlus) |  
-| ^^               | [StaxRip](https://github.com/staxrip/staxrip) :win: |  
-| ^^               | [VapourSynth](https://www.vapoursynth.com/) :win: [:src:](https://github.com/vapoursynth/vapoursynth) |  
-| ^^               | [VapourSynth Database](https://vsdb.top/) |  
-| **MKV Tools**     | [MKVToolNix](https://mkvtoolnix.download/) :win::app::lin::bsd: |  
-| ^^               | [MKV Extract](https://qgustavor.github.io/mkv-extract/en/) :web: [:src:](https://github.com/qgustavor/mkv-extract/) |  
-| **Sync**          | [alass](https://github.com/kaegi/alass) :win::lin: |  
-| ^^               | [AutoSubSync](https://github.com/denizsafak/AutoSubSync) :win::app::lin: |
-| ^^               | [FFsubsync](https://github.com/smacke/ffsubsync) :win::app::lin: |  
-| ^^               | [Sushi](https://github.com/tp7/Sushi) :win::app::lin::cmd: |
-| ^^               | [Sushi.net](https://github.com/maxpiva/Sushi.Net) :win::app::lin: |  
-| **Other**         | [mpvQC](https://mpvqc.github.io/) :win: [:src:](https://github.com/mpvqc/mpvQC) |  
-| ^^               | [YTSubConverter](https://github.com/arcusmaximus/YTSubConverter) :win::app::lin: |
+| Category | Resources | Platform |
+| :--- | :--- | :--- |
+| **General Video tools** | [FFmpeg](https://ffmpeg.org/) [:src:](https://github.com/FFmpeg/FFmpeg) | :win::app::lin::cmd: |
+| ^^ | [LosslessCut](https://mifi.no/losslesscut/) [:src:](https://github.com/mifi/lossless-cut) | :win::app::lin: |
+| **General Sub tools** | [Aegisub](https://github.com/arch1t3cht/Aegisub) | :win::app::lin: |
+| ^^ | [Subtitle Edit](https://www.nikse.dk/subtitleedit) [:src:](https://github.com/SubtitleEdit/subtitleedit) | :win: |
+| **Adobe** | [m0nkrus](https://vk.com/monkrus) | :win::app: |
+| ^^ | [RuTracker.org](https://rutracker.org/forum/index.php) | :win::app: |
+| ^^ | [Download Pirate](https://www.downloadpirate.com/) | :win: |
+| ^^ | [a.dove.isdumb.one](https://github.com/ignaciocastro/a-dove-is-dumb) | |
+| **Encoding** | [AviSynth+](https://avs-plus.net/) [:src:](https://github.com/AviSynth/AviSynthPlus) | :win::app::lin: |
+| ^^ | [StaxRip](https://github.com/staxrip/staxrip) | :win: |
+| ^^ | [VapourSynth](https://www.vapoursynth.com/) [:src:](https://github.com/vapoursynth/vapoursynth) | :win: |
+| ^^ | [VapourSynth Database](https://vsdb.top/) | |
+| **MKV Tools** | [MKVToolNix](https://mkvtoolnix.download/) | :win::app::lin::bsd: |
+| ^^ | [MKV Extract](https://qgustavor.github.io/mkv-extract/en/) [:src:](https://github.com/qgustavor/mkv-extract/) | :web: |
+| **Sync** | [alass](https://github.com/kaegi/alass) | :win::lin: |
+| ^^ | [AutoSubSync](https://github.com/denizsafak/AutoSubSync) | :win::app::lin: |
+| ^^ | [FFsubsync](https://github.com/smacke/ffsubsync) | :win::app::lin: |
+| ^^ | [Sushi](https://github.com/tp7/Sushi) | :win::app::lin::cmd: |
+| ^^ | [Sushi.net](https://github.com/maxpiva/Sushi.Net) | :win::app::lin: |
+| **Other** | [mpvQC](https://mpvqc.github.io/) [:src:](https://github.com/mpvqc/mpvQC) | :win: |
+| ^^ | [YTSubConverter](https://github.com/arcusmaximus/YTSubConverter) | :win::app::lin: |
+
 
 #### Related resources
 
-| Category        | Resources |
-|-----------------|-----------|
-| **Aegisub**     | [Aegisub-Motion](https://github.com/TypesettingTools/Aegisub-Motion) :src: |  
-| ^^              | [AI2ASS](https://github.com/TypesettingTools/AI2ASS) :src: |  
-| ^^              | [DependencyControl](https://github.com/TypesettingTools/DependencyControl) :src: |  
-| ^^              | [Perspective](https://github.com/TypesettingTools/Perspective) :src: |  
-| **alass**       | [Resync subtitles](https://animecards.site/subtitles/) :win: |  
-| **AviSynth+**   | [MeGUI](https://en.wikibooks.org/wiki/MeGUI) [:simple-icons-sourceforge:](https://sourceforge.net/projects/megui/) |  
-| **FFmpeg**      | [HandBrake](https://handbrake.fr/) :win::app::lin: [:src:](https://github.com/HandBrake/HandBrake) |  
-| ^^              | [Videomass](https://jeanslack.github.io/Videomass/) :win::app::lin: [:src:](https://github.com/jeanslack/Videomass) |  
-| ^^              | [FFmpeg.wasm](https://ffmpegwasm.netlify.app/) :web: [:src:](https://github.com/ffmpegwasm/ffmpeg.wasm) |  
-| ^^              | [FFmpeg Batch AV Converter](https://github.com/eibol/ffmpeg_batch) :win: |  
-| **MKVToolNix**  | [gMKVExtractGUI](https://sourceforge.net/projects/gmkvextractgui/) :win::app::lin: |  
-| ^^              | [MKVcleaver](https://www.videohelp.com/software/MKVcleaver) :win::cs: |  
-| ^^              | [MKVToolNixWrapper](https://github.com/H3X1C/MKVToolNixWrapper) :win: |
+| Category | Resources | Platform |
+| :--- | :--- | :--- |
+| **Aegisub** | [Aegisub-Motion](https://github.com/TypesettingTools/Aegisub-Motion) | |
+| ^^ | [AI2ASS](https://github.com/TypesettingTools/AI2ASS) | |
+| ^^ | [DependencyControl](https://github.com/TypesettingTools/DependencyControl) | |
+| ^^ | [Perspective](https://github.com/TypesettingTools/Perspective) | |
+| **alass** | [Resync subtitles](https://animecards.site/subtitles/) | :win: |
+| **AviSynth+** | [MeGUI](https://en.wikibooks.org/wiki/MeGUI) [:simple-icons-sourceforge:](https://sourceforge.net/projects/megui/) | :win: |
+| **FFmpeg** | [HandBrake](https://handbrake.fr/) [:src:](https://github.com/HandBrake/HandBrake) | :win::app::lin: |
+| ^^ | [Videomass](https://jeanslack.github.io/Videomass/) [:src:](https://github.com/jeanslack/Videomass) | :win::app::lin: |
+| ^^ | [FFmpeg.wasm](https://ffmpegwasm.netlify.app/) [:src:](https://github.com/ffmpegwasm/ffmpeg.wasm) | :web: |
+| ^^ | [FFmpeg Batch AV Converter](https://github.com/eibol/ffmpeg_batch) | :win: |
+| **MKVToolNix** | [gMKVExtractGUI](https://sourceforge.net/projects/gmkvextractgui/) | :win::app::lin: |
+| ^^ | [MKVcleaver](https://www.videohelp.com/software/MKVcleaver) | :win::cs: |
+| ^^ | [MKVToolNixWrapper](https://github.com/H3X1C/MKVToolNixWrapper) | :win: |
 
 - :more: [Encoding & Fansubbing Guides](/misc#encoding-fansubbing-guides)
 - :more: [JP Learning centric tools](/japan/software#subtitles)
@@ -282,18 +285,21 @@ og:
 
 ## General Tools
 
-- [BleachBit](https://www.bleachbit.org/) :win::lin: [:src:](https://github.com/bleachbit/bleachbit)
-- [Bulk Crap Uninstaller](https://www.bcuninstaller.com/) :win: [:src:](https://github.com/Klocman/Bulk-Crap-Uninstaller)
-- [Bulk Rename Utility](https://www.bulkrenameutility.co.uk/) :win::cs:
-- [Everything](https://www.voidtools.com/) :win::cs:
-  - [EverythingToolbar](https://github.com/srwi/EverythingToolbar) :win:
-- [File Converter](https://file-converter.io/index.html) :win: [:src:](https://github.com/Tichau/FileConverter)
-- [Flow Launcher](https://www.flowlauncher.com/) :win: [:src:](https://github.com/Flow-Launcher/Flow.Launcher)
-- [LocalSend](https://localsend.org/) :win::app::lin: [:src:](https://github.com/localsend/localsend)
-- [NanaZip](https://github.com/M2Team/NanaZip) :win:
-- [ShareX](https://getsharex.com/) :win: [:src:](https://github.com/ShareX/ShareX)
-- [Syncthing](https://syncthing.net/) :win::lin: [:src:](https://github.com/syncthing/syncthing)
-- [TeraCopy](https://www.codesector.com/teracopy) :win::app::cs:
+| Resources | Platform |
+| :--- | :--- |
+| [BleachBit](https://www.bleachbit.org/) [:src:](https://github.com/bleachbit/bleachbit) | :win::lin: |
+| [Bulk Crap Uninstaller](https://www.bcuninstaller.com/) [:src:](https://github.com/Klocman/Bulk-Crap-Uninstaller) | :win: |
+| [Bulk Rename Utility](https://www.bulkrenameutility.co.uk/) :cs: | :win: |
+| [Everything](https://www.voidtools.com/) :cs: | :win: |
+| [EverythingToolbar](https://github.com/srwi/EverythingToolbar) | :win: |
+| [File Converter](https://file-converter.io/index.html) [:src:](https://github.com/Tichau/FileConverter) | :win: |
+| [Flow Launcher](https://www.flowlauncher.com/) [:src:](https://github.com/Flow-Launcher/Flow.Launcher) | :win: |
+| [KDE Connect](https://kdeconnect.kde.org/) [:src:](https://invent.kde.org/network/kdeconnect-kde) | :and::ios::win::app::lin: |
+| [LocalSend](https://localsend.org/) [:src:](https://github.com/localsend/localsend) | :win::app::lin: |
+| [NanaZip](https://github.com/M2Team/NanaZip) | :win: |
+| [ShareX](https://getsharex.com/) [:src:](https://github.com/ShareX/ShareX) | :win: |
+| [Syncthing](https://syncthing.net/) [:src:](https://github.com/syncthing/syncthing) | :win::lin: |
+| [TeraCopy](https://www.codesector.com/teracopy) :cs: | :win::app: |
 
 
 ![](/banner/ext.webp)
