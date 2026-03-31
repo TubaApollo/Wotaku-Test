@@ -495,25 +495,29 @@ Some of the series may not be available depending on your region.
 
 | Category | Websites |  
 |----------|----------|  
-| **Manga** | [Comikey](https://comikey.com/) |  
-| ^^ | [Coolmic](https://coolmic.me/) |
-| ^^ | [INKR](https://comics.inkr.com/) |  
+| **General** | [Omoi](https://www.omoi.com/) |
+| ^^ | [Renta!](https://www.ebookrenta.com/) |  
+| **CaaS** | [Comikey](https://comikey.com/) |  
+| ^^ | [Coolmic](https://coolmic.me/) :ero: |
+| ^^ | [INKR](https://comics.inkr.com/) :ero: |  
 | ^^ | [KManga](https://kmanga.kodansha.com/) <tooltip>Available in the United States, the Philippines, Thailand, Vietnam, Hong Kong, Taiwan, India, Mexico, and Brazil.</tooltip> |  
-| ^^ | [Manga Mirai](https://mangamirai.com/) |
 | ^^ | [Manga Plus](https://mangaplus.shueisha.co.jp/) |  
 | ^^ | [Manga UP!](https://global.manga-up.com/) |  
 | ^^ | [Mangamo](https://www.mangamo.com/) |  
-| ^^ | [Omoi](https://www.omoi.com/) |
-| ^^ | [Renta!](https://www.ebookrenta.com/) |  
+| **Volume** | [Manga Mirai](https://mangamirai.com/) |
 | ^^ | [Shonen Jump](https://www.viz.com/sj-offer) <tooltip>Available in the United States, Canada, the United Kingdom, Ireland, New Zealand, Australia, South Africa, the Philippines, Singapore, and India.</tooltip> |  
 | ^^ | [VIZ Manga](https://www.viz.com/vm-offer) <tooltip>Available in the United States, the United Kingdom, Canada, Australia, New Zealand, and Ireland.</tooltip> |  
 | ^^ | [Yen Press](https://yenpress.com/) |  
-| **Manhwa & Manhua** | [Lezhin](https://www.lezhinus.com/en) |  
-| ^^ | [Manta](https://manta.net/en) |  
-| ^^ | [Tapas](https://tapas.io/) |  
-| ^^ | [Tappytoon](https://www.tappytoon.com/en/comics/home) |  
-| ^^ | [WebComics](https://webcomicsapp.com/) |  
-| ^^ | [Webtoon](https://www.webtoons.com/en/) |  
+
+## Manhwa & Manhua
+- [Lezhin](https://www.lezhinus.com/en) :ero:
+- [Manta](https://manta.net/en) :ero:
+- [Tapas](https://tapas.io/)
+- [Tappytoon](https://www.tappytoon.com/en/comics/home)
+- [Toomics](https://toomics.com/en/) :ero:
+- [TopToon](https://global.toptoon.com/) :ero:
+- [WebComics](https://webcomicsapp.com/)
+- [Webtoon](https://www.webtoons.com/en/)
 
 ::: info More sites
 You can go through [**digital comic info**](/guides/manga/comicinfo) to get more sites including sites for volume releases.
