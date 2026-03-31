@@ -53,7 +53,7 @@ og:
 - [IMHentai](https://imhentai.xxx/) [:prx:](https://rentry.org/wotaxy#imhentai) ==IMHentai==
 - [nHentai](https://nhentai.net/) ==nHentai==
 - [Panda Backup](https://panda.chaika.moe/) ==PandaBackup==
-- [Schale Network](https://schale.network/) :s: [:prx:](https://gitgud.io/Schale/schale-network) ==SchaleNetwork==
+- [Schale Network](https://shupogaki.moe/) :s: [:alt:](https://niyaniya.moe/) ==SchaleNetwork==
 - [Yabai](https://yabai.si/) ==Yabai==
 
 ### English-only

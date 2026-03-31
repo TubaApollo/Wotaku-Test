@@ -102,7 +102,6 @@ og:
   - [Bimibimi](http://www.bimiacg10.net/)
   - [MoMoVod](https://momovod.app/show/30.html)
   - [XG Cartoon](https://www.xgcartoon.com/)
-  - [Yinghuacd](https://www.yinhuadm.cc/) [:prx:](http://yinhuadm.one/)
 - **Torrent**
   - [ACG](https://acg.rip/)
   - [ACGNX](https://share.acgnx.se/)
