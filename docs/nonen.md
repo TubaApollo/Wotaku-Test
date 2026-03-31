@@ -402,7 +402,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [MangaFire](https://mangafire.to/home)
 - [MangaKuro](https://mangakuro.net/home)
 - [Manga Raw (.ac)](https://mangaraw.ac/) [:prx:](https://rentry.org/wotaxy#mangarawspoil) ==mangarawspoil==
-- [Manga Raw (.ad)](https://mangarawad.tech/)
+- [Manga Raw (.ad)](https://mangarawad.love/)
 - [Manga Raw (.best)](https://mangaraw.best/)
 - [Manga Raw (.fo)](https://rawfree.fo/)
 - [MangarawJP](https://mangarawjp.me/)
@@ -415,6 +415,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [RawUwU](https://rawuwu.net/) [:alt:](https://rawdevart.art/)
 - [Sen Manga](https://raw.senmanga.com/)
 - [Twicomi](https://twicomi.com/)
+- [YomiRaw](https://yomiraw.com/) :ero:
 
 ### Download
 
