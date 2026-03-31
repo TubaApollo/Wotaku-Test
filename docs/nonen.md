@@ -402,8 +402,9 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [MangaFire](https://mangafire.to/home)
 - [MangaKuro](https://mangakuro.net/home)
 - [Manga Raw (.ac)](https://mangaraw.ac/) [:prx:](https://rentry.org/wotaxy#mangarawspoil) ==mangarawspoil==
-- [Manga RAW (.ad)](https://mangarawad.tech/)
-- [Manga RAW (.best)](https://mangaraw.best/)
+- [Manga Raw (.ad)](https://mangarawad.tech/)
+- [Manga Raw (.best)](https://mangaraw.best/)
+- [Manga Raw (.fo)](https://rawfree.fo/)
 - [MangarawJP](https://mangarawjp.me/)
 - [Pixiv Comics](https://comic.pixiv.net/)
 - [RAW 1001](https://raw1001.net/home) [:prx:](https://rentry.org/wotaxy#raw1001)
@@ -610,6 +611,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 
 - **Stream**
   - [AnimeAV1](https://animeav1.com/)
+  - [MonosChinos](https://monoschinos2.com/)
   - [AnimeOnlineNinja](https://ver.animeonline.ninja/)
   - [Latanime](https://latanime.org/) <Badge type="info" text="Dub" />
   - [Estrenos Anime](https://estrenosanime.net/)
