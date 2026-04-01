@@ -46,20 +46,27 @@ For Aniyomi, Dantotsu and their forks, check [**Extension Repos** page](/guides/
 ## Manga Readers
 
 ### Online
-- [Mihon](https://mihon.app/) :s: [:src:](https://github.com/mihonapp/mihon) [:e:](/guides/ext/mihon) [:n:](https://github.com/mihonapp/mihon-preview)
-- [Yokai](https://mihon.app/forks/Yokai/) [:src:](https://github.com/null2264/yokai) [:e:](/guides/ext/mihon)
-- [Komikku](https://komikku-app.github.io/) [:src:](https://github.com/komikku-app/komikku) [:e:](/guides/ext/mihon) [:n:](https://github.com/komikku-app/komikku-preview)
+| Type | Reader |
+| :--- | :--- |
+| Mihon | [Mihon](https://mihon.app/) :s: [:src:](https://github.com/mihonapp/mihon) [:n:](https://github.com/mihonapp/mihon-preview) |
+| ^^ | [Yokai](https://mihon.app/forks/Yokai/) [:src:](https://github.com/null2264/yokai) |
+| ^^ | [Komikku](https://komikku-app.github.io/) [:src:](https://github.com/komikku-app/komikku) [:n:](https://github.com/komikku-app/komikku-preview) |
+| ^^ | [TachiyomiSY](https://mihon.app/forks/TachiyomiSY/) [:src:](https://github.com/jobobby04/TachiyomiSY) [:n:](https://github.com/jobobby04/TachiyomiSYPreview) |
+| ^^ | [TachiyomiAZ](https://mihon.app/forks/TachiyomiAZ/) [:src:](https://github.com/az4521/tachiyomiAZ) [:n:](https://crafty.moe/tachiyomiAZ.apk) |
+| Kotatosu | [Usagi](https://github.com/UsagiApp/Usagi) |
+| ^^ | [Futon](https://futonapp.pages.dev/) [:src:](https://github.com/AppFuton/Futon) |
+| ^^ | [Kotatsu Redo](https://github.com/Kotatsu-Redo/Kotatsu-Redo) |
+| ^^ | [Kototoro](https://github.com/skepsun/Kototoro) <tooltip>Supports Mihon and Legado extensions</tooltip> |
+| Misc | [AnymeX](https://anymex.vercel.app/) [:src:](https://github.com/RyanYuuki/AnymeX) <tooltip>Supports Mihon and Mangayomi extensions</tooltip> |
+| ^^ | [Dantotsu](https://github.com/itsmechinmoy/dantotsu-updater) [:src:](https://git.rebelonion.dev/rebelonion/Dantotsu) [:d:](https://discord.com/invite/4HPZ5nAWwM) <tooltip>Supports Mihon extensions</tooltip> |
+| ^^ | [Mangayomi](https://github.com/kodjodevf/mangayomi) |
 
-::: details More
-- [TachiyomiSY](https://mihon.app/forks/TachiyomiSY/) [:src:](https://github.com/jobobby04/TachiyomiSY) [:e:](/guides/ext/mihon) [:n:](https://github.com/jobobby04/TachiyomiSYPreview)
-- [Kotatsu Redo](https://github.com/Kotatsu-Redo/Kotatsu-Redo)
-- [Futon](https://futonapp.pages.dev/) [:src:](https://github.com/AppFuton/Futon)
-- [TachiyomiAZ](https://mihon.app/forks/TachiyomiAZ/) [:src:](https://github.com/az4521/tachiyomiAZ) [:n:](https://crafty.moe/tachiyomiAZ.apk)
-- [Animetail](https://github.com/Dark25/Animetail2) [:e:](/guides/ext/mihon) [:n:](https://github.com/Animetailapp/Animetail-preview)
-- [Aniyomi](https://aniyomi.org/) [:src:](https://github.com/aniyomiorg/aniyomi) [:e:](/guides/ext/mihon) [:n:](https://github.com/aniyomiorg/aniyomi-preview)
-- [Dantotsu](https://discord.com/invite/4HPZ5nAWwM) [:e:](/guides/ext/mihon)
-- [Neko](https://github.com/nekomangaorg/Neko)
-- [Mangayomi](https://github.com/kodjodevf/mangayomi) [:e:](/guides/ext/mangayomi)
+::: info Extension
+| Type | Source |
+| :--- | :--- |
+| Mihon | [Link](/guides/ext/mihon#manga) |
+| Mangayomi | [Link](/guides/ext/mangayomi#manga) |
+| Kotatsu | [Link](https://github.com/YakaTeam/repository) |
 :::
 
 ![Tachiyomi forks flowchart](/diagram/tachi.svg)
