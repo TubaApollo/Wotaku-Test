@@ -49,7 +49,7 @@ ___
 | [All Manga](https://allmanga.to/anime?tr=sub&cty=ALL) | :yes: | :no: | :cc::hs: |
 | [Anibd](https://animedefenders.me/) :ero: [:alt:](https://ani.lol/) | :yes: | :no: | :hs: |
 | [AniHQ](https://anihq.to/home/) | :yes: | :no: | :hs: |
-| [Animepahe](https://animepahe.si/) ==Animepahe== | :no: | :e: | :hs: |
+| [Animepahe](https://animepahe.com/) ==Animepahe== | :no: | :e: | :hs: |
 | [AnimeZ](https://animeyy.com/) ==animez== | :yes: | :no: | :hs: |
 | [Animotvslash](https://www.animotvslash.org/search) | :no: | :no: | :cc::hs: |
 | [Kuudere](https://kuudere.to/) | :yes: | :sync::ie: | :cc: |
