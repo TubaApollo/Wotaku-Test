@@ -49,7 +49,6 @@ og:
 | ^^  | [Morphe](https://morphe.software/) [:src:](https://github.com/MorpheApp/morphe-manager) | :and: |
 | ^^ | [Libretube](https://libretube.dev/) [:src:](https://github.com/libre-tube/LibreTube) | :and: |
 | ^^ | [Grayjay](https://grayjay.app/) [:src:](https://gitlab.futo.org/videostreaming/grayjay) | :and: |
-| ^^ | [uYou+](https://github.com/qnblackcat/uYouPlus) | :ios: |
 | ^^ | [Twire](https://github.com/twireapp/Twire) | :and: |
 
 ## General
