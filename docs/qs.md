@@ -151,7 +151,7 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 | ^^                 | [IDM](https://www.internetdownloadmanager.com/)  :cs:  [:help:](https://rentry.org/installidm)    | :win::paid:         |
 | ^^                 | [JDL 2](https://jdownloader.org/) :cs:     [:help:](/guides/tech/jdl)                | :win::app::lin:     |
 | **Torrent**        | [libretorrent](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent) | :and:                   |
-| ^^                 | [qBittorrent](https://www.qbittorrent.org/)                          | :win::app::lin:         |
+| ^^                 | [qBittorrent](https://www.qbittorrent.org/) [:alt:](https://qbittorrent.github.io/qBittorrent-website/) | :win::app::lin:         |
 | ^^                 | [Transmission](https://transmissionbt.com/)                         | :win::app::lin:         |
 
 

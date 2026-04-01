@@ -35,7 +35,7 @@ Dedicated clients are recommended since they have a lot torrent-centric features
 | ^^        | [LibreTorrent](https://github.com/proninyaroslav/libretorrent) :s: |
 | ^^        | [Flud](https://play.google.com/store/apps/details?id=com.delphicoder.flud) ==Flud== |
 | iOS       | [iTorrent](https://github.com/XITRIX/iTorrent) |
-| PC        | [qBittorrent](https://www.qbittorrent.org/) :s: [:src:](https://github.com/qbittorrent/qBittorrent/) |
+| PC        | [qBittorrent](https://www.qbittorrent.org/) :s: [:alt:](https://qbittorrent.github.io/qBittorrent-website/) [:src:](https://github.com/qbittorrent/qBittorrent/) |
 | ^^        | [Deluge](https://www.deluge-torrent.org/) [:src:](https://github.com/deluge-torrent/deluge) |
 | ^^        | [Transmission](https://transmissionbt.com/) [:src:](https://github.com/transmission/transmission) |
 | ^^        | [Fragments](https://apps.gnome.org/Fragments/) [:src:](https://gitlab.gnome.org/World/Fragments) |
