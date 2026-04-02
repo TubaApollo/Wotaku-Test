@@ -215,7 +215,7 @@ og:
 - [JetAnime](https://on.jetanimes.com/)
 - [Sekai](https://sekai.one/)
 - [Streaming-integrale](https://streaming-integrale.com/)
-- [Voiranime](https://voiranime.tv/) <Badge type="tip" text="Extension" link="https://github.com/Dastan21/BetterVoirAnime" />
+- [Voiranime](https://voir-anime.to/) [:d:](https://discord.gg/js2P2HT)
 - [Vostfree](https://vostfree.ws/)
 
 #### Software
@@ -234,6 +234,7 @@ og:
 ### Others
 - [Hyakanime](https://hyakanime.fr/)
 - [Nautiljon](https://www.nautiljon.com/)
+- [Voirdrama](https://voirdrama.to/) [:d:](https://discord.gg/QSGgA9yK6G)
 
 
 ## German
