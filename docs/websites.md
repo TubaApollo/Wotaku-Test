@@ -200,9 +200,9 @@ ___
 ::: details More
 | Websites | Tracking | Multi-Source | Social |
 |----------|----------|--------------|------- |
-| [Mangadotnet](https://mangadot.net/) ==Mangadotnet== | :sync: | :yes: | :ic-round-mode-comment::ic-round-forum: |
-| [Manga Katana](https://mangakatana.com/) | :ie::e:  | :no: | :ic-round-mode-comment: |
 | [MangaTaro](https://mangataro.org/home) | :ie::e:  | Partial, Poor | :ic-round-mode-comment: |
+| [Manga Katana](https://mangakatana.com/) | :ie::e:  | :no: | :ic-round-mode-comment: |
+| [Mangadotnet](https://mangadot.net/) ==Mangadotnet== | :sync: | :yes: | :ic-round-mode-comment::ic-round-forum: |
 | [Manga Buddy](https://mangabuddy.com/home) [:prx:](https://rentry.org/wotaxy#manga-buddy) | :e:  | :no: | :ic-round-mode-comment: |
 | [Mangahub](https://mangahub.io/) :acc: | :e:  | :no: | :ic-round-mode-comment: |
 | [Like Manga](https://likemanga.ink/) | :e:  | :no: | :ic-round-mode-comment: |
