@@ -13,7 +13,6 @@ og:
 - [Animecards Site](https://animecards.site/)
 
 :::details More
-- [itazuraneko](https://gohoneko.neocities.org/)
 - [Refold Japanese](https://refold.la/roadmap/)  <Badge type="tip" text="Docs" link="https://docs.google.com/document/d/1tQmoGwCJQqmjdmaQdigAG0Ph1ODSMsGhsD7qOhlUuc0/edit" />
 - [Jo-Mako's Japanese Guide](https://sites.google.com/view/jo-mako/home)
 - [Perdition's Guide](https://perdition-japanese.github.io/posts/how-to-study-japanese/)
@@ -29,7 +28,6 @@ og:
 | Site | Kana | Kanji | Grammar | Quiz | Books |
 |-|-|-|-|-|-|
 | [Nihongo NET](https://nihongokyoshi-net.com/) | :yes: | :yes: | :yes: | :yes: | :yes: | 
-| [Itazuraneko](https://gohoneko.neocities.org/) | :yes: | :yes: | :yes: | :no: | :no: | 
 | [KanaDojo](https://kanadojo.com/) [:src:](https://github.com/lingdojo/kana-dojo) | :yes: | :yes: | :no: | :yes: | :no: | 
 | [renshuu](https://www.renshuu.org/) | :yes: | :yes: | :yes: | :yes: | :yes: | 
 
@@ -46,7 +44,6 @@ og:
 - [**Japanese-lesson.com**](http://japanese-lesson.com/)
   - [Hiragana](http://japanese-lesson.com/characters/hiragana/hiragana_drill/index.html) <Badge type="tip" text="PDF" link="http://japanese-lesson.com/resources/pdf/characters/hiragana_chart.pdf"/> <Badge type="tip" text="Practice" link="http://japanese-lesson.com/resources/pdf/characters/hiragana_writing_practice_sheets.pdf" />
   - [Katakana](http://japanese-lesson.com/characters/katakana/katakana_drill/index.html) <Badge type="tip" text="PDF" link="http://japanese-lesson.com/resources/pdf/characters/katakana_chart.pdf"/> <Badge type="tip" text="Practice" link="http://japanese-lesson.com/resources/pdf/characters/katakana_writing_practice_sheets.pdf" />
-- [Tae Kim's Writing System](https://gohoneko.neocities.org/grammar/taekim#6%20The%20Scripts)
 - [JapanesePod101](https://www.youtube.com/@JapanesePod101)
   - [hiragana](https://www.youtube.com/watch?v=6p9Il_j0zjc)
   - [katakana](https://www.youtube.com/watch?v=s6DKRgtVLGA)

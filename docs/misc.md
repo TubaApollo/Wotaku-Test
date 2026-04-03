@@ -132,7 +132,6 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 - [ComicRanking500](https://x.com/ComicRanking500) ==ComicRanking500==
   - [Manga Ranking](http://shosekiranking.blog.fc2.com/) :fjp: [:rss:](http://shosekiranking.blog.fc2.com/?xml)
   - [Novel Ranking](http://bunkoranoberanking.blog.fc2.com/) :fjp: [:rss:](http://bunkoranoberanking.blog.fc2.com/?xml)
-- [Erzat](https://erzat.blog/) [:x:](https://x.com/Erzat110)
 - [Jajanken](https://www.jajanken.net/en/) <Badge text="WSJ" />
 - [Manga Codex](https://mangacodex.com/)
 - [Manga Properties](https://manga.properties/)
