@@ -32,8 +32,6 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 - [AnimeSongs.org](https://animesongs.org/)
 - [Annict](https://annict.com/) :fjp:
 - [Aniplaylist](https://aniplaylist.com/)
-- [Anisil](https://www.anisil.com/) :fjp:
-- [KeyFrame Staff List](https://keyframe-staff-list.com/)
 - [Simkl](https://simkl.com/)
 - [TMDB](https://www.themoviedb.org/)
 - [TVDB](https://www.thetvdb.com/)
@@ -63,11 +61,15 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 - [Bookmeter](https://bookmeter.com/) :fjp:
 - [Goodreads](https://www.goodreads.com/)
 
-## Seiyuu / Voice Actor
-- [Seiyuu.moe](https://seiyuu.moe/) :s:
-- [Anime voice actor and seiyuu comparison](https://avac.moe/index.php)
-- [Seiyuu (voice actor) database](http://www.usagi.org/doi/seiyuu/index.html)
-- [Behind The Voice Actors](https://www.behindthevoiceactors.com/)
+## Production
+| Category | Resource |
+| :--- | :--- |
+| General | [Anisil](https://www.anisil.com/) :fjp: |
+| Animation | [KeyFrame Staff List](https://keyframe-staff-list.com/) :s: |
+| Seiyuu / Voice Actor | [AVAC.moe](https://avac.moe/index.php) |
+| ^^ | [Seiyuu.moe](https://seiyuu.moe/) |
+| ^^ | [Seiyuu database](http://www.usagi.org/doi/seiyuu/index.html) |
+| ^^ | [Behind The Voice Actors](https://www.behindthevoiceactors.com/) <tooltip>Focuses on English VAs more.</tooltip> |
 
 ## Others
 | Section | Websites |
