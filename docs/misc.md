@@ -19,7 +19,6 @@ outline: [1,2]
 - [Sakuhin Database](https://sakuhindb.com/) :fjp:
 - [Wikipedia](https://www.wikipedia.org/) :s:
   - [WikiTimeline](https://wiki-timeline.com/) [:src:](https://github.com/wenzhenl/wikitimeline)
-  - [WikiWand](https://www.wikiwand.com/)
 
 ::: tip Tracker related utility sites
 Visit the [**tracker utility**](#tracker) section for tracker stats and data transfer between sites.
@@ -65,10 +64,11 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 | Category | Resource |
 | :--- | :--- |
 | General | [Anisil](https://www.anisil.com/) :fjp: |
-| Animation | [KeyFrame Staff List](https://keyframe-staff-list.com/) :s: |
-| Seiyuu / Voice Actor | [AVAC.moe](https://avac.moe/index.php) |
-| ^^ | [Seiyuu.moe](https://seiyuu.moe/) |
-| ^^ | [Seiyuu database](http://www.usagi.org/doi/seiyuu/index.html) |
+| Animation | [Anime Staff Matcher](https://staff.iklone.org/) :mal: [:src:](https://github.com/iklone/anime-staff-matcher) |
+| ^^ | [KeyFrame Staff List](https://keyframe-staff-list.com/) :s: |
+| Seiyuu / Voice Actor | [AVAC.moe](https://avac.moe/index.php) :mal: |
+| ^^ | [Seiyuu.moe](https://seiyuu.moe/) :mal: |
+| ^^ | [Seiyuu Database](http://www.usagi.org/doi/seiyuu/index.html) |
 | ^^ | [Behind The Voice Actors](https://www.behindthevoiceactors.com/) <tooltip>Focuses on English VAs more.</tooltip> |
 
 ## Others
@@ -341,6 +341,7 @@ ___
 - [Anime Bath Scene Wiki](https://animebathscenewiki.com/index.php?title=Main_Page)
 - [HUNTER×HUNTER Hiatus Chart](https://hiatus-hiatus.github.io/)
 - [Inazuma](https://inazuma.rl404.com/) [:src:](https://github.com/rl404/inazuma)
+- [Maid Spin](https://iklone.org/)
 - [One Piece Wanted Poster Maker](https://yuskawu.github.io/one-piece-wanted-poster/dist/) [:src:](https://github.com/YuskaWu/one-piece-wanted-poster)
 - [Song Bottle](https://song-bottle.app/)
 - [True Harem](https://trueharem.carrd.co/)
