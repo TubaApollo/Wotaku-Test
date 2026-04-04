@@ -175,46 +175,50 @@ ___
 <br>
 
 ::: details Symbols
-
 | Category | Descrpition | Legend |
 | :--- | :--- | :--- |
 | **Tracking** | Built-in sync system | :sync: |
 | ^^ | Entry import-export | :ie: |
 | ^^ | Sync using MAL-Sync | :e: |
+| **Source** | Multiple chapter sources | :ms: |
+| ^^ | Unlabeled / Poorly labeled / Partial multi-source | :ps: |
+| ^^ | Single source | :ss: |
+| ^^ | User / Scan group upload (w/ or w/o perm) | :up: |
 | **Social** | Comment Section | :ic-round-mode-comment: |
 | ^^ | Forum | :ic-round-forum: |
-
 :::
 
 ## Online
 
-| Websites | Tracking | Multi-Source | Social |
+| Websites | Tracking | Sources | Social |
 |----------|----------|--------------|--------|
-| [Comix](https://comix.to/home) ==Comix== | :ie::e: | :yes: | :ic-round-mode-comment: |
-| [Kagane](https://kagane.org/) ==Kagane== |  :e: | :yes: | :ic-round-mode-comment: |
-| [Weeb Central](https://weebcentral.com/) ==WeebCentral== | :e:  | :no: | :ic-round-mode-comment: |
-| [Atsumaru](https://atsu.moe/) ==Atsumaru== |  :e: | Partial, Poor | :ic-round-mode-comment: |
-| [MangaFire](https://mangafire.to/home) ==MangaFire== |  :ie::e: | :no: | :no: |
+| [Comix](https://comix.to/home) ==Comix== | :ie::e: | :ms: | :ic-round-mode-comment: |
+| [Kagane](https://kagane.org/) ==Kagane== |  :e: | :ms::up: | :ic-round-mode-comment: |
+| [Weeb Central](https://weebcentral.com/) ==WeebCentral== | :e:  | :ss: | :ic-round-mode-comment: |
+| [Atsumaru](https://atsu.moe/) ==Atsumaru== |  :e: | :ps: | :ic-round-mode-comment: |
+| [MangaFire](https://mangafire.to/home) ==MangaFire== |  :ie::e: | :ss: | :no: |
 
-::: details More
-| Websites | Tracking | Multi-Source | Social |
+::: details More {open}
+
+### Self-uploaded
+| Websites | Tracking | Sources | Social |
 |----------|----------|--------------|------- |
-| [MangaTaro](https://mangataro.org/home) | :ie::e:  | Partial, Poor | :ic-round-mode-comment: |
-| [Manga Katana](https://mangakatana.com/) | :ie::e:  | :no: | :ic-round-mode-comment: |
-| [Mangadotnet](https://mangadot.net/) ==Mangadotnet== | :sync: | :yes: | :ic-round-mode-comment::ic-round-forum: |
-| [Manga Buddy](https://mangabuddy.com/home) [:prx:](https://rentry.org/wotaxy#manga-buddy) | :e:  | :no: | :ic-round-mode-comment: |
-| [Mangahub](https://mangahub.io/) :acc: | :e:  | :no: | :ic-round-mode-comment: |
-| [Like Manga](https://likemanga.ink/) | :e:  | :no: | :ic-round-mode-comment: |
-| [Manga Fox](https://mangafox.la/) [:prx:](https://rentry.org/wotaxy#manga-fox) | :e:  | :no: | :ic-round-mode-comment: |
-| [MangaBall](https://mangaball.net/) |  :e: | Partial, Poor | :ic-round-mode-comment: |
-| [MangaKakalot](https://www.mangakakalot.fan/) [:prx:](https://rentry.org/wotaxy#mangakakalot) |  :e: | :no: | :ic-round-mode-comment: |
-| [24hNovel](https://24hnovel.com/) <Badge type="info" text="Manhua"  /> | :no:  | :no: | :no: |
-:::
+| [MangaTaro](https://mangataro.org/home) | :ie::e:  | :ps::up: | :ic-round-mode-comment: |
+| [Manga Katana](https://mangakatana.com/) | :ie::e:  | :ss: | :ic-round-mode-comment: |
+| [Mangadotnet](https://mangadot.net/) ==Mangadotnet== | :sync: | :ms::up: | :ic-round-mode-comment::ic-round-forum: |
+| [Manga Buddy](https://mangabuddy.com/home) [:prx:](https://rentry.org/wotaxy#manga-buddy) | :e:  | :ss: | :ic-round-mode-comment: |
+| [Mangahub](https://mangahub.io/) :acc: | :e:  | :ss: | :ic-round-mode-comment: |
+| [Like Manga](https://likemanga.ink/) | :e:  | :ss: | :ic-round-mode-comment: |
+| [Manga Fox](https://mangafox.la/) [:prx:](https://rentry.org/wotaxy#manga-fox) | :e:  | :ss: | :ic-round-mode-comment: |
+| [MangaBall](https://mangaball.net/) |  :e: | :ps::up: | :ic-round-mode-comment: |
+| [MangaKakalot](https://www.mangakakalot.fan/) [:prx:](https://rentry.org/wotaxy#mangakakalot) |  :e: | :ss: | :ic-round-mode-comment: |
+| [24hNovel](https://24hnovel.com/) <Badge type="info" text="Manhua"  /> | :no:  | :ss: | :no: |
 
-::: details Scrapers
-- [Cubari Proxy](https://proxy.cubari.moe/#/) ==cubari==
-- [Akari Manga](https://akarimanga.dpdns.org/) [:src:](https://github.com/sn0w12/akari) ==akari==
-- [Vidbox](https://vidbox.cc/manga) ==vidbox==
+### Scrapers
+| Websites | Tracking | Sources | Social |
+|----------|----------|--------------|------- |
+| [Cubari Proxy](https://proxy.cubari.moe/#/) ==cubari== | :e: | :ms: | :no: |
+| [Vidbox](https://vidbox.cc/manga) ==vidbox== | :no: | :ss: | :no: |
 :::
 
 ::: tip Kaguya

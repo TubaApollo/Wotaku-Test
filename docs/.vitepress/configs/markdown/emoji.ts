@@ -125,6 +125,10 @@ const aliases: Record<string, string> = {
   yes: 'twemoji-check-mark-button',
   no: 'twemoji-cross-mark',
   global: 'twemoji-globe-showing-asia-australia',
+  up: 'material-symbols-upload',
+  ms: 'material-symbols-file-copy-rounded',
+  ps: 'material-symbols-file-copy-outline-rounded',
+  ss: 'material-symbols-file-copy-off-rounded',
   cc: 'mdi-closed-caption',
   hs: 'mdi-hulu'
 }
