@@ -206,12 +206,12 @@ ___
 | [MangaTaro](https://mangataro.org/home) | :ie::e:  | :ps::up: | :ic-round-mode-comment: |
 | [Manga Katana](https://mangakatana.com/) | :ie::e:  | :ss: | :ic-round-mode-comment: |
 | [Mangadotnet](https://mangadot.net/) ==Mangadotnet== | :sync: | :ms::up: | :ic-round-mode-comment::ic-round-forum: |
+| [MangaBall](https://mangaball.net/) |  :e: | :ps::up: | :ic-round-mode-comment: |
 | [Manga Buddy](https://mangabuddy.com/home) [:prx:](https://rentry.org/wotaxy#manga-buddy) | :e:  | :ss: | :ic-round-mode-comment: |
 | [Mangahub](https://mangahub.io/) :acc: | :e:  | :ss: | :ic-round-mode-comment: |
-| [Like Manga](https://likemanga.ink/) | :e:  | :ss: | :ic-round-mode-comment: |
 | [Manga Fox](https://mangafox.la/) [:prx:](https://rentry.org/wotaxy#manga-fox) | :e:  | :ss: | :ic-round-mode-comment: |
-| [MangaBall](https://mangaball.net/) |  :e: | :ps::up: | :ic-round-mode-comment: |
 | [MangaKakalot](https://www.mangakakalot.fan/) [:prx:](https://rentry.org/wotaxy#mangakakalot) |  :e: | :ss: | :ic-round-mode-comment: |
+| [Like Manga](https://likemanga.ink/) | :e:  | :ss: | :ic-round-mode-comment: |
 | [24hNovel](https://24hnovel.com/) <Badge type="info" text="Manhua"  /> | :no:  | :ss: | :no: |
 
 ### Scrapers
