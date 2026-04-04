@@ -191,18 +191,18 @@ ___
 ## Online
 
 | Websites | Tracking | Sources | Social |
-|----------|----------|--------------|--------|
+|----------|----------|---------|--------|
 | [Comix](https://comix.to/home) ==Comix== | :ie::e: | :ms: | :ic-round-mode-comment: |
 | [Kagane](https://kagane.org/) ==Kagane== |  :e: | :ms::up: | :ic-round-mode-comment: |
 | [Weeb Central](https://weebcentral.com/) ==WeebCentral== | :e:  | :ss: | :ic-round-mode-comment: |
 | [Atsumaru](https://atsu.moe/) ==Atsumaru== |  :e: | :ps: | :ic-round-mode-comment: |
 | [MangaFire](https://mangafire.to/home) ==MangaFire== |  :ie::e: | :ss: | :no: |
 
-::: details More {open}
+::: details More
 
 ### Self-uploaded
 | Websites | Tracking | Sources | Social |
-|----------|----------|--------------|------- |
+|----------|----------|---------|------- |
 | [MangaTaro](https://mangataro.org/home) | :ie::e:  | :ps::up: | :ic-round-mode-comment: |
 | [Manga Katana](https://mangakatana.com/) | :ie::e:  | :ss: | :ic-round-mode-comment: |
 | [Mangadotnet](https://mangadot.net/) ==Mangadotnet== | :sync: | :ms::up: | :ic-round-mode-comment::ic-round-forum: |
@@ -216,7 +216,7 @@ ___
 
 ### Scrapers
 | Websites | Tracking | Sources | Social |
-|----------|----------|--------------|------- |
+|----------|----------|---------|------- |
 | [Cubari Proxy](https://proxy.cubari.moe/#/) ==cubari== | :e: | :ms: | :no: |
 | [Vidbox](https://vidbox.cc/manga) ==vidbox== | :no: | :ss: | :no: |
 :::
