@@ -1,6 +1,5 @@
-- Best for manhwa at the moment.  
-- Allows user uploads and adds new titles upon request.  
-- Scrapes official sources (for manhwa), uploads from Nyaa rippers (for manga), and select scanlators.  
-- Offers high-quality uploads without watermarks.  
-- Provides multi-source options for series with multiple licensors.  
+- Best for manhwa, but has lots of manga too.
+- Allows user uploads and adds new titles upon request.
+- Scrapes official sources, uploads from Nyaa rippers and select scanlators.
+- Offers high-quality uploads without watermarks.
 - Requires a browser with DRM support.

@@ -53,7 +53,7 @@ For Aniyomi, Dantotsu and their forks, check [**Extension Repos** page](/guides/
 | ^^ | [Komikku](https://komikku-app.github.io/) [:src:](https://github.com/komikku-app/komikku) [:n:](https://github.com/komikku-app/komikku-preview) |
 | ^^ | [TachiyomiSY](https://mihon.app/forks/TachiyomiSY/) [:src:](https://github.com/jobobby04/TachiyomiSY) [:n:](https://github.com/jobobby04/TachiyomiSYPreview) |
 | ^^ | [TachiyomiAZ](https://mihon.app/forks/TachiyomiAZ/) [:src:](https://github.com/az4521/tachiyomiAZ) [:n:](https://crafty.moe/tachiyomiAZ.apk) |
-| Kotatosu | [Usagi](https://github.com/UsagiApp/Usagi) |
+| Kotatsu | [Usagi](https://github.com/UsagiApp/Usagi) |
 | ^^ | [Futon](https://futonapp.pages.dev/) [:src:](https://github.com/AppFuton/Futon) |
 | ^^ | [Kotatsu Redo](https://github.com/Kotatsu-Redo/Kotatsu-Redo) |
 | ^^ | [Kototoro](https://github.com/skepsun/Kototoro) <tooltip>Supports Mihon and Legado extensions</tooltip> |
