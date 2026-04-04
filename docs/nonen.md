@@ -309,6 +309,7 @@ og:
   - [AniMoye](https://animoye.com/)
   - [Desi Dub Anime](https://www.desidubanime.me/)
   - [Dora Bash](https://dorabash.in/)
+  - [Kartoons](https://kartoons.me/home)
   - [PirateXPlay](https://piratexplay.cc/home)
   - [ToonStream](https://toonstream.love/)
 - **DDL**
