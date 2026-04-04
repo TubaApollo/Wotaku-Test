@@ -194,7 +194,6 @@ ___
 | [Kagane](https://kagane.org/) ==Kagane== |  :e: | :yes: | :ic-round-mode-comment: |
 | [Weeb Central](https://weebcentral.com/) ==WeebCentral== | :e:  | :no: | :ic-round-mode-comment: |
 | [Atsumaru](https://atsu.moe/) ==Atsumaru== |  :e: | Partial, Poor | :ic-round-mode-comment: |
-| [WeebDex](https://weebdex.org/) <Badge type="info" text="Manga"  /> | :ie::e: | :yes: | :ic-round-mode-comment: |
 | [MangaFire](https://mangafire.to/home) ==MangaFire== |  :ie::e: | :no: | :no: |
 
 ::: details More
