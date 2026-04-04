@@ -66,6 +66,7 @@ og:
 
 ### Sites
 - [TOFUGU: The Best Kanji Learning Programs](https://www.tofugu.com/japanese/best-kanji-learning-programs/)
+- [Kanji Alive](https://app.kanjialive.com/search)
 - [Kanji by Sight](https://www.nihongoshark.com/post/kanji-by-sight)
 - [KanjiDamage](https://www.kanjidamage.com/)
 - [KanjiDamage+](https://kanjidamageplus.neocities.org/)
