@@ -1,1 +1,1 @@
-Scrapes MangaKakalot.
+Scrapes Atsumaru.
