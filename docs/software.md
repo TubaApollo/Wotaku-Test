@@ -472,7 +472,6 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 | Software | Platform |
 | :--- | :--- |
 | [Chrome Lens OCR](https://github.com/dimdenGD/chrome-lens-ocr) | :mdi-npm-variant: |
-| [Manatan](https://manatan.com/) [:src:](https://github.com/KolbyML/Manatan) | :and::ios::win::app::lin: |
 | [OwOCR](https://github.com/AuroraWright/owocr) | :win::app::py: |
 | [Game Sentence Miner](https://github.com/bpwhelan/GameSentenceMiner) | :win::app::lin: |
 | [Manga OCR](https://github.com/kha-white/manga-ocr) | :py: |
@@ -483,6 +482,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 | Focus | Software | Platforms |
 | :--- | :--- | :--- |
 | **General** | [Kanji Tomo](https://www.kanjitomo.net/) [:src:](https://github.com/sakarika/kanjitomo-ocr) | :win: |
+| ^^ | [Manatan](https://manatan.com/) [:src:](https://github.com/KolbyML/Manatan) | :and::ios::win::app::lin: |
 | ^^ | [Yomiwa](https://www.yomiwa.net/) :cs: | :and::ios: |
 | **Manga** | [Ballons Translator](https://github.com/dmMaze/BallonsTranslator) | :win::py: |
 | ^^ | [Capture2text](https://capture2text.sourceforge.net/) | :win: |
