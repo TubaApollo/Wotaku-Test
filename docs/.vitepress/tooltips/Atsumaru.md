@@ -1,1 +1,2 @@
-Mostly scrapes Weeb Central, but allows user uploads too.
+- Mostly scrapes Weeb Central, but has own uploads too.
+- Transcodes images to WebP.
