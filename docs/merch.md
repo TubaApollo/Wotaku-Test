@@ -35,21 +35,11 @@ og:
 - [Here](https://www.post.japanpost.jp/cgi-charge/index.php?lang=_en) you will find JP Post's rates and delivery days calculator if you want to get an idea on the estimate of what you are ordering
 - When it comes to customs, be sure to visit your country's government customs website for information on duties and taxes
 
-> 💡 There are several ways to avoid paying for customs taxes. Additional information can be found [**here**](https://buyfags.moe/Shipping#How_do_I_avoid_paying_customs_taxes.3F). Be sure to visit the country specific information from the link provided.
-
 ### Agent Types
-
 - **Forwarder**
     - Used in cases when you want to buy goods/Items, but the service or person doesn't ship overseas. You then rely on a forwarder, that will give you a temporary Japanese address to which you can ship the things you need. The forwarder will charge you storage fees + international shipping to send the goods/items to you. You can simply think of this as someone that literally forwards the goods to you, because you don't have a Japanese address of your own.
 - **Proxy**
     - Someone acting on your behalf that buys, accepts, and ships the goods to you, unlike a forwarder. Generally, recommended for beginners (especially if you are nervous about buying stuff online), however more expensive. They will charge you the purchase fees for the goods + domestic shipping + international shipping fees + any additional fees as per their policy. 
-
-### Additional Guides
-- [Types of Merch](https://buyfags.moe/Details_for_each_type_of_buyfaggotry)
-    - An overall good coverage of all the types of merch out there
-- [Bootleg Guide](https://solarisjapan.com/blogs/news/ultimate-guide-bootlegs-fake-anime-figures)
-    - Bootleg (Fake product) spotting guide
-- [Meramifan's Forwarding and Proxy guide](https://meramifan.wordpress.com/guide/#forwarding-and-proxy-shopping-services)
 
 :::
 
@@ -57,19 +47,20 @@ og:
 Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide) and make informed decisions. It's always a good idea to read the most recent reviews or ask for advice in a [related community](/merch#communities) before making your final decision.
 :::
 
-
-## Guides :s:
-- [A Complete Guide by BuyFag](https://www.buyfags.moe/)
-- [Bootleg Figure Spotting Guide by Solaris](https://solarisjapan.com/blogs/news/ultimate-guide-bootlegs-fake-anime-figures)
-- [chastetiddy’s Arcade Sticks Guide](https://docs.google.com/document/d/1fYqVRt_99AGFv7k7oBuEsW5POb50PdTdT5qirqZLS6w/edit)
-- [A Comprehensive Guide to Dakimakuras as a Hobby](https://daki.info/)
-- [Fumo Buying guide](https://fumo.website/)
-- [Garage Kit Guide by Muntoe](https://www.plumworkshop.com/gk-compendium/part-1-bg-supplies)
-- [Gunpla Guide by Gelgoog Guy](https://docs.google.com/document/d/1Tr8UyF2Xg5Ojqw0sxcO7oIG7IIsJPes3lMO5pHZKu5o/pub)
-- [Gunpla Guide by Layman](https://otakurevolution.com/content/laymans-gunpla-guide)
-- [Gunpla Wiki r/Gunpla](https://old.reddit.com/r/Gunpla/wiki/)
-- [Meramifan's guide to support doujin artists/circles](https://meramifan.wordpress.com/guide/)
-- [Music Stuff from Japan by Dimsim](https://old.reddit.com/r/japanesemusic/comments/dagaj8/how_to_buy_music_stuff_from_japan_a_guide/)
+## Guides
+| Topic | Guide | Author |
+| :--- | :--- | :--- |
+| General | [So you want to be a buyf/a/g?](https://www.buyfags.moe/) :s: | BuyFag |
+| Figure | [Bootleg Figure Spotting Guide](https://solarisjapan.com/blogs/news/ultimate-guide-bootlegs-fake-anime-figures) | Solaris |
+| ^^ | [Garage Kit Guide](https://www.plumworkshop.com/gk-compendium/part-1-bg-supplies) | Muntoe |
+| Gunpla | [Gunpla Guide - Get Me Started](https://docs.google.com/document/d/1Tr8UyF2Xg5Ojqw0sxcO7oIG7IIsJPes3lMO5pHZKu5o/pub) | Gelgoog Guy |
+| ^^ | [Layman’s Gunpla Guide](https://otakurevolution.com/content/laymans-gunpla-guide) | Falldog |
+| ^^ | [Gunpla Wiki](https://old.reddit.com/r/Gunpla/wiki/) | r/Gunpla |
+| Music | [Supporting doujin music artists/circles](https://meramifan.wordpress.com/guide/) | Meramifan |
+| ^^ | [Music Stuff from Japan](https://old.reddit.com/r/japanesemusic/comments/dagaj8/how_to_buy_music_stuff_from_japan_a_guide/) | Dimsim |
+| Others | [Arcade Sticks 101](https://docs.google.com/document/d/1fYqVRt_99AGFv7k7oBuEsW5POb50PdTdT5qirqZLS6w/edit) | chastetiddy |
+| ^^ | [A Comprehensive Guide to Dakimakuras](https://daki.info/) | nanatabiber |
+| ^^ | [Fumo Buying guide](https://fumo.website/) [:src:](https://github.com/Ununoctium117/fumosite) | Ununoctium117 |
 
 
 ## Info
