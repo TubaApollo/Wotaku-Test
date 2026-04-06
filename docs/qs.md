@@ -63,7 +63,6 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 | ^^         | [YACReader](https://apps.apple.com/app/id635717885) :s::paid::cs: [:tf:](https://testflight.apple.com/join/5zhB7sRP) |
 | **PC**     | [OpenComic](https://opencomic.app/) :s: :win::app::lin: [:src:](https://github.com/ollm/OpenComic) |
 | ^^         | [YACReader](https://www.yacreader.com/) :win::app::lin: |
-| ^^         | [Houdoku](https://houdoku.netlify.app/) :win::app::lin: [:src:](https://github.com/xgi/houdoku) |
 
 
 ![](/banner/music.webp)
