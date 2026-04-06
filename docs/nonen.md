@@ -533,6 +533,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 - [DGB Catálogo](https://dgbfansub.carrd.co/)
 - [Rádio Toku Hero Club](https://www.radiotokuheroclub.com/)
 - [Senpuu Tokusatsu](https://senpuu.com.br/)
+- [TokuSato](https://www.youtube.com/@TokuSatoOficial)
 - [:tg: TOKUSHARE](https://t.me/s/tokushareoficial)
 
 
