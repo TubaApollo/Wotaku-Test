@@ -515,12 +515,12 @@ Some of the series may not be available depending on your region.
 | ^^ | [Yen Press](https://yenpress.com/) |  
 
 ## Manhwa & Manhua
-- [Lezhin](https://www.lezhinus.com/en) :ero:
-- [Manta](https://manta.net/en) :ero:
+- [Lezhin](https://www.lezhinus.com/en)
+- [Manta](https://manta.net/en)
 - [Tapas](https://tapas.io/)
 - [Tappytoon](https://www.tappytoon.com/en/comics/home)
-- [Toomics](https://toomics.com/en/) :ero:
-- [TopToon](https://global.toptoon.com/) :ero:
+- [Toomics](https://toomics.com/en/)
+- [TopToon](https://global.toptoon.com/)
 - [WebComics](https://webcomicsapp.com/)
 - [Webtoon](https://www.webtoons.com/en/)
 

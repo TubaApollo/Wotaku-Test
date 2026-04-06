@@ -29,11 +29,11 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 | Category  | Resource |
 |-----------|--------------------------------------------------|
 | **Android** | [Aniyomi](https://aniyomi.org/) :s: [:src:](https://github.com/aniyomiorg/aniyomi) [:e:](/guides/ext/mihon) |
-| ^^        | [Hayase](https://hayase.watch/) :s: [:src:](https://github.com/hayase-app) [:e:](/guides/ext/misc#hayase) |
+| ^^        | [Hayase](https://hayase.watch/) [:src:](https://github.com/hayase-app) [:e:](/guides/ext/misc#hayase) |
 | ^^        | [Dantotsu](https://discord.com/invite/4HPZ5nAWwM) [:e:](/guides/ext/mihon) |
 | **iOS**   | [Luna](https://github.com/cranci1/Luna) [:e:](/guides/ext/ios#sora) |
 | ^^        | [Mangayomi](https://github.com/kodjodevf/mangayomi) [:e:](/guides/ext/mangayomi) |
-| **PC**    | [Hayase](https://hayase.watch/) :s: [:src:](https://github.com/hayase-app) [:e:](/guides/ext/misc#hayase) |
+| **PC**    | [Hayase](https://hayase.watch/) [:src:](https://github.com/hayase-app) [:e:](/guides/ext/misc#hayase) |
 | ^^        | [Mangayomi](https://github.com/kodjodevf/mangayomi) :mag::ddl: [:e:](/guides/ext/mangayomi) |
 
 ![](/banner/wmanga.webp)

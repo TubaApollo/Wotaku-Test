@@ -21,7 +21,7 @@ For Aniyomi, Dantotsu and their forks, check [**Extension Repos** page](/guides/
 | App | Source | Tracker |
 |-|-|-|
 | [Aniyomi](https://aniyomi.org/) :s: [:src:](https://github.com/aniyomiorg/aniyomi) [:n:](https://github.com/aniyomiorg/aniyomi-preview) | :ddl: | :mal::al::k::simkl: |
-| [Hayase](https://hayase.watch/) :s: [:src:](https://github.com/hayase-app) [:e:](/guides/ext/misc#hayase) | :mag::material-symbols-newspaper-rounded: | :mal::al::k: |
+| [Hayase](https://hayase.watch/) [:src:](https://github.com/hayase-app) [:e:](/guides/ext/misc#hayase) | :mag::material-symbols-newspaper-rounded: | :mal::al::k: |
 | [Animetail](https://github.com/Dark25/Animetail2) [:n:](https://github.com/Animetailapp/Animetail-preview) | :ddl::mag: | :mal::al::k::simkl: |
 | [Anikku](https://anikku-app.github.io/) [:src:](https://github.com/komikku-app/anikku) [:n:](https://github.com/komikku-app/anikku-preview) | :ddl::mag: | :mal::al::k::simkl: |
 | [Dantotsu](https://discord.com/invite/4HPZ5nAWwM) [:src:](https://git.rebelonion.dev/rebelonion/Dantotsu) [:alt:](https://github.com/itsmechinmoy/dantotsu-updater) | :ddl::mag: | :mal::al: |
@@ -223,7 +223,7 @@ or buy an Android phone :ic-twotone-thumb-up:
 
 | Program | OS | Source | Tracker |
 |-|-|-|-|
-| [Hayase](https://hayase.watch/) :s: [:src:](https://github.com/hayase-app) [:e:](/guides/ext/misc#hayase) | :win::app::lin: | :mag::material-symbols-newspaper-rounded: | :mal::al::k: |
+| [Hayase](https://hayase.watch/) [:src:](https://github.com/hayase-app) [:e:](/guides/ext/misc#hayase) | :win::app::lin: | :mag::material-symbols-newspaper-rounded: | :mal::al::k: |
 | [Stremio](https://www.stremio.com/) | :win::app::lin: | :mag::ddl: | :mal::al::k::simkl: |
 | [Mangayomi](https://github.com/kodjodevf/mangayomi) [:e:](/guides/ext/mangayomi) | :win::app::lin: | :mag::ddl: | :mal::al::k: |
 | [Seanime](https://seanime.app/) | :win::app::lin: | :mag::ddl: | :mal::al::k::simkl: |
