@@ -29,8 +29,8 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 | Category  | Resource |
 |-----------|--------------------------------------------------|
 | **Android** | [Aniyomi](https://aniyomi.org/) :s: [:src:](https://github.com/aniyomiorg/aniyomi) [:e:](/guides/ext/mihon) |
-| ^^        | [Hayase](https://hayase.watch/) [:src:](https://github.com/hayase-app) [:e:](/guides/ext/misc#hayase) |
 | ^^        | [Dantotsu](https://discord.com/invite/4HPZ5nAWwM) [:e:](/guides/ext/mihon) |
+| ^^        | [Hayase](https://hayase.watch/) [:src:](https://github.com/hayase-app) [:e:](/guides/ext/misc#hayase) |
 | **iOS**   | [Luna](https://github.com/cranci1/Luna) [:e:](/guides/ext/ios#sora) |
 | ^^        | [Mangayomi](https://github.com/kodjodevf/mangayomi) [:e:](/guides/ext/mangayomi) |
 | **PC**    | [Hayase](https://hayase.watch/) [:src:](https://github.com/hayase-app) [:e:](/guides/ext/misc#hayase) |
@@ -183,7 +183,7 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 | **WireGuard**    | :yes:                         | :yes:                            | :yes:                             | :yes:                            | :yes:                                 |
 
 ::: tip Readme
-This overview (**<u>not</u>** ranking) lists the paid features, the free tier (if a VPN has it) would be more limited. There are free vpns like [WARP](https://one.one.one.one/) and [Riseup vpn](https://riseup.net/en/vpn) but they weren't consisdered because of their reliability and lack of features. Go through [Techlore's VPNs comparison](https://www.techlore.tech/vpn) for more comparisons.
+This overview (**<u>not</u>** ranking) lists the paid features, the free tier (if a VPN has it) would be more limited. There are free vpns like [WARP](https://one.one.one.one/) and [Riseup vpn](https://riseup.net/en/vpn) but they weren't consisdered because of their reliability and lack of features. Go through [Techlore's VPN Finder](https://vpn.techlore.tech/) for more comparisons.
 :::
 
 ::: danger Never use Cracked / Modded VPN {open}

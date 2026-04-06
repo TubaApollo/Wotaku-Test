@@ -157,8 +157,7 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 ## Android
 - **General**
   - [Komikku](https://komikku-app.github.io/) [:src:](https://github.com/komikku-app/komikku) [:e:](/guides/ext/mihon)
-  - [Hentoid](https://github.com/avluis/Hentoid)
-  - [Jasmine](https://github.com/niuhuan/jasmine)
+  - [Jasmine](https://github.com/ComicSparks/jasmine)
   - [Aniyomi](https://github.com/jmir1/aniyomi-mpv-beta) [:e:](/guides/ext/mihon)
 - **E-Hentai**
   - [EhViewer-FooIbar](https://github.com/FooIbar/EhViewer)
@@ -172,14 +171,14 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 ## iOS
 - [EhPanda](https://github.com/EhPanda-Team/EhPanda)
 - [JHenTai](https://github.com/jiangtian616/JHenTai)
-- [Jasmine](https://github.com/niuhuan/jasmine)
+- [Jasmine](https://github.com/ComicSparks/jasmine)
 
 ## PC
 
 ### Viewer / Tools
 - [ExHentai Manga Manager](https://github.com/SchneeHertz/exhentai-manga-manager) :win:
 - [JHenTai](https://github.com/jiangtian616/JHenTai) :win::app::lin:
-- [Jasmine](https://github.com/niuhuan/jasmine) :win::app::lin:
+- [Jasmine](https://github.com/ComicSparks/jasmine) :win::app::lin:
 - [Konomi Viewer](https://konomiviewer.com/) :win::app::lin:
 - [Javinizer](https://github.com/javinizer/Javinizer) :win::app::lin:
 
