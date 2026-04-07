@@ -21,15 +21,15 @@ og:
 - [Panels](https://apps.apple.com/us/app/panels-comic-reader/id1236567663) :fm::sub::cs:
 
 ### PC
-- **Dedicated**
-  - [OpenComic](https://opencomic.app/) :s::win::app::lin: [:src:](https://github.com/ollm/OpenComic)
-  - [NeeView](https://neelabo.github.io/NeeView/en-us/) :win: [:src:](https://github.com/neelabo/NeeView)
-  - [YACReader](https://www.yacreader.com/) :win::app::lin: :warning: [:src:](https://github.com/YACReader/yacreader)<tooltip>For some lossy original images it won't work. Kinda random.</tooltip>
-  - [Komelia](https://github.com/Snd-R/Komelia) :win::lin: <Badge type="info" text="Komga" />
-- **Photo Viewer**
-  - [XnView MP](https://www.xnview.com/en/xnviewmp/) :win::app::lin::cs:
-  - [Picview](https://picview.org/) :win: [:src:](https://github.com/Ruben2776/PicView/)
-  - [Bandiview](https://en.bandisoft.com/bandiview/) :win::paid::cs:
+| Type | Reader | Platform |
+| :--- | :--- | :--- |
+| Dedicated | [OpenComic](https://opencomic.app/) :s: [:src:](https://github.com/ollm/OpenComic) | :win::app::lin: |
+| ^^ | [NeeView](https://neelabo.github.io/NeeView/en-us/) [:src:](https://github.com/neelabo/NeeView) | :win: |
+| ^^ | [YACReader](https://www.yacreader.com/) :warning: [:src:](https://github.com/YACReader/yacreader) <tooltip>For some lossy original images it won't work. Kinda random.</tooltip> | :win::app::lin: |
+| ^^ | [Komelia](https://github.com/Snd-R/Komelia) | :win::lin: |
+| Photo Viewer | [XnView MP](https://www.xnview.com/en/xnviewmp/) :cs: | :win::app::lin:|
+| ^^ | [Picview](https://picview.org/) [:src:](https://github.com/Ruben2776/PicView/) | :win: |
+| ^^ | [Bandiview](https://en.bandisoft.com/bandiview/) :cs::paid: | :win: |
 
 ## Guide
 
