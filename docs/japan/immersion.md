@@ -11,14 +11,10 @@ og:
 
 ### General
 
-- **jpdb difficulty list**
-  - [Anime](https://jpdb.io/anime-difficulty-list)
-  - [Live Action](https://jpdb.io/live-action-difficulty-list)
-  - [Novels](https://jpdb.io/novel-difficulty-list)
-  - [Visual Novels](https://jpdb.io/visual-novel-difficulty-list)
-  - [Web Novels](https://jpdb.io/web-novel-difficulty-list)
+- [Jiten's difficulty list](https://jiten.moe/decks/media?sortBy=difficulty)
+- [jpdb's difficulty lists](https://jpdb.io/)
 - [Kuri's Japanese Media Recommendations](https://docs.google.com/spreadsheets/d/1w42HEKEu2AzZg9K7PI0ma9ICmr2qYEKQ9IF4XxFSnQU/edit#gid=1019246469)
-- [Jo-Mako's Japanese Spreadsheet](https://docs.google.com/spreadsheets/d/1ukDIWSkh_xvpppPbgs1nUR2kaEwFaWlsJgZUlb9LuTs/edit#gid=822742203)
+- [Jo-Mako's Japanese Spreadsheet](https://docs.google.com/spreadsheets/d/1IytlD4JjYO5-38wP6VbFNjHQDaDEsx4WWi2Rs-gaamk/htmlview#gid=482897207)
 - [Learn Natively](https://learnnatively.com/)
 - [Game Gengo's Games for Studying Japanese](https://docs.google.com/spreadsheets/u/0/d/14TKRFvnDmBsgfxCJzkaNKTKmx4qDcsv7QSmfyzIKxQ4/htmlview#gid=0)
 - [Perdition](https://perdition-japanese.github.io/posts/how-to-study-japanese/#step-1-h--immersion-optional)
