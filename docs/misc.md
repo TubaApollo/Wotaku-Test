@@ -279,7 +279,6 @@ ___
 | ^^        | [Slowpoke Pics](https://slow.pics/) |
 
 
-
 ## Tracker
  
 | Category  | Websites | Tracker |  
@@ -294,6 +293,22 @@ ___
 | ^^        | [aniTrakt](https://anitrakt.huere.net/) [:src:](https://github.com/ryuuganime/aniTrakt-IndexParser) | :mal: |  
 | ^^        | [MAL Exporter](https://malscraper.azurewebsites.net/) | :mal::al::k: |  
 
+
+## Recommendations
+
+| Type | Resource |
+| :--- | :--- |
+| Anime | [r/Anime](https://old.reddit.com/r/anime/wiki/recommendations/) |
+| ^^ | [/r/anime Awards](https://animeawards.moe/) [:src:](https://github.com/r-anime/awards-web) |
+| ^^ | [The Ultimate Anime Recommendation Flowchart](https://old.reddit.com/r/anime/comments/o16ipm/rebuild_of_the_ultimate_anime_recommendation/) [:alt:](https://rentry.org/ultimatebackup) |
+| ^^ | [Sprout Anime Recommender](https://anime.ameo.dev/) :s::mal::al: |
+| Manga | [Mitsukeru](https://mitsukeru.timschneeberger.me/) [:src:](https://github.com/timschneeb/Mitsukeru) :al: |
+| Visual Novel | [VNDB](https://vndb.org/v?f=022gja3gja&s=34w) |
+| ^^ | [Starter pack](https://docs.google.com/document/u/1/d/1KnyyDt7jimEz-dgeMSKymRaT2r3QKBPm9AzqZ6oUWAs/pub) |
+| ^^ | [VN-chart by difficulty](https://anacreondjt.gitlab.io/vn-chart/) |
+| ^^ | [r/Visualnovels](https://sites.google.com/view/rvisualnovels-recs/home) |
+| ^^ | [r/VN's 2018](https://vnrecs.github.io/) |
+| ^^ | [What are you reading?](https://some-guy.org/vnswayrarchive/recommendations) |
 
 
 ![](/banner/others.webp)
@@ -347,20 +362,3 @@ ___
 - [TV Tropes](https://tvtropes.org/)
 - [Vagabond Hiatus Chart](https://vagabond-hiatus-chart.vercel.app/) [:src:](https://github.com/falsepopsky/vagabond-hiatus-chart)
 - [Wired Sound For Wired People](https://fauux.neocities.org/)
-
-## Recommendations
-
-### Anime & Manga
-- [r/Anime](https://old.reddit.com/r/anime/wiki/recommendations/)
-  - [/r/anime Awards](https://animeawards.moe/) [:src:](https://github.com/r-anime/awards-web)
-- [u/FetchFrosh](https://old.reddit.com/r/anime/comments/o16ipm/rebuild_of_the_ultimate_anime_recommendation/)
-- [Sprout Anime Recommender](https://anime.ameo.dev/) :s::mal::al:
-- [Mitsukeru](https://mitsukeru.timschneeberger.me/) [:src:](https://github.com/timschneeb/Mitsukeru) :al:
-
-### Visual Novel
-- [VNDB](https://vndb.org/v?f=022gja3gja&s=34w)
-- [Starter pack](https://docs.google.com/document/u/1/d/1KnyyDt7jimEz-dgeMSKymRaT2r3QKBPm9AzqZ6oUWAs/pub)
-- [VN-chart by difficulty](https://anacreondjt.gitlab.io/vn-chart/)
-- [r/Visualnovels](https://sites.google.com/view/rvisualnovels-recs/home)
-- [r/VN's 2018](https://vnrecs.github.io/)
-- [What are you reading?](https://some-guy.org/vnswayrarchive/recommendations)
