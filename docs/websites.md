@@ -5,8 +5,10 @@ customDescription: Discover the best websites for anime, manga, novels & more.
 outline: 1
 ---
 
-::: danger NSFW warning
-Almost all the sites feature erotic/mature content, so proceed with caution.
+::: warning Before we start
+- Almost all the sites feature erotic/mature content, so proceed with caution.
+- A lot of the websites have their own app. We don't recommend these apps even though the websites are listed here.
+- If a section is not worth ranking, then the websites will be sorted alphabetically. 
 :::
 
 ![](/banner/wanime.webp)
