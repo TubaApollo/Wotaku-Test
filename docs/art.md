@@ -98,20 +98,21 @@ og:
 
 
 ## Others
-- [Anihonetwallpaper](https://anihonetwallpaper.com/) <Badge type="green" text="SFW" />
-- [Anime Pictures](https://anime-pictures.net/)
-- [ANNEX 'Hotaru'](https://hotaru.hino-tama.com/)
-- [Character Design References](https://characterdesignreferences.com/) :s: [:x:](https://x.com/CDReferences)
-- [Frutiger Aero Archive](https://frutigeraeroarchive.org/wallpapers)
-- [Kemono](https://kemono.cr/)
-- [Nekohouse](https://nekohouse.su/)
-- [Settai Dreams](https://setteidreams.net/) :s:
-- [Studio Ghibli](https://www.ghibli.jp/info/013772/) <Badge type="green" text="SFW" />
-- [The Sprite Resources](https://www.spriters-resource.com/)
-- [Wallhaven](https://wallhaven.cc/)
-- [wanderer.moe](https://wanderer.moe/) [:src:](https://github.com/wanderer-moe/site)
-- [:f: /w/](http://catalog.neet.tv/w/) <Badge type="danger" icon="i-mingcute-skull-fill" text="NSFL" />
-- [VideoArtGame](https://x.com/VideoArtGame) :x:
+| Type | Website |
+| :--- | :--- |
+| Archive | [ANNEX 'Hotaru'](https://hotaru.hino-tama.com/) <Badge type="green" text="SFW" /> |
+| ^^ | [Character Design References](https://characterdesignreferences.com/) :s: [:src:](https://x.com/CDReferences) |
+| ^^ | [Kemono](https://kemono.cr/) |
+| ^^ | [Nekohouse](https://nekohouse.su/) |
+| ^^ | [Settai Dreams](https://setteidreams.net/) :s: |
+| Games | [skowt.cc](https://skowt.cc/) |
+| ^^ | [The Sprite Resources](https://www.spriters-resource.com/) |
+| Wallpaper | [Anihonetwallpaper](https://anihonetwallpaper.com/) |
+| ^^ | [Anime Pictures](https://anime-pictures.net/) |
+| ^^ | [Frutiger Aero Archive](https://frutigeraeroarchive.org/wallpapers) |
+| ^^ | [Studio Ghibli](https://www.ghibli.jp/info/013772/) <Badge type="green" text="SFW" /> |
+| ^^ | [Wallhaven](https://wallhaven.cc/) |
+| ^^ | [:f: /w/](http://catalog.neet.tv/w/) <Badge type="danger" icon="i-mingcute-skull-fill" text="NSFL" /> |
 
 
 ![](/banner/software.webp)
