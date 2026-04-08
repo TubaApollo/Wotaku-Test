@@ -254,9 +254,7 @@ ___
 | ^^        | [MyDubList](https://mydublist.com/) [:src:](https://github.com/Joelis57/MyDubList) | - |
 | ^^        | [Randime](https://randime.moe/) | - |  
 | ^^        | [Spin.moe](https://spin.moe/) | :mal::al::k: |  
-| **Manga** | [Ermitteln](https://ermitteln.ihateani.me/) [:src:](https://github.com/noaione/cmx-ermitteln) | - |  
-| ^^        | [iTunes Artwork Finder](https://bendodson.com/projects/itunes-artwork-finder/) | - |
-| ^^        | [Mihon Local Source JSON Generator](https://mihonlocal.netlify.app/) | - |
+| **Manga** | [Mihon Local Source JSON Generator](https://mihonlocal.netlify.app/) | - |
 | ^^        | [Tachibk Viewer](https://backup.mihon.tools/) [:src:](https://github.com/Animeboynz/Mihon-Backup-Viewer) | - |
 | **Manga Covers** | [Big Book Covers](https://covers.roler.dev/) :s: [:src:](https://github.com/rRoler/bbc-frontend) | General |
 | ^^        | [Ermitteln](https://ermitteln.ihateani.me/) [:src:](https://github.com/noaione/cmx-ermitteln) | Comixology |  
