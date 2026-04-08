@@ -92,25 +92,6 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 
 ## Anime
 
-### Schedule
-
-| Category | Websites |  
-|----------|----------|  
-| **Weekly** | [AniChart](https://anichart.net/airing) :s: | 
-| ^^ | [Livechart](https://www.livechart.me/schedule) :s: [:rss:](https://www.livechart.me/pages/rss) |   
-| ^^ | [AnimeSchedule](https://animeschedule.net/) [:rss:](https://animeschedule.net/rss) [:rss:](https://github.com/RockinChaos/AniSchedule) |  
-| ^^ | [Anime Countdown](https://animecountdown.com/) |  
-| ^^ | [Anisaki](https://anisaki.vercel.app/) [:src:](https://github.com/BayuDC/anisaki) |  
-| ^^ | [Kenny Stryker’s English dublist](https://myanimelist.net/forum/?topicid=1692966) |
-| ^^ | [Notify.moe](https://notify.moe/calendar) |  
-| **Monthly** | [Anica](https://anica.jp/) |  
-| ^^ | [Anime Dubs Release Calendar](https://teamup.com/ksdhpfjcouprnauwda) |  
-| **Others** | [Bangumi List](https://bgmlist.com/) :fjp::fcn: [:src:](https://github.com/wxt2005/bangumi-list-v3) ==BangumiList== |  
-| ^^ | [Kansou](https://www.kansou.me/) :s: :fjp: |  
-| ^^ | [Moon Phase](https://m-p.sakura.ne.jp/) :fjp: |  
-| ^^ | [Syoboi Calendar](https://cal.syoboi.jp/) :fjp: [:rss:](https://docs.cal.syoboi.jp/spec/rss.php/) |  
-| ^^ | [Yatta-Tachi](https://yattatachi.com/) |
-
 ### Stats & Watch guide
 
 | Category        | Links |
@@ -127,8 +108,6 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 
 ## Manga & LN
 
-### Info
-
 - [ComicRanking500](https://x.com/ComicRanking500) ==ComicRanking500==
   - [Manga Ranking](http://shosekiranking.blog.fc2.com/) :fjp: [:rss:](http://shosekiranking.blog.fc2.com/?xml)
   - [Novel Ranking](http://bunkoranoberanking.blog.fc2.com/) :fjp: [:rss:](http://bunkoranoberanking.blog.fc2.com/?xml)
@@ -140,10 +119,32 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 - [Mannavi](https://mannavi.net/) :fjp:
 - [Randomanga](https://randomanga.wordpress.com/) :flag-france: <Badge text="Oricon" /> 
 
-### Calendar
+![](/banner/calendar.webp)
 
-#### Index
+# Calendar
 
+## Anime
+
+| Category | Websites |  
+|----------|----------|  
+| **Weekly** | [AniChart](https://anichart.net/airing) :s: | 
+| ^^ | [Livechart](https://www.livechart.me/schedule) :s: [:rss:](https://www.livechart.me/pages/rss) |   
+| ^^ | [AnimeSchedule](https://animeschedule.net/) [:rss:](https://animeschedule.net/rss) [:rss:](https://github.com/RockinChaos/AniSchedule) |  
+| ^^ | [Anime Countdown](https://animecountdown.com/) |  
+| ^^ | [Anisaki](https://anisaki.vercel.app/) [:src:](https://github.com/BayuDC/anisaki) |  
+| ^^ | [Notify.moe](https://notify.moe/calendar) |  
+| **Monthly** | [Anica](https://anica.jp/) |  
+| **Dub** | [Anime Dubs Release Calendar](https://teamup.com/ksdhpfjcouprnauwda) |  
+| ^^ | [Kenny Stryker’s English dublist](https://myanimelist.net/forum/?topicid=1692966) |
+| **Others** | [Bangumi List](https://bgmlist.com/) :fjp::fcn: [:src:](https://github.com/wxt2005/bangumi-list-v3) ==BangumiList== |  
+| ^^ | [Kansou](https://www.kansou.me/) :s: :fjp: |  
+| ^^ | [Moon Phase](https://m-p.sakura.ne.jp/) :fjp: |  
+| ^^ | [Syoboi Calendar](https://cal.syoboi.jp/) :fjp: [:rss:](https://docs.cal.syoboi.jp/spec/rss.php/) |  
+| ^^ | [Yatta-Tachi](https://yattatachi.com/) |
+
+## Manga
+
+### Third-party
 | Type | Website |
 |-|-|
 | General | [Mynewworm](https://myneworm.katsurin.com/) [:src:](https://github.com/Butterstroke/Myneworm) |
@@ -157,8 +158,7 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 | ^^      | [Sumikko Novel](https://novel.sumikko.info/) :fjp: [:rss:](https://novel.sumikko.info/rss.xml) |
 | ^^      | [Sumikko Bunko](https://bunko.sumikko.info/) :fjp: [:rss:](https://bunko.sumikko.info/rss.xml) |
 
-___
-#### Publisher
+### Publisher
 - [Cross Infinite World](https://www.crossinfworld.com/Calendar.html)
 - [Dark Horse](https://www.darkhorse.com/books/upcoming/)
 - [J-Novel Club](https://j-novel.club/calendar)
