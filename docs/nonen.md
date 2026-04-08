@@ -340,7 +340,7 @@ og:
   - [SKUY](https://skuy.co.id/) :acc:
 - **DDL**
   - [Kusonime](https://kusonime.com/)
-  - [Meownime](https://midori.meownime.io/)
+  - [Meownime](https://meownime.ltd/)
 
 ### Manga
 - [Komiku](https://komiku.id/)

@@ -142,7 +142,7 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 | Others | [Blu-ray.com](https://www.blu-ray.com/movies/movies.php?genre=Anime&sortby=releasetimestamp) |
 | ^^  | [Yatta-Tachi Movie Schedule](https://yattatachi.com/2026-anime-japanese-films-coming-to-u-s-theaters-online) |
 
-## Manga
+## Manga & LN
 
 ### Third-party
 | Type | Website |

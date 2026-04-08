@@ -246,11 +246,12 @@ og:
 ### Puzzle / Strategy
   
 | Game                                                           | Price  | MC                 | Dev         | Publisher |
-|----------------------------------------------------------------|--------|--------------------|------------|-----|
+|----------------------------------------------------------------|--------|--------------------|-------------|-----------|
 | [Holo's Hanafuda](https://store.steampowered.com/app/3327640/) | Free | Hololive JP | Gemdrops, Inc. | Gemdrops, Inc. |
 | [holoReversi](https://store.steampowered.com/app/3446980/) | Paid | Hololive JP | RomanKitayama | holo Indie |
 | [Juufuutei Raden's Guide for Pixel Museum](https://store.steampowered.com/app/3204020/) | Paid | Juufuutei Raden | Jupiter | Jupiter |
 | [Mumei's Memory Juggling](https://david-wu-softdev.itch.io/mumeis-memory-juggling) | Free   | Nanashi Mumei     | David Wu   | David Wu |
+| [Nna-tan's Pixel Princess](https://store.steampowered.com/app/4403340/) | TBD | Himemori Luna | MOBoratory | holo Indie |
 | [Takos Organised Neatly](https://ae-lux-production.itch.io/takos-organised-neatly) | Free   | Ninomae Ina'Nis  | Ae Lux     | Ae Lux |
 
 ### Rhythm
