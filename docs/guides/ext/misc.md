@@ -33,11 +33,6 @@ og:
 - Click **Add repository**
 
 
-## Dantotsu
-| Name | Region | Auto | Manual |
-| - | - | - | - |
-| [Dannovels](https://github.com/dannovels/novel-extensions) | :global: | [Install](novelyomi://add-repo?url=https://raw.githubusercontent.com/dannovels/novel-extensions/repo/index.min.json) | [URL](https://raw.githubusercontent.com/dannovels/novel-extensions/refs/heads/repo/index.min.json) |
-
 ## Legado
 | Name | Region | Auto | Manual |
 | - | - | - | - |
