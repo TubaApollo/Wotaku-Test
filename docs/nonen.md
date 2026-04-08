@@ -32,7 +32,7 @@ og:
 - [Anime3rb](https://anime3rb.com/)
 - [Anime4up](https://anime4up.rest/)
 - [Animeblkom](https://blkom.com/)
-- [Animelek](https://animelek.vip/)
+- [Animelek](https://animelek.top/)
 - [Animerco](https://zeta.animerco.org/)
 - [Arabic Toons](https://www.arabic-toons.com/)
 - [Okanime](https://okanime.tv/)
@@ -311,7 +311,7 @@ og:
   - [Dora Bash](https://dorabash.in/)
   - [Kartoons](https://kartoons.me/home)
   - [PirateXPlay](https://piratexplay.cc/home)
-  - [ToonStream](https://toonstream.love/)
+  - [ToonStream](https://toonstream.dad/home/)
 - **DDL**
   - [AnimeVilla](https://animevilla.in/) :ero:
   - [ATOZ CARTOONIST](https://www.atozcartoonist.com/)
