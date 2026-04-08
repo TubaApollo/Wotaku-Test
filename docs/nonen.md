@@ -398,6 +398,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 ### Online
 
 #### Manga
+- [Dokiraw](https://dokiraw.mom/)
 - [Free PDF Comic](https://freepdfcomic.eu/)
 - [Gomuraw](https://gomuraw.com/top)
 - [KL Manga](https://old.klz9.com/) [:prx:](https://rentry.org/wotaxy#kl-manga)
