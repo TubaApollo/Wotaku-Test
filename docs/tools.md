@@ -340,7 +340,6 @@ ___
 | Category | Scripts |
 | :--- | :--- |
 | Anime | [Anifiltrs](https://github.com/Karmesinrot/Anifiltrs) |
-| ^^ | [Animepahe Improvements](https://greasyfork.org/en/scripts/520048-animepahe-improvements) |
 | ^^ | [Anime Website Buttons Plus](https://greasyfork.org/en/scripts/398046-anime-website-custom-buttons-plus) [:src:](https://github.com/Deatthwing/anime-website-buttons-plus) |
 | ^^ | [Bye Spoilers - Crunchyroll](https://github.com/zAlfok/ByeSpoilers-Crunchyroll) |
 | ^^ | [Find on Nyaa](https://greasyfork.org/en/scripts/379776-find-on-nyaa) |
