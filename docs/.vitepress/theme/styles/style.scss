@@ -612,7 +612,8 @@ table tr:nth-child(odd) {
   }
 }
 
-#VPSidebarNav > .group {
+#VPSidebarNav > .group,
+#VPSidebarNavMobile > .group {
   @apply border-t-0 min-h-11 pt-2.25;
 
   & > .VPSidebarItem {
@@ -1223,4 +1224,185 @@ table tr:nth-child(odd) {
 
 .VPNavBarSearch.search {
   @apply ml-2 pl-0!;
+}
+
+%thin-scrollbar {
+  scrollbar-width: thin;
+  &::-webkit-scrollbar { width: 8px; }
+  &::-webkit-scrollbar-track { background: transparent; }
+  &::-webkit-scrollbar-thumb { border-radius: 4px; }
+}
+
+%thin-scrollbar-narrow {
+  scrollbar-width: thin;
+  &::-webkit-scrollbar { width: 6px; }
+  &::-webkit-scrollbar-track { background: transparent; }
+  &::-webkit-scrollbar-thumb { border-radius: 3px; background-color: var(--vp-c-divider); }
+}
+
+/* Home sidebar menu button in navbar */
+.home-menu-btn {
+  display: none;
+  align-items: center;
+  justify-content: center;
+  margin-right: 16px;
+  color: var(--vp-c-text-2);
+  cursor: pointer;
+  transition: color 0.25s;
+
+  &:hover {
+    color: var(--vp-c-text-1);
+  }
+
+  @media (min-width: 960px) {
+    display: inline-flex;
+  }
+}
+
+.home-menu-icon {
+  font-size: 20px;
+}
+
+.home-sidebar-backdrop {
+  position: fixed;
+  inset: 0;
+  z-index: var(--vp-z-index-backdrop, 100);
+  background-color: rgba(0, 0, 0, 0.6);
+}
+
+/* Home desktop sidebar (left slideout) */
+.home-sidebar {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  z-index: calc(var(--vp-z-index-backdrop, 100) + 1);
+  padding: 0 32px 96px;
+  width: var(--vp-sidebar-width);
+  max-width: calc(100vw - 64px);
+  background-color: var(--vp-sidebar-bg-color);
+  box-shadow: var(--vp-c-shadow-3);
+  overflow-x: hidden;
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  @extend %thin-scrollbar;
+
+  .dark & {
+    box-shadow: var(--vp-shadow-1);
+  }
+}
+
+.home-sidebar-header {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  height: var(--vp-nav-height);
+  display: flex;
+  align-items: center;
+  background-color: var(--vp-sidebar-bg-color);
+  border-bottom: 1px solid var(--vp-c-divider);
+}
+
+.home-sidebar-logo {
+  display: flex;
+  align-items: center;
+  height: var(--vp-nav-height);
+  font-size: 16px;
+  font-weight: 600;
+  color: var(--vp-c-text-1);
+  text-decoration: none;
+}
+
+.home-sidebar-logo-img {
+  margin-right: 8px;
+  height: var(--vp-nav-logo-height);
+}
+
+.home-sidebar-nav {
+  padding-top: 10px;
+}
+
+/* Desktop sidebar transitions */
+.home-fade-enter-active,
+.home-fade-leave-active {
+  transition: opacity 0.25s;
+}
+
+.home-fade-enter-from,
+.home-fade-leave-to {
+  opacity: 0;
+}
+
+.home-slide-enter-active {
+  transition: transform 0.5s cubic-bezier(0.19, 1, 0.22, 1), opacity 0.25s;
+}
+
+.home-slide-leave-active {
+  transition: transform 0.25s ease, opacity 0.5s;
+}
+
+.home-slide-enter-from,
+.home-slide-leave-to {
+  transform: translateX(-100%);
+  opacity: 0;
+}
+
+/* Hide navbar border when home NavScreen is open */
+.VPNavBar.home.screen-open {
+  border-bottom: none !important;
+}
+
+/* Home NavScreen: restyle as left-aligned floating panel matching VPSidebar */
+.VPNavScreen:has(.home-screen-nav) {
+  @apply bg-white/85 dark:bg-neutral-800/85
+    border dark:border-neutral-700 border-neutral-200
+    rounded-3xl backdrop-blur shadow-lg;
+  padding: 0 !important;
+  left: 0.5rem !important;
+  right: auto !important;
+  top: 0.5rem !important;
+  bottom: 0.5rem !important;
+  width: calc(100vw - 64px) !important;
+  max-width: 320px !important;
+  overflow-x: hidden !important;
+  @extend %thin-scrollbar-narrow;
+
+  & > * {
+    max-width: 100% !important;
+    padding: 16px 16px 0 !important;
+    display: flex !important;
+    flex-direction: column !important;
+    min-height: 100%;
+  }
+
+  .VPNavScreenAppearance {
+    margin-top: 24px !important;
+  }
+
+  .VPNavScreenSocialLinks {
+    margin-top: auto !important;
+    padding: 16px 0 !important;
+    display: flex;
+    justify-content: center;
+  }
+}
+
+.home-screen-nav {
+  padding-top: 8px;
+}
+
+/* Override NavScreen fade transition to slide-from-left on home */
+.VPNavScreen:has(.home-screen-nav) {
+  &.fade-enter-active,
+  &.fade-leave-active {
+    transition: transform 0.3s cubic-bezier(0.19, 1, 0.22, 1), opacity 0.25s !important;
+
+    .container { transform: none !important; }
+  }
+
+  &.fade-enter-from,
+  &.fade-leave-to {
+    transform: translateX(-100%) !important;
+    opacity: 0 !important;
+  }
 }
