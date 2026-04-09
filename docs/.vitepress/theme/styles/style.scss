@@ -1224,3 +1224,108 @@ table tr:nth-child(odd) {
 .VPNavBarSearch.search {
   @apply ml-2 pl-0!;
 }
+
+/* Home sidebar menu button in navbar */
+.home-menu-btn {
+  display: none;
+  align-items: center;
+  justify-content: center;
+  margin-right: 16px;
+  color: var(--vp-c-text-2);
+  cursor: pointer;
+  transition: color 0.25s;
+
+  &:hover {
+    color: var(--vp-c-text-1);
+  }
+
+  @media (min-width: 960px) {
+    display: inline-flex;
+  }
+}
+
+.home-menu-icon {
+  font-size: 20px;
+}
+
+.home-sidebar-backdrop {
+  position: fixed;
+  inset: 0;
+  z-index: var(--vp-z-index-backdrop, 100);
+  background-color: rgba(0, 0, 0, 0.6);
+}
+
+.home-sidebar {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  z-index: calc(var(--vp-z-index-backdrop, 100) + 1);
+  padding: 0 32px 96px;
+  width: var(--vp-sidebar-width);
+  max-width: calc(100vw - 64px);
+  background-color: var(--vp-sidebar-bg-color);
+  box-shadow: var(--vp-c-shadow-3);
+  overflow-x: hidden;
+  overflow-y: auto;
+  overscroll-behavior: contain;
+
+  .dark & {
+    box-shadow: var(--vp-shadow-1);
+  }
+}
+
+.home-sidebar-header {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  padding: 0;
+  height: var(--vp-nav-height);
+  display: flex;
+  align-items: center;
+  background-color: var(--vp-sidebar-bg-color);
+  border-bottom: 1px solid var(--vp-c-divider);
+}
+
+.home-sidebar-logo {
+  display: flex;
+  align-items: center;
+  height: var(--vp-nav-height);
+  font-size: 16px;
+  font-weight: 600;
+  color: var(--vp-c-text-1);
+  text-decoration: none;
+}
+
+.home-sidebar-logo-img {
+  margin-right: 8px;
+  height: var(--vp-nav-logo-height);
+}
+
+.home-sidebar-nav {
+  padding-top: 10px;
+}
+
+.home-fade-enter-active,
+.home-fade-leave-active {
+  transition: opacity 0.25s;
+}
+
+.home-fade-enter-from,
+.home-fade-leave-to {
+  opacity: 0;
+}
+
+.home-slide-enter-active {
+  transition: transform 0.5s cubic-bezier(0.19, 1, 0.22, 1), opacity 0.25s;
+}
+
+.home-slide-leave-active {
+  transition: transform 0.25s ease, opacity 0.5s;
+}
+
+.home-slide-enter-from,
+.home-slide-leave-to {
+  transform: translateX(-100%);
+  opacity: 0;
+}

@@ -15,7 +15,9 @@ import { usePreferredReducedMotion } from '@vueuse/core'
 import { useData, useRoute } from 'vitepress'
 import type { DefaultTheme as Theme } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
-import { computed, onMounted, onUnmounted, ref } from 'vue'
+import VPSidebarGroup from 'vitepress/dist/client/theme-default/components/VPSidebarGroup.vue'
+import { getSidebarGroups } from 'vitepress/dist/client/theme-default/support/sidebar'
+import { computed, onMounted, onUnmounted, ref, watch } from 'vue'
 import { sidebar } from '../configs/constants'
 import AnnouncementPill from './components/AnnouncementPill.vue'
 import NotFoundComponent from './components/NotFound.vue'
@@ -28,7 +30,20 @@ import { TakodachiStorageKey } from './constants'
 import { v2add, v2mag, v2norm, v2smul, v2sub, type Vec2D } from './math'
 
 const route = useRoute()
+const { frontmatter, site, theme } = useData()
 const { Layout } = DefaultTheme
+
+// Home sidebar menu
+const isHome = computed(() => frontmatter.value.layout === 'home')
+const homeSidebarOpen = ref(false)
+const homeSidebarGroups = getSidebarGroups(sidebar as any)
+const logoSrc = computed(() =>
+  typeof theme.value.logo === 'string' ? theme.value.logo : theme.value.logo?.src
+)
+
+watch(() => route.path, () => {
+  homeSidebarOpen.value = false
+})
 
 interface BreadcrumbItem {
   text: string
@@ -185,6 +200,30 @@ onUnmounted(() => {
           top: `${position.y}px`
         }"
       />
+      <!-- Home sidebar menu (desktop only) -->
+      <template v-if="isHome">
+        <Transition name="home-fade">
+          <div
+            v-if="homeSidebarOpen"
+            class="home-sidebar-backdrop"
+            @click="homeSidebarOpen = false"
+          />
+        </Transition>
+        <Transition name="home-slide">
+          <aside v-if="homeSidebarOpen" class="home-sidebar" @click.stop>
+            <div class="home-sidebar-header">
+              <a href="/" class="home-sidebar-logo">
+                <img v-if="logoSrc" :src="logoSrc" class="home-sidebar-logo-img" alt="Logo" />
+                <span>{{ theme.siteTitle ?? site.title }}</span>
+              </a>
+            </div>
+            <nav id="VPSidebarNav" class="home-sidebar-nav">
+              <VPSidebarGroup :items="homeSidebarGroups" />
+            </nav>
+            <SidebarCard />
+          </aside>
+        </Transition>
+      </template>
     </template>
     <template #doc-before>
       <!-- Breadcrumb Navigation -->
@@ -236,6 +275,19 @@ onUnmounted(() => {
     </template>
     <template #nav-screen-content-after>
       <NolebaseEnhancedReadabilitiesScreenMenu />
+    </template>
+    <template #nav-bar-title-before>
+      <span
+        v-if="isHome"
+        class="home-menu-btn"
+        role="button"
+        tabindex="0"
+        aria-label="Menu"
+        @click.prevent.stop="homeSidebarOpen = !homeSidebarOpen"
+        @keydown.enter.prevent.stop="homeSidebarOpen = !homeSidebarOpen"
+      >
+        <span class="vpi-align-left home-menu-icon" />
+      </span>
     </template>
   </Layout>
 </template>
