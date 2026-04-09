@@ -50,23 +50,6 @@ og:
   </Card>
 </Deck>
 
-## Extension Repos
-
-<Deck>
-  <Card title="Mihon" href="/guides/ext/mihon">
-    Extension Repos & Guides for Mihon, Aniyomi & Dantotsu
-  </Card>
-  <Card title="Mangayomi" href="/guides/ext/mangayomi">
-    Extension Repos & Guides for Mangayomi, AnymeX & Dartotsu
-  </Card>
-  <Card title="iOS" href="/guides/ext/ios">
-    Extension Repos & Guides for Aidoku, Paperback, Sora & Suwatte
-  </Card>
-  <Card title="Miscellaneous" href="/guides/ext/misc">
-    Miscellaneous Extension Repos & Guides
-  </Card>
-</Deck>
-
 ## Music
 
 <Deck>

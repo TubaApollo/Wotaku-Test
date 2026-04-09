@@ -28,13 +28,13 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 
 | Category  | Resource |
 |-----------|--------------------------------------------------|
-| **Android** | [Animetail](https://github.com/Dark25/Animetail2) [:n:](https://github.com/Animetailapp/Animetail-preview) [:e:](/guides/ext/mihon) |
-| ^^        | [Hayase](https://hayase.watch/) [:src:](https://github.com/hayase-app) [:e:](/guides/ext/misc#hayase) |
-| ^^        | [Dantotsu](https://discord.com/invite/4HPZ5nAWwM) [:e:](/guides/ext/mihon) |
-| **iOS**   | [Luna](https://github.com/cranci1/Luna) [:e:](/guides/ext/ios#sora) |
-| ^^        | [Mangayomi](https://github.com/kodjodevf/mangayomi) [:e:](/guides/ext/mangayomi) |
-| **PC**    | [Hayase](https://hayase.watch/) [:src:](https://github.com/hayase-app) [:e:](/guides/ext/misc#hayase) |
-| ^^        | [Mangayomi](https://github.com/kodjodevf/mangayomi) :mag::ddl: [:e:](/guides/ext/mangayomi) |
+| **Android** | [Animetail](https://github.com/Dark25/Animetail2) [:n:](https://github.com/Animetailapp/Animetail-preview) [:e:](/ext/mihon) |
+| ^^        | [Hayase](https://hayase.watch/) [:src:](https://github.com/hayase-app) [:e:](/ext/misc#hayase) |
+| ^^        | [Dantotsu](https://discord.com/invite/4HPZ5nAWwM) [:e:](/ext/mihon) |
+| **iOS**   | [Luna](https://github.com/cranci1/Luna) [:e:](/ext/ios#sora) |
+| ^^        | [Mangayomi](https://github.com/kodjodevf/mangayomi) [:e:](/ext/mangayomi) |
+| **PC**    | [Hayase](https://hayase.watch/) [:src:](https://github.com/hayase-app) [:e:](/ext/misc#hayase) |
+| ^^        | [Mangayomi](https://github.com/kodjodevf/mangayomi) :mag::ddl: [:e:](/ext/mangayomi) |
 
 ![](/banner/wmanga.webp)
 
@@ -55,11 +55,11 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 
 | Category   | Resource |
 |------------|--------------------------------------------------|
-| **Android** | [Mihon](https://mihon.app/) :s: [:src:](https://github.com/mihonapp/mihon) [:e:](/guides/ext/mihon) |
-| ^^         | [Komikku](https://komikku-app.github.io/) [:src:](https://github.com/komikku-app/komikku) [:e:](/guides/ext/mihon) |
+| **Android** | [Mihon](https://mihon.app/) :s: [:src:](https://github.com/mihonapp/mihon) [:e:](/ext/mihon) |
+| ^^         | [Komikku](https://komikku-app.github.io/) [:src:](https://github.com/komikku-app/komikku) [:e:](/ext/mihon) |
 | ^^         | [Perfect Viewer](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer&hl=en&gl=US) :fm::cs: |
-| **iOS**    | [Paperback](https://paperback.moe/) [:src:](https://github.com/Paperback-iOS/app) [:e:](/guides/ext/ios#paperback) |
-| ^^         | [Aidoku](https://aidoku.app/) [:src:](https://github.com/Aidoku/Aidoku) [:e:](/guides/ext/ios#aidoku) |
+| **iOS**    | [Paperback](https://paperback.moe/) [:src:](https://github.com/Paperback-iOS/app) [:e:](/ext/ios#paperback) |
+| ^^         | [Aidoku](https://aidoku.app/) [:src:](https://github.com/Aidoku/Aidoku) [:e:](/ext/ios#aidoku) |
 | ^^         | [YACReader](https://apps.apple.com/app/id635717885) :s::paid::cs: [:tf:](https://testflight.apple.com/join/5zhB7sRP) |
 | **PC**     | [OpenComic](https://opencomic.app/) :s: :win::app::lin: [:src:](https://github.com/ollm/OpenComic) |
 | ^^         | [YACReader](https://www.yacreader.com/) :win::app::lin: |

@@ -22,8 +22,8 @@ og:
   - [Varyg](https://nyaa.si/user/varyg1001)
 
 ### Apps
-- [Mihon](https://github.com/mihonapp/mihon) [:e:](/guides/ext/mihon)
-- [Aniyomi](https://github.com/jmir1/aniyomi/) [:e:](/guides/ext/mihon)
+- [Mihon](https://github.com/mihonapp/mihon) [:e:](/ext/mihon)
+- [Aniyomi](https://github.com/jmir1/aniyomi/) [:e:](/ext/mihon)
 
 
 ## Arabic

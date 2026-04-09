@@ -135,7 +135,7 @@ After the run, the script will generate `comic_title.json`, `imgchest_upload_rec
 
 ## Mihon
 
-- You can find the Cubari extension in [these repositories](/guides/ext/mihon#manga). Follow the guide to install the extension.
+- You can find the Cubari extension in [these repositories](/ext/mihon#manga). Follow the guide to install the extension.
 - Then go to your phone: **Settings** -> **Apps** -> **All Apps** -> **Tachiyomi: Cubari** -> **Open by default** -> **Add link**.
 - Check the links you want to associate. For this guide, you should enable `cubari.moe` and `*.cubari.moe`, then tap **Add**.
 

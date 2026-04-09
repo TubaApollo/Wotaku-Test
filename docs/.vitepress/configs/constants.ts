@@ -70,6 +70,18 @@ export const sidebar: DefaultTheme.Sidebar = [
     text: '<span class="i-twemoji-comet"></span> VTuber',
     link: '/vtuber'
   },
+    {
+    text:
+      '<span class="mr-2 w-4 h-4 bg-cover i-lucide:puzzle"></span> Extensions',
+    collapsed: true,
+    link: '/ext',
+    items: [
+        { text: 'Mihon & Aniyomi', link: '/ext/mihon' },
+          { text: 'Mangayomi', link: '/ext/mangayomi' },
+          { text: 'iOS apps', link: '/ext/ios' },
+          { text: 'Miscellaneous', link: '/ext/misc' }
+    ]
+  },
   {
     text:
       '<span class="mr-2 w-4 h-4 bg-cover i-lucide:book-key"></span> Guides',
@@ -95,16 +107,6 @@ export const sidebar: DefaultTheme.Sidebar = [
           { text: 'Madokami', link: '/guides/manga/madokami' },
           { text: 'Manga Image Editing', link: '/guides/manga/imagedit' },
           { text: 'OPDS to E-reader', link: '/guides/manga/opds' }
-        ]
-      },
-      {
-        text: 'Extension Repos',
-        collapsed: true,
-        items: [
-          { text: 'Mihon & Aniyomi', link: '/guides/ext/mihon' },
-          { text: 'Mangayomi', link: '/guides/ext/mangayomi' },
-          { text: 'iOS apps', link: '/guides/ext/ios' },
-          { text: 'Miscellaneous', link: '/guides/ext/misc' }
         ]
       },
       {
@@ -152,7 +154,7 @@ export const sidebar: DefaultTheme.Sidebar = [
       { text: `Trackers`, link: '/torrenting/trackers' }
     ]
   },
-  {
+    {
     text:
       '<span class="mr-2 w-4 h-4 bg-cover i-uil:letter-japanese-a"></span> Japan',
     collapsed: true,
