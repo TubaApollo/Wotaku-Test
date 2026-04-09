@@ -12,12 +12,13 @@ Information about various types of publishers for manga and manhwa. Image qualit
 
 ### General Platforms
 
-| Store                                       | Resolution | DRM Removal | SFW | Recommended { class="compact" } |
+| Store                                       | Resolution | DRM Removal | SFW | Recommended { class="compact" }  |
 |---------------------------------------------|------------|-------------|-----|----------------------------------|
 | [Amazon (Kindle HD)](https://www.amazon.com/kindle-dbs/comics-store/home/) | Semi-dead<sup>1</sup> | Medium | :yes: | YESN'T |
-| [Amazon (Comixology)](https://www.amazon.com/kindle-dbs/comics-store/home/)<sup>2</sup> | Dead | Hard | :yes: | NO |
+| [Neon Ichiban](https://neonichiban.com/)<sup>2</sup> | High | Medium | :yes: | YES |
+| [GlobalComix](https://globalcomix.com/)<sup>3</sup>| High | Medium | :yes: | YES |
 | [Apple Books](https://www.apple.com/apple-books/) | Standard | Medium | :yes: | NO |
-| [BookWalker Global](https://global.bookwalker.jp/) | Standard | Hard | :yes: | NO<sup>3</sup> |
+| [BookWalker Global](https://global.bookwalker.jp/) | Standard | Hard | :yes: | NO<sup>4</sup> |
 | [Google Play Books](https://play.google.com/books) | Standard | Very Easy | :yes: | YES |
 | [Humble Bundle](https://www.humblebundle.com/) | Highest | DRM-Free | :yes: | YES |
 | [Kobo](https://www.kobo.com/)                | Standard | Easy | :yes: | YES |
@@ -26,44 +27,50 @@ Information about various types of publishers for manga and manhwa. Image qualit
 :::tip Notes {open}
 1. **PSA:** Kodansha, Seven Seas, Dark Horse and other previously-actual-HD suppliers of books have stopped uploading HD books on Amazon starting in 2024-07. If the book says it's Kindle Edition (instead of Kindle & Comixology), it's not HD (do cross-check with the listed filesize). Additionally, even if the book says Kindle & Comixology it can be upscaled still (see: Titan Comics' Speed Grapher v01). Post 2024-07 books are therefore generally recommended to be bought elsewhere.<br/>
 Original: ~~Blurry downscales for anything that would be above that on other platforms.~~ As of December 5th 2023, Kindle now offers HD on their mobile app (at or above 320dpi and some resolution threshold). Web is likely limited to x1920 (unconfirmed as of December 7th 2023).
-2. Dead as of December 4th 2023, leaving only Kindle. 
-3. Unless they have exclusives or discounts, as other platforms are easier
+2. Only Kodansha offer an extensive manga catalog, making NI the go-to for Kodansha and Kodansha only as of April 9th 2026.
+3. The main two publishers with a big lineup on GlobalComix are Kodansha and Seven Seas.
+4. Unless they have exclusives or discounts, as other platforms are easier
 :::
 
 
 ### Publishers
-| Store                                          | Resolution | DRM-Free | SFW | Highest Quality { class="compact" } |
+| Store                                         | Resolution | DRM-Free | SFW | Highest Quality { class="compact" } |
 |-----------------------------------------------|------------|----------|-----|-------------------------------------|
+| [Ablaze](https://www.ablaze.net/products)<sup>1</sup>  | ~x1800 | :no: | :yes: | Humble Bundle |
 | [Alpha Manga](https://www.alpha-manga.com/)   | x1800       |  -  | :yes: | - |
-| [Dark Horse](https://darkhorse.com/)  | x3000+<sup>2</sup> | :no: | :yes: | Kindle HD |
+| [Dark Horse](https://darkhorse.com/)  | ~x2400 or 2560x<sup>2</sup> | :no: | :yes: | (GlobalComix) / Amazon Kindle |
 | [DENPA](https://denpa.pub/)<sup>3</sup>      | Varies     | :no: | :yes: | Own Store |
 | [FAKKU!](https://www.fakku.net/)              | x3200      | :yes: | :no: | Own Store |
 | [Glacier Bay Books](https://glacierbaybooks.com/) | Varies | :no: | :yes: | Own Store |
 | [Irodori Comics](https://irodoricomics.com/)  | x3200      | :yes: | :no: | Own Store / Fakku |
 | [J-Novel Club](https://j-novel.club/)         | x3840      | :yes: | :yes: | Own Store |
 | [Kaiten Books](https://www.kaitenbooks.com/)  | ~x2400     | :yes: | :yes: | Own Store |
-| [Kodansha USA](https://kodansha.us/)         | ~x3000<sup>4</sup> | :no: | :yes: | Humble Bundle / Kindle HD |
+| [Kodansha USA](https://kodansha.us/)         | ~3000<sup>4</sup> | :no: | :yes: | Humble Bundle / Neon Ichiban |
 | [Medibang](https://medibang.itch.io/) <sup>5</sup>   | x2048 | - | :no: | - |
 | Media Do/Coamix <sup>5</sup> | x1800 | - | :no: | - |
-| [Omoi](https://www.omoi.com/)                | x4800<sup>1</sup> | :yes: | :yes: | Own Store |
-| [Seven Seas Entertainment](https://sevenseasentertainment.com/) | x3000<sup>6</sup> | :no: | :yes: | Kindle HD |
+| [Omoi](https://www.omoi.com/)                | x4800<sup>7</sup> | :yes: | :yes: | Own Store |
+| [Seven Seas Entertainment](https://sevenseasentertainment.com/) | x3000<sup>6</sup> | :no: | :yes: | GlobalComix |
 | [Square Enix Manga & Books](https://squareenixmangaandbooks.square-enix-games.com/en-us)| ~x2230 | :no: | :yes: | Same Everywhere |
-| [TOKYOPOP](https://tokyopop.com/)            | ~x2300<sup>7</sup> | :no: | :yes: | Same Everywhere |
-| [VAST Visual](https://vastmanga.com/)        | ~x2250<sup>8</sup> | :no: | :yes: | Apple Books |
-| [VIZ](https://www.viz.com/read)              | x2100-x2475<sup>9</sup> | :no: | :yes: | Kobo |
+| [Titan Comics](https://titan-comics.com/manga/) | x2150 | :no: | :yes: | Amazon Kindle<sup>8</sup> |
+| [TOKYOPOP](https://tokyopop.com/)            | ~x2300<sup>9</sup> | :no: | :yes: | Same Everywhere |
+| [VAST Visual](https://vastmanga.com/)        | ~x2250<sup>10</sup> | :no: | :yes: | Apple Books |
+| [VIZ](https://www.viz.com/read)              | x2100-x2475<sup>11</sup> | :no: | :yes: | Kobo |
 | [Yen Press](https://yenpress.com/)            | x1291-x1350 | :no: | :yes: | Same Everywhere |
 
 
 :::tip Notes {open}
-1. Standard resolution outside of their own storefront is x2400, chapters are ~~also x2400~~ now x3000 - these figures are only validated for their own licenses.
-2. Standard non-CMX/Amazon HD resolution is x2048 everywhere, ~~including their own store~~ they have silently upgraded their own storefront to 1800x (~x25xx).
+1. Ablaze doesn't seem to sell manga on Humble yet (it does sell comic bundles), therefore Amazon Kindle or Apple Books are the go-to source.
+2. Dark Horse have shut down their digital store on February 24th 2025. Highest quality is technically on Neon Ichiban or GlobalComix, but the manga lineup on those platforms is really slim, making Amazon Kindle actually the best and easiest source.
 3. ~~Their store has a broken download issue with no ETA for a fix.~~ They've fixed their store as of May 2024, but they've not updated their catalog post ~March 2023. It's recommended to use Kobo to get any of their newer books for now. Their own store is DRM-free.
 4. Humble Bundle PDF export resolution (at 600 dpi) ranges from x4200 - x4913. CMX resolution varies, older volumes were mostly between x3056 and x3684, and post-CMX Amazon HD volumes are ~x2700. Standard non-CMX/Amazon HD resolution is 1600x -> x227x - x2400 (except for their own storefront which should be avoided, as it offers the worst quality and resolution combination at x2160 q40).
 5. Both do NSFW releases on FAKKU, and anything on Fakku that isn't their unlimited chapters is x3200 more or less.
-6. Ranges between x3206 - x3713 for Comixology volumes. Post-CMX Amazon HD volume res has been downgraded to x2565 - ~x272x. Standard non-CMX/Amazon HD resolution is x2000 everywhere (except for Bookwalker Web where it is x1500).
-7. ~x2300 for newer (~post mid-2021) releases, but ~x1600 for older releases. Same quality no matter where you buy.
-8. Older titles are low quality, recent titles are decent quality. Apple Books has the highest quality.
-9. Amazon Viz books are generally upscaled, especially older books (pre-HD-demise as mentioned up above). Some books can still be much lower res natively (e.g. x1500 for certain Viz Select volumes) than what's mentioned here.
+6. Ranges between x3206 - x3713 for Comixology volumes. Post-CMX Amazon HD volume res has been downgraded to x2565 - ~x272x. Standard non-CMX/Amazon HD resolution is x2000 everywhere until sometime late 2025, since then it is x1500 (same as Bookwalker Web, which has always been x1500).
+7. Standard resolution outside of their own storefront is x2400, chapters are ~~also x2400~~ now x3000 - these figures are only validated for their own licenses.
+
+8. Only 2 manga titles on Neon Ichiban; once they update their manga lineup, NI will be the recommended source.
+9. ~x2300 for newer (~post mid-2021) releases, but ~x1600 for older releases. Same quality no matter where you buy.
+10. Older titles are low quality, recent titles are decent quality. Apple Books has the highest quality.
+11. Amazon Viz books are generally upscaled, especially older books (pre-HD-demise as mentioned up above). Some books can still be much lower res natively (e.g. x1500 for certain Viz Select volumes) than what's mentioned here.
 :::
 
 ## Chapters
