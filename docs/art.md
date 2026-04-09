@@ -41,18 +41,20 @@ og:
 :::
 
 ## Support / Commission
-- [Art Mug](https://artmug.kr/index.php)
-- [BOOTH](https://booth.pm/en)
-- [Fantia](https://fantia.jp/)
-- [Gumroad](https://gumroad.com/)
-- [INPRNT](https://www.inprnt.com/)
-- [Ko-fi](https://ko-fi.com/)
-- [Patreon](https://www.patreon.com/)
-- [pixivFANBOX](https://www.fanbox.cc/)
-- [Skeb](https://skeb.jp/)
-- [Skima](https://skima.jp/) <Badge type="tip" text="Global" link="https://wskima.com/" />
-- [VGen](https://vgen.co/)
-- [Xfolio](https://xfolio.jp/)
+| Category | Website |
+| :--- | :--- |
+| Comission | [Art Mug](https://artmug.kr/index.php) :fkr: |
+| ^^ | [Skeb](https://skeb.jp/) :fjp: |
+| ^^ | [Skima](https://skima.jp/) :fjp: <Badge type="tip" text="Global" link="https://wskima.com/" /> |
+| ^^ | [VGen](https://vgen.co/) |
+| Store | [BOOTH](https://booth.pm/en) :fjp: |
+| ^^ | [Fantia](https://fantia.jp/) :fjp: |
+| ^^ | [Gumroad](https://gumroad.com/) [:src:](https://github.com/antiwork/gumroad) |
+| ^^ | [INPRNT](https://www.inprnt.com/) |
+| ^^ | [Xfolio](https://xfolio.jp/) :fjp: |
+| Support | [Ko-fi](https://ko-fi.com/) |
+| ^^ | [Patreon](https://www.patreon.com/) |
+| ^^ | [pixivFANBOX](https://www.fanbox.cc/) :fjp: |
 
 
 ## Booru
@@ -146,26 +148,6 @@ og:
 
 
 ## PC
-
-### Clients
-- [Imgbrd-Grabber](https://www.bionus.org/imgbrd-grabber/) :s::win::app::lin:
-- [pixes](https://github.com/wgh136/pixes) :win::app::lin:
-- [Pixeval](https://pixeval.github.io/) :win: [:src:](https://github.com/Pixeval/Pixeval)
-- [Pixiv Powerful Viewer](https://github.com/fekoneko/pixiv-powerful-viewer) :win:
-
-### Downloaders
-- [Cultured Downloader](https://github.com/KJHJason/Cultured-Downloader) :win::app::lin:
-- [gallery-dl](https://github.com/mikf/gallery-dl) :s::win::lin:
-- [Hydrus network](https://hydrusnetwork.github.io/hydrus/) :win::app::lin: [:src:](https://github.com/hydrusnetwork/hydrus) <Badge type="info" text="Scripts" link="https://github.com/CuddleBear92/Hydrus-Presets-and-Scripts"/>
-- [Imgbrd-Grabber](https://www.bionus.org/imgbrd-grabber/) :win::app::lin: [:src:](https://github.com/Bionus/imgbrd-grabber)
-- [Media Downloader](https://github.com/mhogomchungu/media-downloader) :win::app::lin:
-- [Pixiv FANBOX Downloader](https://github.com/hareku/fanbox-dl) :win::app:
-- [PixivUtil2](https://github.com/Nandaka/PixivUtil2) :win:
-
-### Others
-- [Pixiv OAuth Flow (with browser dev console) by ZipFile](https://gist.github.com/ZipFile/c9ebedb224406f4f11845ab700124362) :s:
-- [Pixiv OAuth Flow (with Selenium) by upbit](https://gist.github.com/upbit/6edda27cb1644e94183291109b8a5fde)
-- [get pixivpy token](https://github.com/eggplants/get-pixivpy-token)
 
 | Category    | Software | Platform |
 |------------|------|----------|
