@@ -353,12 +353,15 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 ## Player
 
 ### Local
-- [AIMP](https://play.google.com/store/apps/details?id=com.aimp.player) :and::cs:
-- [Flacbox](https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1097564256) :ios::cs:
-- [Oto Music Player](https://play.google.com/store/apps/details?id=com.piyush.music) :and::cs:
-- [Musicolet Music Player](https://play.google.com/store/apps/details?id=in.krosbits.musicolet) :cs:
-- [Poweramp](https://powerampapp.com/) :s::cs::paid:
-- [USB Audio Player PRO](https://play.google.com/store/apps/details?id=com.extreamsd.usbaudioplayerpro&hl=en&gl=US) :and::cs::paid:
+| Player | Platform |
+| :--- | :--- |
+| [AIMP](https://play.google.com/store/apps/details?id=com.aimp.player) :cs: | :and: |
+| [Flacbox](https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1097564256) :cs: | :ios: |
+| [Oto Music Player](https://play.google.com/store/apps/details?id=com.piyush.music) :cs: | :and: |
+| [Musicolet Music Player](https://play.google.com/store/apps/details?id=in.krosbits.musicolet) :cs: | :and: |
+| [Poweramp](https://powerampapp.com/) :s::cs::paid: | :and: |
+| [USB Audio Player PRO](https://play.google.com/store/apps/details?id=com.extreamsd.usbaudioplayerpro&hl=en&gl=US) :cs::paid: | :and: |
+
 
 ### Online
 | Category   | Links   |
@@ -380,10 +383,13 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 
 
 ### Audiobook
-- [Voice](https://github.com/PaulWoitaschek/Voice) :and:
-- [mAbook Audiobook Player](https://play.google.com/store/apps/details?id=mindmine.audiobook) :and::fm::cs:
-- [Smart AudioBook Player](https://play.google.com/store/apps/details?id=ak.alizandro.smartaudiobookplayer) :and::fm::cs:
-- [Sirin Audiobook Player](https://play.google.com/store/apps/details?id=com.sirin.android) :and::fm::cs:
+| Player | Platform |
+| :--- | :--- |
+| [Voice](https://github.com/PaulWoitaschek/Voice) | :and: |
+| [mAbook Audiobook Player](https://play.google.com/store/apps/details?id=mindmine.audiobook) :cs::fm: | :and: |
+| [Smart AudioBook Player](https://play.google.com/store/apps/details?id=ak.alizandro.smartaudiobookplayer) :cs::fm: | :and: |
+| [Sirin Audiobook Player](https://play.google.com/store/apps/details?id=com.sirin.android) :cs::fm: | :and: |
+
 
 ## Tools
 
@@ -409,80 +415,87 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 ## Player
 
 ### Local
-- [AIMP](https://www.aimp.ru/) :s::win::cs:
-- [DeaDBeeF](https://deadbeef.sourceforge.io/) :lin:
-- [Elisa](https://apps.kde.org/elisa/) :win::app::lin: [:src:](https://invent.kde.org/multimedia/elisa)
-- [Foobar2000](https://www.foobar2000.org/) :s::win::app::cs:
-  - [Foobar2000 add-ons](#foobar2000-add-ons)
-- [Fooyin](https://github.com/fooyin/fooyin)
-- [MusicBee](https://www.getmusicbee.com/) :win::cs:
-- [Strawberry](https://www.strawberrymusicplayer.org/) :lin:
-- [WACUP](https://getwacup.com/) :win::cs:
-- [Tauon Music Box](https://tauonmusicbox.rocks/) :win::lin: <Badge type="info" text="Synced Lyrics" link="https://github.com/Taiko2k/TauonMusicBox/wiki/Lyrics#synced-lyrics" />
+| Player | Platform |
+| :--- | :--- |
+| [AIMP](https://www.aimp.ru/) :s::cs: | :win: |
+| [DeaDBeeF](https://deadbeef.sourceforge.io/) [:src:](https://github.com/DeaDBeeF-Player/deadbeef) | :win::app::lin: |
+| [Elisa](https://apps.kde.org/elisa/) [:src:](https://invent.kde.org/multimedia/elisa) | :win::app::lin: |
+| [Foobar2000](https://www.foobar2000.org/) :s::cs: [:e:](#foobar2000-add-ons) | :win::app: |
+| [Fooyin](https://fooyin.org/) [:src:](https://github.com/fooyin/fooyin) | :win::app::lin: |
+| [MusicBee](https://www.getmusicbee.com/) :cs: | :win: |
+| [Strawberry](https://www.strawberrymusicplayer.org/) [:src:](https://github.com/strawberrymusicplayer/strawberry) | :win::app::lin: |
+| [WACUP](https://getwacup.com/) :cs: | :win: |
+| [Tauon Music Box](https://tauonmusicbox.rocks/) [:src:](https://github.com/Taiko2k/Tauon) | :win::app::lin: |
 
 ### Online
-- [SoundCloud](https://github.com/makufelis/SoundCloud-Client) :win:
-- [Spicetify](https://spicetify.app/) :win::app::lin:
-- [SPOTX](https://github.com/SpotX-Official/SpotX) :win:
-- [Official Spotify full installers](https://loadspot.pages.dev/) :win::app::lin:
-- [Harmony Music](https://github.com/anandnet/Harmony-Music) :win::lin:
-- [YouTube Music](https://github.com/th-ch/youtube-music) :win::app::lin:
-- [ytmdesktop2](https://youtube-music.app/) [:src:](https://github.com/Venipa/ytmdesktop2) :win::app::lin:
+| Source | Player | Platform |
+| :--- | :--- | :--- |
+| Spotify | [Spicetify](https://spicetify.app/) | :win::app::lin: |
+| ^^ | [SPOTX](https://github.com/SpotX-Official/SpotX) | :win: |
+| ^^ | [Official Spotify full installers](https://loadspot.pages.dev/) | :win::app::lin: |
+| Youtube | [Pear Desktop](https://github.com/pear-devs/pear-desktop) | :win::app::lin: |
+| ^^ | [ytmdesktop2](https://youtube-music.app/) [:src:](https://github.com/Venipa/ytmdesktop2) | :win::app::lin: |
 
 
 ### Foobar2000 add-ons
-- **Component**
-  - [Coverflow](https://www.foobar2000.org/components/view/foo_chronflow)
-  - [Discord Rich Presence Integration](https://github.com/s0hv/foo_discord_rich) <Badge type="info" text="Catbox" link="https://github.com/realoksi/foobar2000-catbox" /> [:help:](https://s0hv.github.io/foo_discord_rich/)
-  - [Encoder Pack](https://www.foobar2000.org/encoderpack)
-  - [ESLyric](https://github.com/ESLyric/release)
-  - [OpenLyrics](https://www.foobar2000.org/components/view/foo_openlyrics) [:help:](/guides/music/fb2klyrics)
-  - [ReplayGain DSP](https://www.foobar2000.org/components/view/foo_dsp_replaygain)
-- **Theme**
-  - [Georgia-ReBORN](https://github.com/TT-ReBORN/Georgia-ReBORN) 
-  - [Eole](https://github.com/Ottodix/Eole-foobar-theme) 
+| Type | Addon |
+| :--- | :--- |
+| Component | [Coverflow](https://www.foobar2000.org/components/view/foo_chronflow) |
+| ^^ | [Discord Rich Presence Integration](https://github.com/s0hv/foo_discord_rich) <Badge type="info" text="Catbox" link="https://github.com/realoksi/foobar2000-catbox" /> [:help:](https://s0hv.github.io/foo_discord_rich/) |
+| ^^ | [Encoder Pack](https://www.foobar2000.org/encoderpack) |
+| ^^ | [ESLyric](https://github.com/ESLyric/release) |
+| ^^ | [OpenLyrics](https://www.foobar2000.org/components/view/foo_openlyrics) [:help:](/guides/music/fb2klyrics) |
+| ^^ | [ReplayGain DSP](https://www.foobar2000.org/components/view/foo_dsp_replaygain) |
+| Theme | [Georgia-ReBORN](https://github.com/TT-ReBORN/Georgia-ReBORN) |
+| ^^ | [Eole](https://github.com/Ottodix/Eole-foobar-theme) |
 
 
 ## Downloader
-- [Deemix](https://github.com/bambanah/deemix)
-- [OnTheSpot](https://github.com/justin025/onthespot)
-- [Lidarr](https://lidarr.audio/) :win::app::lin:
-- [Nicotine+](https://nicotine-plus.org/) :win::app::lin::mdi-lan-pending: ==Nicotine==
-- [QobuzDownloaderX-MOD](https://github.com/DJDoubleD/QobuzDownloaderX-MOD)
-- [Soggfy](https://github.com/Rafiuth/Soggfy) :win::app::lin:
-- [SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC)
-- [Votify](https://github.com/glomatico/votify)
-- [Zotify](https://github.com/Googolplexed0/zotify)
+| Software | Platform |
+| :--- | :--- |
+| [OnTheSpot](https://github.com/justin025/onthespot) | :win::lin: |
+| [Nicotine+](https://nicotine-plus.org/) ==Nicotine== | :win::app::lin: |
+| [QobuzDownloaderX-MOD](https://github.com/DJDoubleD/QobuzDownloaderX-MOD) | :win: |
+| [Soggfy](https://github.com/Rafiuth/Soggfy) | :win: |
+| [SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC) <tooltip>It maps from spotify to other streaming services. Doesn't download from spotify.</tooltip> | :win::app::lin: |
+| [Votify](https://github.com/glomatico/votify) | :py: |
+| [Zotify](https://github.com/Googolplexed0/zotify) | :py: |
 
 
 ## Browser
 
 ### Extension
-- [AudD Music](https://github.com/AudDMusic) :s::cs: [:ff:](https://addons.mozilla.org/en-US/firefox/addon/audd/)
-- [AHA Music](https://aha-music.com/) :cs: [:cr:](https://chromewebstore.google.com/detail/aha-music-song-finder-for/dpacanjfikmhoddligfbehkpomnbgblf)
-- [Better Lyrics](https://better-lyrics.boidu.dev/) [:src:](https://github.com/boidushya/better-lyrics) :cr::ff:
-- [BetterRYM](https://github.com/jgchk/better-rym) [:cr:](https://chromewebstore.google.com/detail/pdbgknkejapoehgogijhmahhpiimlhjg) [:ff:](https://addons.mozilla.org/en-US/firefox/addon/better-rym/) 
-- [Spotify Lyrics](https://github.com/mantou132/Spotify-Lyrics) :cr::ff:
-- [Spotify New Releases](https://spotify-new-releases.web.app/) :cs: [:cr:](https://chromewebstore.google.com/detail/spotify-new-releases/badbmkjnnimjfhhmknfoikappgmelpjo)
-- [Web Scrobbler](https://github.com/web-scrobbler/web-scrobbler) [:cr:](https://chrome.google.com/webstore/detail/lastfm-scrobbler/hhinaapppaileiechjoiifaancjggfjm) [:ff:](https://addons.mozilla.org/en-US/firefox/addon/web-scrobbler/)
+| Extension | Platform |
+| :--- | :--- |
+| [AHA Music](https://aha-music.com/) :cs: | :cr: |
+| [Better Lyrics](https://better-lyrics.boidu.dev/) [:src:](https://github.com/boidushya/better-lyrics) | :cr::ff: |
+| [Spotify Lyrics](https://github.com/mantou132/Spotify-Lyrics) | :cr::ff: |
+| [Spotify New Releases](https://spotify-new-releases.web.app/) :cs: | :cr: |
+| [Web Scrobbler](https://github.com/web-scrobbler/web-scrobbler) | :cr::ff: |
 
 ### Script
-- [Ame](https://gitlab.com/SuperSaltyGamer/ame) :simple-icons-applemusic::simple-icons-musicbrainz: <Badge text="VGMdb" />
-- [bleh](https://bleh.katelyn.moe/)  <Badge text="Lastfm" />
-- [dzunlock](https://uhwotgit.fly.dev/uhwot/dzunlock)  <Badge text="Deezer" />
-- [Gallery Mode for Lists - RateYourMusic](https://greasyfork.org/en/scripts/434865-gallery-mode-for-lists-rateyourmusic)
-- [MusicBrainz Userscripts](https://musicbrainz.org/doc/Guides/Userscripts)
-- [Slav Art User Scripts](https://rentry.org/slavartuserscripts) <Badge text="Qobuz" />
+| Script | Platform |
+| :--- | :--- |
+| [Ame](https://gitlab.com/SuperSaltyGamer/ame) | Various |
+| [bleh](https://bleh.katelyn.moe/) | Lastfm |
+| [dzunlock](https://uhwotgit.fly.dev/uhwot/dzunlock) | Deezer |
+| [Gallery Mode for Lists](https://greasyfork.org/en/scripts/434865-gallery-mode-for-lists-rateyourmusic) | RateYourMusic |
+| [MusicBrainz Userscripts](https://musicbrainz.org/doc/Guides/Userscripts) | MusicBrainz|
+
 
 ## Converter & Ripper
-- [CUETools](http://cue.tools/wiki/CUETools) :win: [:src:](https://github.com/gchudov/cuetools.net)
-- [dBpoweramp](https://www.dbpoweramp.com/) :win::app::cs: <Badge type="warning" text="Trialware" />
-- [Exact Audio Copy](https://exactaudiocopy.de/) :win:
-- [FFmpeg](https://ffmpeg.org/) :win::app::lin:
-- [fre:ac](https://www.freac.org/) :win::app::lin: [:src:](https://github.com/enzo1982/freac)
-- [SoX](https://sourceforge.net/projects/sox/) :win::app:
-- [X Lossless Decoder](https://tmkk.undo.jp/xld/index_e.html) :app:
-- [Whipper](https://github.com/whipper-team/whipper) :lin:
+| Category | Player | Platform |
+| :--- | :--- | :--- |
+| General | [FFmpeg](https://ffmpeg.org/) | :win::app::lin: |
+| ^^ | [SoX](https://sourceforge.net/projects/sox/) | :win::app: |
+| Converter | [CUETools](http://cue.tools/wiki/CUETools) [:src:](https://github.com/gchudov/cuetools.net) | :win: |
+| ^^ | [dBpoweramp](https://www.dbpoweramp.com/) :cs: <Badge type="warning" text="Trialware" /> | :win::app: |
+| ^^ | [fre:ac](https://www.freac.org/) [:src:](https://github.com/enzo1982/freac) | :win::app::lin: |
+| Ripper | [Cyanrip](https://github.com/cyanreg/cyanrip) | :win::lin::bsd: |
+| ^^ | [Exact Audio Copy](https://exactaudiocopy.de/) | :win: |
+| ^^ | [X Lossless Decoder](https://tmkk.undo.jp/xld/index_e.html) | :app: |
+| ^^ | [Whipper](https://github.com/whipper-team/whipper) | :lin: |
+
 
 ::: details Must Read Guides
 - [redacted Interview Prep](https://interviewfor.red/en/index.html)
@@ -495,23 +508,20 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 
 ## Vocaloid
 
-### Editors
-- [Vocaloid](https://www.vocaloid.com/en/) :cs:
-- [Synthesizer V](https://dreamtonics.com/synthesizerv/) :cs:
-- [Piapro Studio](https://piaprostudio.com/?lang=en) :cs:
-- [CeVIO](https://cevio.jp/) :cs:
-- [OpenUtau](https://www.openutau.com/)
-
-### DAW / Digital Audio Workstation
-- [Ableton](https://www.ableton.com/en/) :cs:
-- [Cubase](https://www.steinberg.net/cubase/) :cs:
-- [FL Studio](https://www.image-line.com/fl-studio/) :cs:
-- [Studio One](https://www.presonus.com/en-US/studio-one.html) :cs:
-
-### Related Links
-- [SynthV.info](https://synthv.info/)
-- [CeVIO Voice Database Installer Archive](https://rentry.org/wotadirect#music)
-- [RuTracker.org](https://rutracker.org/forum/index.php)
+| Category | Player | Platform |
+| :--- | :--- | :--- |
+| Editors | [Vocaloid](https://www.vocaloid.com/en/) :cs: | :win::app: |
+| ^^ | [Synthesizer V](https://dreamtonics.com/synthesizerv/) :cs: | :win::app: |
+| ^^ | [Piapro Studio](https://piaprostudio.com/?lang=en) :cs: | :win::app: |
+| ^^ | [CeVIO](https://cevio.jp/) :cs: | :win: |
+| ^^ | [OpenUtau](https://www.openutau.com/) [:scr:](https://github.com/stakira/OpenUtau) | :win::app::lin: |
+| DAW | [Ableton](https://www.ableton.com/en/) :cs: | :win::app: |
+| ^^ | [Cubase](https://www.steinberg.net/cubase/) :cs: | :win::app: |
+| ^^ | [FL Studio](https://www.image-line.com/fl-studio/) :cs: | :win::app: |
+| ^^ | [Studio One](https://www.presonus.com/en-US/studio-one.html) :cs: | :win: |
+| Related Links | [SynthV.info](https://synthv.info/) | - |
+| ^^ | [CeVIO Voice Database Installer Archive](https://rentry.org/wotadirect#music) | - |
+| ^^ | [RuTracker.org](https://rutracker.org/forum/index.php) | - |
 
 ::: info Introduction / Guide
 - [Explaining Vocaloid in under 3 minutes](https://www.youtube.com/watch?v=GODXMGAMpVc)
@@ -525,26 +535,23 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 
 ## Others
 
-### Checker / Visualizer
-- [Bitter](https://www.stillwellaudio.com/plugins/bitter/) :win::app::cs:
-- [cambia LogTools](https://logs.musichoarders.xyz/) :ff::cr: [:src:](https://github.com/arg274/cambia)
-  - [loggers](https://gitlab.com/SuperSaltyGamer/loggers)
-- [Sonic Visualiser](https://www.sonicvisualiser.org/) :win::app::lin: [:src:](https://github.com/sonic-visualiser/sonic-visualiser/)
-- [Spek](https://www.spek.cc/) :s::win::app::lin: [:src:](https://github.com/alexkay/spek)
-
-### Tagger
-- [MP3Tag](https://www.mp3tag.de/en/) :win::app::cs:
-- [MusicBrainz Picard](https://picard.musicbrainz.org/) :win::app::lin: [:src:](https://github.com/metabrainz/picard)
-- [TagScanner](https://www.xdlab.ru/en/) :win::cs:
-- [beets](https://beets.io/) [:src:](https://github.com/beetbox/beets) [:help:](https://beets.readthedocs.io/en/stable/index.html)
-
-### Misc
-- [Equalizer APO](https://sourceforge.net/projects/equalizerapo/) :win:
-  - [Peace Equalizer](https://sourceforge.net/projects/peace-equalizer-apo-extension/) :win:
-- [JamesDSP](https://flathub.org/en/apps/me.timschneeberger.jdsp4linux) :lin:
-- [Karaoke Mugen](https://mugen.karaokes.moe/en/) :win::app::lin: [:src:](https://gitlab.com/karaokemugen/code/karaokemugen-app)
-- [Pano Scrobbler](https://github.com/kawaiiDango/pano-scrobbler) :win::app::lin:
-- [Music Presence](https://github.com/ungive/discord-music-presence) :win::app::cs:
+| Category | Player | Platform |
+| :--- | :--- | :--- |
+| Checker / Visualizer | [Bitter](https://www.stillwellaudio.com/plugins/bitter/) :cs: | :win::app: |
+| ^^ | [cambia LogTools](https://logs.musichoarders.xyz/) [:src:](https://github.com/arg274/cambia) | :ff::cr: |
+| ^^ | [loggers](https://gitlab.com/SuperSaltyGamer/loggers) | - |
+| ^^ | [Sonic Visualiser](https://www.sonicvisualiser.org/) [:src:](https://github.com/sonic-visualiser/sonic-visualiser/) | :win::app::lin: |
+| ^^ | [Spek](https://www.spek.cc/) :s: [:src:](https://github.com/alexkay/spek) | :win::app::lin: |
+| Tagger | [MP3Tag](https://www.mp3tag.de/en/) :cs: | :win::app: |
+| ^^ | [MusicBrainz Picard](https://picard.musicbrainz.org/) [:src:](https://github.com/metabrainz/picard) | :win::app::lin: |
+| ^^ | [TagScanner](https://www.xdlab.ru/en/) :cs: | :win: |
+| ^^ | [beets](https://beets.io/) [:src:](https://github.com/beetbox/beets) [:help:](https://beets.readthedocs.io/en/stable/index.html) | :py: |
+| Others | [Equalizer APO](https://sourceforge.net/projects/equalizerapo/) | :win: |
+| ^^ | [Peace Equalizer](https://sourceforge.net/projects/peace-equalizer-apo-extension/) | :win: |
+| ^^ | [JamesDSP](https://flathub.org/en/apps/me.timschneeberger.jdsp4linux) | :lin: |
+| ^^ | [Karaoke Mugen](https://mugen.karaokes.moe/en/) [:src:](https://gitlab.com/karaokemugen/code/karaokemugen-app) | :win::app::lin: |
+| ^^ | [Pano Scrobbler](https://github.com/kawaiiDango/pano-scrobbler) | :win::app::lin: |
+| ^^ | [Music Presence](https://github.com/ungive/discord-music-presence) :cs: | :win::app: |
 
 
 
